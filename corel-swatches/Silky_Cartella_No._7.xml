@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="be9d07e4-afda-4797-b3f3-59e0be1ff769" name="No. 7" prefix="" locked="true">
+<colorspaces>
+<cs name="2001 - White" fixedID="1">
+<color cs="RGB" tints="1.0,1.0,1.0"/>
+</cs>
+<cs name="2002 - Black" fixedID="2">
+<color cs="RGB" tints="0.0,0.0,0.0"/>
+</cs>
+<cs name="2003 - Dark Turquoise" fixedID="3">
+<color cs="RGB" tints="0.40784313725490196,0.6509803921568628,0.7647058823529411"/>
+</cs>
+<cs name="2003 - Silver Grey" fixedID="4">
+<color cs="RGB" tints="0.7294117647058823,0.7058823529411765,0.7058823529411765"/>
+</cs>
+<cs name="2004 - Tender Pink" fixedID="5">
+<color cs="RGB" tints="1.0,0.8745098039215686,0.8470588235294118"/>
+</cs>
+<cs name="2005 - Light Orange" fixedID="6">
+<color cs="RGB" tints="0.9725490196078431,0.8509803921568627,0.0"/>
+</cs>
+<cs name="2006 - Gold Pear" fixedID="7">
+<color cs="RGB" tints="0.9490196078431372,0.6784313725490196,0.0"/>
+</cs>
+<cs name="2007 - Turquoise" fixedID="8">
+<color cs="RGB" tints="0.47058823529411764,0.7647058823529411,0.8784313725490196"/>
+</cs>
+<cs name="2008 - Dusty Blue" fixedID="9">
+<color cs="RGB" tints="0.4627450980392157,0.5058823529411764,0.7450980392156863"/>
+</cs>
+<cs name="2009 - Deep Violet" fixedID="10">
+<color cs="RGB" tints="0.8784313725490196,0.4627450980392157,1.0"/>
+</cs>
+<cs name="2010 - Artic Blue" fixedID="11">
+<color cs="RGB" tints="0.0,0.2,0.6"/>
+</cs>
+<cs name="2011 - Maroon" fixedID="12">
+<color cs="RGB" tints="0.6,0.2,0.3137254901960784"/>
+</cs>
+<cs name="2012 - Red" fixedID="13">
+<color cs="RGB" tints="1.0,0.0,0.0"/>
+</cs>
+<cs name="2013 - Blue Steel" fixedID="14">
+<color cs="RGB" tints="0.6705882352941176,0.6784313725490196,0.7725490196078432"/>
+</cs>
+<cs name="2014 - Royal Blue" fixedID="15">
+<color cs="RGB" tints="0.27450980392156865,0.27450980392156865,0.6078431372549019"/>
+</cs>
+<cs name="2015 - Intense Blue" fixedID="16">
+<color cs="RGB" tints="0.0,0.0,0.5058823529411764"/>
+</cs>
+<cs name="2016 - Charcoal Blue" fixedID="17">
+<color cs="RGB" tints="0.0,0.0,0.27450980392156865"/>
+</cs>
+<cs name="2017 - Clover" fixedID="18">
+<color cs="RGB" tints="0.27450980392156865,0.7647058823529411,0.5882352941176471"/>
+</cs>
+<cs name="2018 - Deep Emerald" fixedID="19">
+<color cs="RGB" tints="0.0,0.5411764705882353,0.34901960784313724"/>
+</cs>
+<cs name="2019 - Dark Teal" fixedID="20">
+<color cs="RGB" tints="0.34901960784313724,0.47058823529411764,0.5490196078431373"/>
+</cs>
+<cs name="2020 - Pale Blue" fixedID="21">
+<color cs="RGB" tints="0.8235294117647058,0.8627450980392157,1.0"/>
+</cs>
+<cs name="2021 - Burnished Brown" fixedID="22">
+<color cs="RGB" tints="0.6705882352941176,0.47843137254901963,0.30196078431372547"/>
+</cs>
+<cs name="2022 - Dark Copper Brown" fixedID="23">
+<color cs="RGB" tints="0.34901960784313724,0.1843137254901961,0.11372549019607843"/>
+</cs>
+<cs name="2023 - Lemon" fixedID="24">
+<color cs="RGB" tints="0.9647058823529412,0.9411764705882353,0.5882352941176471"/>
+</cs>
+<cs name="2024 - Flaxen Gold" fixedID="25">
+<color cs="RGB" tints="0.9725490196078431,0.7568627450980392,0.41568627450980394"/>
+</cs>
+<cs name="2025 - Sky Blue" fixedID="26">
+<color cs="RGB" tints="0.7647058823529411,0.7725490196078432,1.0"/>
+</cs>
+<cs name="2026 - Tomato" fixedID="27">
+<color cs="RGB" tints="1.0,0.27450980392156865,0.0"/>
+</cs>
+<cs name="2027 - Emerald" fixedID="28">
+<color cs="RGB" tints="0.3411764705882353,0.6666666666666666,0.4627450980392157"/>
+</cs>
+<cs name="2028 - Dark Violet" fixedID="29">
+<color cs="RGB" tints="0.592156862745098,0.32941176470588235,0.5882352941176471"/>
+</cs>
+<cs name="2029 - Scarlet" fixedID="30">
+<color cs="RGB" tints="0.6627450980392157,0.11764705882352941,0.0"/>
+</cs>
+<cs name="2030 - Biege" fixedID="31">
+<color cs="RGB" tints="0.9137254901960784,0.8352941176470589,0.7294117647058823"/>
+</cs>
+<cs name="2031 - Purple Maroon" fixedID="32">
+<color cs="RGB" tints="0.807843137254902,0.23529411764705882,0.45098039215686275"/>
+</cs>
+<cs name="2032 - Artic" fixedID="33">
+<color cs="RGB" tints="0.9372549019607843,0.9372549019607843,0.9372549019607843"/>
+</cs>
+<cs name="2034 - Blue Teal" fixedID="34">
+<color cs="RGB" tints="0.0,0.5294117647058824,0.6588235294117647"/>
+</cs>
+<cs name="2035 - Deep Khaki Green" fixedID="35">
+<color cs="RGB" tints="0.30196078431372547,0.3803921568627451,0.28627450980392155"/>
+</cs>
+<cs name="2036 - Pink" fixedID="36">
+<color cs="RGB" tints="0.9647058823529412,0.7647058823529411,0.7372549019607844"/>
+</cs>
+<cs name="2037 - Orange" fixedID="37">
+<color cs="RGB" tints="0.9215686274509803,0.6274509803921569,0.0"/>
+</cs>
+<cs name="2038 - Khaki Olive" fixedID="38">
+<color cs="RGB" tints="0.596078431372549,0.6,0.4"/>
+</cs>
+<cs name="2039 - Deep Forest" fixedID="39">
+<color cs="RGB" tints="0.0,0.3137254901960784,0.0"/>
+</cs>
+<cs name="2040 - Carrot" fixedID="40">
+<color cs="RGB" tints="1.0,0.5294117647058824,0.19607843137254902"/>
+</cs>
+<cs name="2041 - Red Copper" fixedID="41">
+<color cs="RGB" tints="0.9019607843137255,0.35294117647058826,0.23529411764705882"/>
+</cs>
+<cs name="2042 - Intense Purple" fixedID="42">
+<color cs="RGB" tints="0.43137254901960786,0.23529411764705882,0.5098039215686274"/>
+</cs>
+<cs name="2043 - Steel" fixedID="43">
+<color cs="RGB" tints="0.4196078431372549,0.4588235294117647,0.5803921568627451"/>
+</cs>
+<cs name="2044 - Pinkish Hue" fixedID="44">
+<color cs="RGB" tints="1.0,0.7058823529411765,0.6274509803921569"/>
+</cs>
+<cs name="2045 - Grey Blue" fixedID="45">
+<color cs="RGB" tints="0.6470588235294118,0.6941176470588235,0.8431372549019608"/>
+</cs>
+<cs name="2046 - Gold Orange" fixedID="46">
+<color cs="RGB" tints="0.9137254901960784,0.7725490196078432,0.0"/>
+</cs>
+<cs name="2047 - Royal Purple" fixedID="47">
+<color cs="RGB" tints="0.37254901960784315,0.1843137254901961,0.41568627450980394"/>
+</cs>
+<cs name="2048 - Burnished Copper" fixedID="48">
+<color cs="RGB" tints="0.7490196078431373,0.5372549019607843,0.34901960784313724"/>
+</cs>
+<cs name="2049 - Brown Grey" fixedID="49">
+<color cs="RGB" tints="0.6274509803921569,0.5568627450980392,0.5372549019607843"/>
+</cs>
+<cs name="2050 - Intense Teal" fixedID="50">
+<color cs="RGB" tints="0.0,0.5019607843137255,0.4627450980392157"/>
+</cs>
+<cs name="2051 - Blueish Purple" fixedID="51">
+<color cs="RGB" tints="0.5372549019607843,0.5058823529411764,0.7294117647058823"/>
+</cs>
+<cs name="2052 - Burgandy" fixedID="52">
+<color cs="RGB" tints="0.6078431372549019,0.19607843137254902,0.29411764705882354"/>
+</cs>
+<cs name="2053 - Black Navy" fixedID="53">
+<color cs="RGB" tints="0.0,0.1568627450980392,0.27450980392156865"/>
+</cs>
+<cs name="2054 - Brown Mare" fixedID="54">
+<color cs="RGB" tints="0.807843137254902,0.5803921568627451,0.32941176470588235"/>
+</cs>
+<cs name="2055 - Black Blue" fixedID="55">
+<color cs="RGB" tints="0.0,0.0,0.1568627450980392"/>
+</cs>
+<cs name="2056 - Pinkish Purple" fixedID="56">
+<color cs="RGB" tints="0.9058823529411765,0.5686274509803921,0.5490196078431373"/>
+</cs>
+<cs name="2057 - Marine Teal" fixedID="57">
+<color cs="RGB" tints="0.0,0.4,0.5058823529411764"/>
+</cs>
+<cs name="2058 - Pale Emerald" fixedID="58">
+<color cs="RGB" tints="0.3411764705882353,0.7568627450980392,0.5490196078431373"/>
+</cs>
+<cs name="2059 - Intense Green" fixedID="59">
+<color cs="RGB" tints="0.19215686274509805,0.3411764705882353,0.19215686274509805"/>
+</cs>
+<cs name="2060 - Olive Copper" fixedID="60">
+<color cs="RGB" tints="0.6784313725490196,0.5725490196078431,0.2"/>
+</cs>
+<cs name="2061 - Dark Olive Green" fixedID="61">
+<color cs="RGB" tints="0.42745098039215684,0.4,0.2"/>
+</cs>
+<cs name="2062 - Dark Blue Steel" fixedID="62">
+<color cs="RGB" tints="0.0,0.33725490196078434,0.40784313725490196"/>
+</cs>
+<cs name="2063 - Pinkish Biege" fixedID="63">
+<color cs="RGB" tints="0.9568627450980393,0.792156862745098,0.7450980392156863"/>
+</cs>
+<cs name="2064 - Shrinking Violet" fixedID="64">
+<color cs="RGB" tints="0.8352941176470589,0.6941176470588235,1.0"/>
+</cs>
+<cs name="2065 - Khaki Green" fixedID="65">
+<color cs="RGB" tints="0.6666666666666666,0.803921568627451,0.4"/>
+</cs>
+<cs name="2066 - Flax" fixedID="66">
+<color cs="RGB" tints="0.9490196078431372,0.8941176470588236,0.47843137254901963"/>
+</cs>
+<cs name="2067 - Creamy Green" fixedID="67">
+<color cs="RGB" tints="0.7725490196078432,0.9215686274509803,0.7294117647058823"/>
+</cs>
+<cs name="2068 - Pale Grey Gold" fixedID="68">
+<color cs="RGB" tints="0.8274509803921568,0.7843137254901961,0.6941176470588235"/>
+</cs>
+<cs name="2069 - Rhubard" fixedID="69">
+<color cs="RGB" tints="0.9215686274509803,0.30196078431372547,0.5215686274509804"/>
+</cs>
+<cs name="2070 - Coldstream" fixedID="70">
+<color cs="RGB" tints="0.8235294117647058,0.1568627450980392,0.0"/>
+</cs>
+<cs name="2071 - Off White" fixedID="71">
+<color cs="RGB" tints="1.0,1.0,0.9607843137254902"/>
+</cs>
+</colorspaces>
+</palette>

@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="64819182-8436-4134-b935-01568b3b2c4f" name="Poly40" prefix="" locked="true">
+<colorspaces>
+<cs name="﻿61001" fixedID="1">
+<color cs="RGB" tints="0.9568627450980393,0.9568627450980393,0.9725490196078431"/>
+</cs>
+<cs name="61002 - Soft White" fixedID="2">
+<color cs="RGB" tints="0.9607843137254902,0.9333333333333333,0.9490196078431372"/>
+</cs>
+<cs name="61005 - Black" fixedID="3">
+<color cs="RGB" tints="0.12549019607843137,0.01568627450980392,0.08627450980392157"/>
+</cs>
+<cs name="61011 - Steel Gray" fixedID="4">
+<color cs="RGB" tints="0.5882352941176471,0.5882352941176471,0.5843137254901961"/>
+</cs>
+<cs name="61015 - Medium Peach" fixedID="5">
+<color cs="RGB" tints="0.9921568627450981,0.803921568627451,0.796078431372549"/>
+</cs>
+<cs name="61017 - Pastel Peach" fixedID="6">
+<color cs="RGB" tints="0.9372549019607843,0.792156862745098,0.6823529411764706"/>
+</cs>
+<cs name="61019 - Peach" fixedID="7">
+<color cs="RGB" tints="1.0,0.5882352941176471,0.5254901960784314"/>
+</cs>
+<cs name="61020 - Dark Peach" fixedID="8">
+<color cs="RGB" tints="1.0,0.4588235294117647,0.4392156862745098"/>
+</cs>
+<cs name="61021 - Maple" fixedID="9">
+<color cs="RGB" tints="0.796078431372549,0.23137254901960785,0.10980392156862745"/>
+</cs>
+<cs name="61022 - Cream" fixedID="10">
+<color cs="RGB" tints="0.9607843137254902,0.9529411764705882,0.8352941176470589"/>
+</cs>
+<cs name="61023 - Yellow" fixedID="11">
+<color cs="RGB" tints="1.0,0.8705882352941177,0.0196078431372549"/>
+</cs>
+<cs name="61024 - Goldenrod" fixedID="12">
+<color cs="RGB" tints="1.0,0.6823529411764706,0.0"/>
+</cs>
+<cs name="61025 - Mine Gold" fixedID="13">
+<color cs="RGB" tints="0.8313725490196079,0.4588235294117647,0.0"/>
+</cs>
+<cs name="61028 - Baby Blue" fixedID="14">
+<color cs="RGB" tints="0.5058823529411764,0.5137254901960784,0.8"/>
+</cs>
+<cs name="61029 - Medium Blue" fixedID="15">
+<color cs="RGB" tints="0.41568627450980394,0.5019607843137255,0.8627450980392157"/>
+</cs>
+<cs name="61030 - Periwinkle" fixedID="16">
+<color cs="RGB" tints="0.6431372549019608,0.7098039215686275,0.9176470588235294"/>
+</cs>
+<cs name="61031 - Medium Orchid" fixedID="17">
+<color cs="RGB" tints="0.8392156862745098,0.7019607843137254,0.803921568627451"/>
+</cs>
+<cs name="61032 - Medium Purple" fixedID="18">
+<color cs="RGB" tints="0.592156862745098,0.30196078431372547,0.7058823529411765"/>
+</cs>
+<cs name="61033 - Dark Orchid" fixedID="19">
+<color cs="RGB" tints="0.7019607843137254,0.17254901960784313,0.5725490196078431"/>
+</cs>
+<cs name="61034 - Burgundy" fixedID="20">
+<color cs="RGB" tints="0.6549019607843137,0.16862745098039217,0.2901960784313726"/>
+</cs>
+<cs name="61035 - Dark Burgundy" fixedID="21">
+<color cs="RGB" tints="0.403921568627451,0.06666666666666667,0.09803921568627451"/>
+</cs>
+<cs name="61036 - Cordovan" fixedID="22">
+<color cs="RGB" tints="0.5450980392156862,0.21176470588235294,0.20392156862745098"/>
+</cs>
+<cs name="61037 - Light Red" fixedID="23">
+<color cs="RGB" tints="0.9098039215686274,0.00784313725490196,0.0"/>
+</cs>
+<cs name="61039 - True Red" fixedID="24">
+<color cs="RGB" tints="0.792156862745098,0.0,0.0196078431372549"/>
+</cs>
+<cs name="61040 - Medium Dark Khaki" fixedID="25">
+<color cs="RGB" tints="0.41568627450980394,0.3686274509803922,0.3686274509803922"/>
+</cs>
+<cs name="61041 - Medium Dark Gray" fixedID="26">
+<color cs="RGB" tints="0.4588235294117647,0.4470588235294118,0.4470588235294118"/>
+</cs>
+<cs name="61042 - Deep Royal" fixedID="27">
+<color cs="RGB" tints="0.13333333333333333,0.07058823529411765,0.4196078431372549"/>
+</cs>
+<cs name="61043 - Dark Navy" fixedID="28">
+<color cs="RGB" tints="0.2196078431372549,0.14901960784313725,0.23529411764705882"/>
+</cs>
+<cs name="61044 - Midnight Blue" fixedID="29">
+<color cs="RGB" tints="0.11372549019607843,0.023529411764705882,0.1843137254901961"/>
+</cs>
+<cs name="61045 - Light Teal" fixedID="30">
+<color cs="RGB" tints="0.5450980392156862,0.796078431372549,0.796078431372549"/>
+</cs>
+<cs name="61046 - Teal" fixedID="31">
+<color cs="RGB" tints="0.42745098039215684,0.5607843137254902,0.5607843137254902"/>
+</cs>
+<cs name="61047 - Mint Green" fixedID="32">
+<color cs="RGB" tints="0.7490196078431373,0.8117647058823529,0.6313725490196078"/>
+</cs>
+<cs name="61049 - Grass Green" fixedID="33">
+<color cs="RGB" tints="0.4196078431372549,0.6313725490196078,0.40784313725490196"/>
+</cs>
+<cs name="61051 - Christmas Green" fixedID="34">
+<color cs="RGB" tints="0.16470588235294117,0.4235294117647059,0.19215686274509805"/>
+</cs>
+<cs name="61054 - Medium Dark Ecru" fixedID="35">
+<color cs="RGB" tints="0.9098039215686274,0.7333333333333333,0.6235294117647059"/>
+</cs>
+<cs name="61055 - Tawny Tan" fixedID="36">
+<color cs="RGB" tints="0.9137254901960784,0.6862745098039216,0.43137254901960786"/>
+</cs>
+<cs name="61056 - Medium Tawny Tan" fixedID="37">
+<color cs="RGB" tints="0.8156862745098039,0.4549019607843137,0.26666666666666666"/>
+</cs>
+<cs name="61057 - Dark Tawny Tan" fixedID="38">
+<color cs="RGB" tints="0.4588235294117647,0.13333333333333333,0.07058823529411765"/>
+</cs>
+<cs name="61058 - Tawny Brown" fixedID="39">
+<color cs="RGB" tints="0.403921568627451,0.1568627450980392,0.11372549019607843"/>
+</cs>
+<cs name="61059 - Dark Tawny Brown" fixedID="40">
+<color cs="RGB" tints="0.39215686274509803,0.26666666666666666,0.24705882352941178"/>
+</cs>
+<cs name="61061 - Pale Yellow" fixedID="41">
+<color cs="RGB" tints="1.0,0.9176470588235294,0.6509803921568628"/>
+</cs>
+<cs name="61063" fixedID="42">
+<color cs="RGB" tints="0.9411764705882353,0.9764705882352941,0.9137254901960784"/>
+</cs>
+<cs name="61064 - Pale Peach" fixedID="43">
+<color cs="RGB" tints="1.0,0.8352941176470589,0.9254901960784314"/>
+</cs>
+<cs name="61065 - Orange Yellow" fixedID="44">
+<color cs="RGB" tints="1.0,0.5450980392156862,0.0"/>
+</cs>
+<cs name="61066 - Primrose" fixedID="45">
+<color cs="RGB" tints="1.0,0.9333333333333333,0.6431372549019608"/>
+</cs>
+<cs name="61067 - Lemon Yellow" fixedID="46">
+<color cs="RGB" tints="1.0,0.9686274509803922,0.4980392156862745"/>
+</cs>
+<cs name="61068 - Pink Tint" fixedID="47">
+<color cs="RGB" tints="0.9607843137254902,0.9137254901960784,0.9137254901960784"/>
+</cs>
+<cs name="61070 - Gold" fixedID="48">
+<color cs="RGB" tints="0.9098039215686274,0.6823529411764706,0.32941176470588235"/>
+</cs>
+<cs name="61071 - Off White" fixedID="49">
+<color cs="RGB" tints="0.9372549019607843,0.9137254901960784,0.8627450980392157"/>
+</cs>
+<cs name="61074 - Pale Powder Blue" fixedID="50">
+<color cs="RGB" tints="0.8352941176470589,0.8745098039215686,0.996078431372549"/>
+</cs>
+<cs name="61076 - Royal Blue" fixedID="51">
+<color cs="RGB" tints="0.1607843137254902,0.13725490196078433,0.4745098039215686"/>
+</cs>
+<cs name="61077 - Jade Tint" fixedID="52">
+<color cs="RGB" tints="0.7686274509803922,0.8117647058823529,0.807843137254902"/>
+</cs>
+<cs name="61078 - Tangerine" fixedID="53">
+<color cs="RGB" tints="1.0,0.4470588235294118,0.0"/>
+</cs>
+<cs name="61080 - Orchid" fixedID="54">
+<color cs="RGB" tints="0.8156862745098039,0.4627450980392157,0.7568627450980392"/>
+</cs>
+<cs name="61081 - Brick" fixedID="55">
+<color cs="RGB" tints="0.8117647058823529,0.36470588235294116,0.3803921568627451"/>
+</cs>
+<cs name="61082 - Ecru" fixedID="56">
+<color cs="RGB" tints="0.9725490196078431,0.8941176470588236,0.788235294117647"/>
+</cs>
+<cs name="61083 - Spark Gold" fixedID="57">
+<color cs="RGB" tints="1.0,0.788235294117647,0.30980392156862746"/>
+</cs>
+<cs name="61085 - Silver" fixedID="58">
+<color cs="RGB" tints="0.8588235294117647,0.8,0.7647058823529411"/>
+</cs>
+<cs name="61086 - Beach Sand" fixedID="59">
+<color cs="RGB" tints="1.0,1.0,0.9294117647058824"/>
+</cs>
+<cs name="61090 - Deep Peacock" fixedID="60">
+<color cs="RGB" tints="0.10588235294117647,0.47058823529411764,0.5843137254901961"/>
+</cs>
+<cs name="61094 - Medium Turquoise" fixedID="61">
+<color cs="RGB" tints="0.25098039215686274,0.6666666666666666,0.8705882352941177"/>
+</cs>
+<cs name="61095 - Turquoise" fixedID="62">
+<color cs="RGB" tints="0.19215686274509805,0.6666666666666666,0.8196078431372549"/>
+</cs>
+<cs name="61096 - Dark Turquoise" fixedID="63">
+<color cs="RGB" tints="0.027450980392156862,0.3411764705882353,0.5294117647058824"/>
+</cs>
+<cs name="61100 - Light Grass Green" fixedID="64">
+<color cs="RGB" tints="0.7333333333333333,0.8431372549019608,0.6627450980392157"/>
+</cs>
+<cs name="61101 - True Green" fixedID="65">
+<color cs="RGB" tints="0.20784313725490197,0.5333333333333333,0.29411764705882354"/>
+</cs>
+<cs name="61103 - Dark Khaki" fixedID="66">
+<color cs="RGB" tints="0.21568627450980393,0.11764705882352941,0.09411764705882353"/>
+</cs>
+<cs name="61104" fixedID="67">
+<color cs="RGB" tints="0.8,0.8274509803921568,0.5803921568627451"/>
+</cs>
+<cs name="61108 - Light Mauve" fixedID="68">
+<color cs="RGB" tints="1.0,0.5843137254901961,0.7647058823529411"/>
+</cs>
+<cs name="61109 - Hot Pink" fixedID="69">
+<color cs="RGB" tints="0.9450980392156862,0.1803921568627451,0.5176470588235295"/>
+</cs>
+<cs name="61111 - Pastel Orchid" fixedID="70">
+<color cs="RGB" tints="0.9803921568627451,0.7843137254901961,0.8588235294117647"/>
+</cs>
+<cs name="61112 - Royal Purple" fixedID="71">
+<color cs="RGB" tints="0.24705882352941178,0.054901960784313725,0.41568627450980394"/>
+</cs>
+<cs name="61113 - Pastel Mauve" fixedID="72">
+<color cs="RGB" tints="1.0,0.8941176470588236,0.9098039215686274"/>
+</cs>
+<cs name="61115 - Light Pink" fixedID="73">
+<color cs="RGB" tints="1.0,0.803921568627451,0.8549019607843137"/>
+</cs>
+<cs name="61117 - Mauve" fixedID="74">
+<color cs="RGB" tints="1.0,0.7372549019607844,0.792156862745098"/>
+</cs>
+<cs name="61119 - Dark Mauve" fixedID="75">
+<color cs="RGB" tints="0.8549019607843137,0.34509803921568627,0.49019607843137253"/>
+</cs>
+<cs name="61120 - Pale Pink" fixedID="76">
+<color cs="RGB" tints="0.9882352941176471,0.9294117647058824,0.9333333333333333"/>
+</cs>
+<cs name="61121 - Pink" fixedID="77">
+<color cs="RGB" tints="0.9529411764705882,0.6588235294117647,0.8352941176470589"/>
+</cs>
+<cs name="61122 - Purple" fixedID="78">
+<color cs="RGB" tints="0.4,0.050980392156862744,0.38823529411764707"/>
+</cs>
+<cs name="61124 - Sun Yellow" fixedID="79">
+<color cs="RGB" tints="1.0,0.7725490196078432,0.0"/>
+</cs>
+<cs name="61126 - Tan" fixedID="80">
+<color cs="RGB" tints="0.9019607843137255,0.5215686274509804,0.21176470588235294"/>
+</cs>
+<cs name="61127 - Medium Ecru" fixedID="81">
+<color cs="RGB" tints="0.9019607843137255,0.792156862745098,0.6666666666666666"/>
+</cs>
+<cs name="61128 - Dark Ecru" fixedID="82">
+<color cs="RGB" tints="0.615686274509804,0.396078431372549,0.3058823529411765"/>
+</cs>
+<cs name="61129 - Brown" fixedID="83">
+<color cs="RGB" tints="0.4627450980392157,0.10980392156862745,0.11372549019607843"/>
+</cs>
+<cs name="61130 - Dark Brown" fixedID="84">
+<color cs="RGB" tints="0.43137254901960786,0.16470588235294117,0.14901960784313725"/>
+</cs>
+<cs name="61131 - Cloister Brown" fixedID="85">
+<color cs="RGB" tints="0.3254901960784314,0.25882352941176473,0.27450980392156865"/>
+</cs>
+<cs name="61134 - Peacock Blue" fixedID="86">
+<color cs="RGB" tints="0.37254901960784315,0.5647058823529412,0.7333333333333333"/>
+</cs>
+<cs name="61135 - Pastel Yellow" fixedID="87">
+<color cs="RGB" tints="1.0,0.8549019607843137,0.4235294117647059"/>
+</cs>
+<cs name="61137 - Yellow Orange" fixedID="88">
+<color cs="RGB" tints="1.0,0.7058823529411765,0.023529411764705882"/>
+</cs>
+<cs name="61143 - True Blue" fixedID="89">
+<color cs="RGB" tints="0.2235294117647059,0.25098039215686274,0.5568627450980392"/>
+</cs>
+<cs name="61145 - Powder Blue" fixedID="90">
+<color cs="RGB" tints="0.5333333333333333,0.6745098039215687,0.8666666666666667"/>
+</cs>
+<cs name="61147 - Christmas Red" fixedID="91">
+<color cs="RGB" tints="0.7686274509803922,0.0,0.023529411764705882"/>
+</cs>
+<cs name="61148 - Light Coral" fixedID="92">
+<color cs="RGB" tints="1.0,0.6039215686274509,0.6980392156862745"/>
+</cs>
+<cs name="61149 - Deep Ecru" fixedID="93">
+<color cs="RGB" tints="0.8431372549019608,0.6431372549019608,0.49411764705882355"/>
+</cs>
+<cs name="61151 - Powder Blue Tint" fixedID="94">
+<color cs="RGB" tints="0.8392156862745098,0.8980392156862745,0.9098039215686274"/>
+</cs>
+<cs name="61154 - Coral" fixedID="95">
+<color cs="RGB" tints="1.0,0.4823529411764706,0.6274509803921569"/>
+</cs>
+<cs name="61156 - Light Army Green" fixedID="96">
+<color cs="RGB" tints="0.35294117647058826,0.35294117647058826,0.0392156862745098"/>
+</cs>
+<cs name="61158 - Dark Maple" fixedID="97">
+<color cs="RGB" tints="0.5686274509803921,0.17647058823529413,0.06274509803921569"/>
+</cs>
+<cs name="61159 - Temple Gold" fixedID="98">
+<color cs="RGB" tints="0.796078431372549,0.7019607843137254,0.0"/>
+</cs>
+<cs name="61162 - Deep Teal" fixedID="99">
+<color cs="RGB" tints="0.1607843137254902,0.14901960784313725,0.21176470588235294"/>
+</cs>
+<cs name="61165 - Light Sky Blue" fixedID="100">
+<color cs="RGB" tints="0.7450980392156863,0.803921568627451,0.8666666666666667"/>
+</cs>
+<cs name="61166 - Medium Steel Gray" fixedID="101">
+<color cs="RGB" tints="0.40784313725490196,0.3803921568627451,0.3764705882352941"/>
+</cs>
+<cs name="61167 - Maize Yellow" fixedID="102">
+<color cs="RGB" tints="1.0,0.8509803921568627,0.47058823529411764"/>
+</cs>
+<cs name="61168 - True Orange" fixedID="103">
+<color cs="RGB" tints="1.0,0.5137254901960784,0.11372549019607843"/>
+</cs>
+<cs name="61169 - Bayberry Red" fixedID="104">
+<color cs="RGB" tints="0.5019607843137255,0.07058823529411765,0.08235294117647059"/>
+</cs>
+<cs name="61170 - Light Brown" fixedID="105">
+<color cs="RGB" tints="0.5019607843137255,0.24705882352941178,0.16470588235294117"/>
+</cs>
+<cs name="61171 - Weathered Blue" fixedID="106">
+<color cs="RGB" tints="0.3215686274509804,0.2,0.3333333333333333"/>
+</cs>
+<cs name="61172 - Medium Weathered Blue" fixedID="107">
+<color cs="RGB" tints="0.403921568627451,0.3686274509803922,0.49019607843137253"/>
+</cs>
+<cs name="61173 - Medium Army Green" fixedID="108">
+<color cs="RGB" tints="0.5019607843137255,0.3843137254901961,0.29411764705882354"/>
+</cs>
+<cs name="61174 - Dark Pine Green" fixedID="109">
+<color cs="RGB" tints="0.10588235294117647,0.30980392156862746,0.043137254901960784"/>
+</cs>
+<cs name="61175 - Dark Avocado" fixedID="110">
+<color cs="RGB" tints="0.3803921568627451,0.3764705882352941,0.24705882352941178"/>
+</cs>
+<cs name="61176 - Medium Dark Avocado" fixedID="111">
+<color cs="RGB" tints="0.4,0.39215686274509803,0.12941176470588237"/>
+</cs>
+<cs name="61177 - Avocado" fixedID="112">
+<color cs="RGB" tints="0.6823529411764706,0.6980392156862745,0.33725490196078434"/>
+</cs>
+<cs name="61179 - Dark Taupe" fixedID="113">
+<color cs="RGB" tints="0.5686274509803921,0.37254901960784315,0.396078431372549"/>
+</cs>
+<cs name="61180 - Medium Taupe" fixedID="114">
+<color cs="RGB" tints="0.5686274509803921,0.4,0.37254901960784315"/>
+</cs>
+<cs name="61181 - Rust" fixedID="115">
+<color cs="RGB" tints="0.7607843137254902,0.13725490196078433,0.0784313725490196"/>
+</cs>
+<cs name="61183 - Black Cherry" fixedID="116">
+<color cs="RGB" tints="0.17254901960784313,0.047058823529411764,0.3058823529411765"/>
+</cs>
+<cs name="61184 - Orange Red" fixedID="117">
+<color cs="RGB" tints="1.0,0.28627450980392155,0.0196078431372549"/>
+</cs>
+<cs name="61185 - Golden Yellow" fixedID="118">
+<color cs="RGB" tints="1.0,0.6392156862745098,0.0"/>
+</cs>
+<cs name="61187 - Mimosa Yellow" fixedID="119">
+<color cs="RGB" tints="1.0,0.8392156862745098,0.0"/>
+</cs>
+<cs name="61189 - Dark Chestnut" fixedID="120">
+<color cs="RGB" tints="0.25882352941176473,0.03137254901960784,0.3803921568627451"/>
+</cs>
+<cs name="61190 - Medium Burgundy" fixedID="121">
+<color cs="RGB" tints="0.6235294117647059,0.13725490196078433,0.2784313725490196"/>
+</cs>
+<cs name="61191 - Dark Rose" fixedID="122">
+<color cs="RGB" tints="0.8352941176470589,0.01568627450980392,0.4627450980392157"/>
+</cs>
+<cs name="61192 - Fuchsia" fixedID="123">
+<color cs="RGB" tints="0.7372549019607844,0.023529411764705882,0.40784313725490196"/>
+</cs>
+<cs name="61193 - Lavender" fixedID="124">
+<color cs="RGB" tints="0.6745098039215687,0.5019607843137255,0.7294117647058823"/>
+</cs>
+<cs name="61194 - Light Purple" fixedID="125">
+<color cs="RGB" tints="0.5686274509803921,0.2901960784313726,0.7058823529411765"/>
+</cs>
+<cs name="61195 - Dark Purple" fixedID="126">
+<color cs="RGB" tints="0.2627450980392157,0.0784313725490196,0.403921568627451"/>
+</cs>
+<cs name="61196 - Blue" fixedID="127">
+<color cs="RGB" tints="0.34509803921568627,0.403921568627451,0.796078431372549"/>
+</cs>
+<cs name="61197 - Medium Navy" fixedID="128">
+<color cs="RGB" tints="0.2784313725490196,0.10196078431372549,0.37254901960784315"/>
+</cs>
+<cs name="61198 - Dusty Navy" fixedID="129">
+<color cs="RGB" tints="0.33725490196078434,0.23529411764705882,0.49019607843137253"/>
+</cs>
+<cs name="61200 - Medium Dark Navy" fixedID="130">
+<color cs="RGB" tints="0.16470588235294117,0.08627450980392157,0.34509803921568627"/>
+</cs>
+<cs name="61203 - Light Weathered Blue" fixedID="131">
+<color cs="RGB" tints="0.6784313725490196,0.7215686274509804,0.8274509803921568"/>
+</cs>
+<cs name="61206 - Dark Jade" fixedID="132">
+<color cs="RGB" tints="0.2549019607843137,0.36470588235294116,0.45098039215686275"/>
+</cs>
+<cs name="61208 - Mallard Green" fixedID="133">
+<color cs="RGB" tints="0.19607843137254902,0.3411764705882353,0.2901960784313726"/>
+</cs>
+<cs name="61209 - Light Avocado" fixedID="134">
+<color cs="RGB" tints="0.8196078431372549,0.7568627450980392,0.5176470588235295"/>
+</cs>
+<cs name="61211 - Light Khaki" fixedID="135">
+<color cs="RGB" tints="0.5764705882352941,0.49411764705882355,0.4117647058823529"/>
+</cs>
+<cs name="61212 - Khaki" fixedID="136">
+<color cs="RGB" tints="0.49019607843137253,0.43137254901960786,0.35294117647058826"/>
+</cs>
+<cs name="61214 - Medium Chestnut" fixedID="137">
+<color cs="RGB" tints="0.4470588235294118,0.25098039215686274,0.2901960784313726"/>
+</cs>
+<cs name="61218 - Silver Gray" fixedID="138">
+<color cs="RGB" tints="0.7529411764705882,0.7137254901960784,0.7019607843137254"/>
+</cs>
+<cs name="61219 - Gray" fixedID="139">
+<color cs="RGB" tints="0.403921568627451,0.3803921568627451,0.3764705882352941"/>
+</cs>
+<cs name="61220 - Charcoal Gray" fixedID="140">
+<color cs="RGB" tints="0.30196078431372547,0.25098039215686274,0.26666666666666666"/>
+</cs>
+<cs name="61222 - Light Baby Blue" fixedID="141">
+<color cs="RGB" tints="0.5529411764705883,0.6980392156862745,0.9411764705882353"/>
+</cs>
+<cs name="61224 - Bright Pink" fixedID="142">
+<color cs="RGB" tints="1.0,0.5411764705882353,0.7529411764705882"/>
+</cs>
+<cs name="61225 - Pastel Pink" fixedID="143">
+<color cs="RGB" tints="1.0,0.8235294117647058,0.9450980392156862"/>
+</cs>
+<cs name="61230 - Dark Teal" fixedID="144">
+<color cs="RGB" tints="0.19215686274509805,0.403921568627451,0.4470588235294118"/>
+</cs>
+<cs name="61231 - Medium Rose" fixedID="145">
+<color cs="RGB" tints="1.0,0.054901960784313725,0.43529411764705883"/>
+</cs>
+<cs name="61235 - Deep Purple" fixedID="146">
+<color cs="RGB" tints="0.20392156862745098,0.050980392156862744,0.4196078431372549"/>
+</cs>
+<cs name="61236 - Light Silver" fixedID="147">
+<color cs="RGB" tints="0.8862745098039215,0.8470588235294118,0.8823529411764706"/>
+</cs>
+<cs name="61249 - Cornflower Blue" fixedID="148">
+<color cs="RGB" tints="0.396078431372549,0.7058823529411765,0.8901960784313725"/>
+</cs>
+<cs name="61252 - Bright Peacock" fixedID="149">
+<color cs="RGB" tints="0.0,0.5254901960784314,0.7764705882352941"/>
+</cs>
+<cs name="61253 - Dark Sapphire" fixedID="150">
+<color cs="RGB" tints="0.0,0.3411764705882353,0.6352941176470588"/>
+</cs>
+<cs name="61255 - Deep Orchid" fixedID="151">
+<color cs="RGB" tints="0.6666666666666666,0.0196078431372549,0.5803921568627451"/>
+</cs>
+<cs name="61258 - Coral Reed" fixedID="152">
+<color cs="RGB" tints="1.0,0.788235294117647,0.6549019607843137"/>
+</cs>
+<cs name="61259 - Salmon Peach" fixedID="153">
+<color cs="RGB" tints="0.996078431372549,0.49019607843137253,0.43137254901960786"/>
+</cs>
+<cs name="61350 - Polar White" fixedID="154">
+<color cs="RGB" tints="0.9568627450980393,0.9568627450980393,0.9725490196078431"/>
+</cs>
+<cs name="61351 - Pure White" fixedID="155">
+<color cs="RGB" tints="0.9568627450980393,0.9568627450980393,0.9725490196078431"/>
+</cs>
+<cs name="61352 - Piano Black" fixedID="156">
+<color cs="RGB" tints="0.13725490196078433,0.1568627450980392,0.0"/>
+</cs>
+<cs name="61353 - Battleship Gray" fixedID="157">
+<color cs="RGB" tints="0.3176470588235294,0.3686274509803922,0.38823529411764707"/>
+</cs>
+<cs name="61354 - Dark Cool Gray" fixedID="158">
+<color cs="RGB" tints="0.23921568627450981,0.22745098039215686,0.2196078431372549"/>
+</cs>
+<cs name="61355 - Light Gray" fixedID="159">
+<color cs="RGB" tints="0.3803921568627451,0.3843137254901961,0.42745098039215684"/>
+</cs>
+<cs name="61356 - Light Cool Gray" fixedID="160">
+<color cs="RGB" tints="0.48627450980392156,0.49019607843137253,0.5411764705882353"/>
+</cs>
+<cs name="61357 - Dove Gray" fixedID="161">
+<color cs="RGB" tints="0.6745098039215687,0.6588235294117647,0.6666666666666666"/>
+</cs>
+<cs name="61358 - Cadet Gray" fixedID="162">
+<color cs="RGB" tints="0.3803921568627451,0.30196078431372547,0.28627450980392155"/>
+</cs>
+<cs name="61359 - Light Yellow" fixedID="163">
+<color cs="RGB" tints="0.8588235294117647,0.7450980392156863,0.0"/>
+</cs>
+<cs name="61360 - Deep Gold Green" fixedID="164">
+<color cs="RGB" tints="0.44313725490196076,0.25882352941176473,0.0"/>
+</cs>
+<cs name="61361 - Light Olive" fixedID="165">
+<color cs="RGB" tints="0.5098039215686274,0.41568627450980394,0.0"/>
+</cs>
+<cs name="61362 - Medium Olive" fixedID="166">
+<color cs="RGB" tints="0.36470588235294116,0.3137254901960784,0.15294117647058825"/>
+</cs>
+<cs name="61363 - Dark Olive" fixedID="167">
+<color cs="RGB" tints="0.34509803921568627,0.2901960784313726,0.24705882352941178"/>
+</cs>
+<cs name="61364 - Light Sepia" fixedID="168">
+<color cs="RGB" tints="0.6666666666666666,0.45098039215686275,0.0"/>
+</cs>
+<cs name="61365 - Bright Yellow" fixedID="169">
+<color cs="RGB" tints="0.9529411764705882,0.8156862745098039,0.0"/>
+</cs>
+<cs name="61366 - Greige" fixedID="170">
+<color cs="RGB" tints="0.6235294117647059,0.5803921568627451,0.47058823529411764"/>
+</cs>
+<cs name="61367 - Amber" fixedID="171">
+<color cs="RGB" tints="0.9490196078431372,0.5725490196078431,0.0"/>
+</cs>
+<cs name="61368 - Curry Powder" fixedID="172">
+<color cs="RGB" tints="0.8588235294117647,0.4745098039215686,0.0"/>
+</cs>
+<cs name="61369 - Egg Yolk" fixedID="173">
+<color cs="RGB" tints="0.9921568627450981,0.7686274509803922,0.1568627450980392"/>
+</cs>
+<cs name="61370 - Umber" fixedID="174">
+<color cs="RGB" tints="0.4,0.24313725490196078,0.21568627450980393"/>
+</cs>
+<cs name="61371 - Camo Brown" fixedID="175">
+<color cs="RGB" tints="0.34901960784313724,0.23529411764705882,0.08235294117647059"/>
+</cs>
+<cs name="61372 - Beige" fixedID="176">
+<color cs="RGB" tints="0.7529411764705882,0.6078431372549019,0.36470588235294116"/>
+</cs>
+<cs name="61373 - Dark Amber" fixedID="177">
+<color cs="RGB" tints="1.0,0.5490196078431373,0.0"/>
+</cs>
+<cs name="61374 - Butcher Block" fixedID="178">
+<color cs="RGB" tints="0.6784313725490196,0.4196078431372549,0.0"/>
+</cs>
+<cs name="61375 - Light Caramel" fixedID="179">
+<color cs="RGB" tints="0.7450980392156863,0.47058823529411764,0.12941176470588237"/>
+</cs>
+<cs name="61376 - Light Tawny" fixedID="180">
+<color cs="RGB" tints="0.8274509803921568,0.5882352941176471,0.37254901960784315"/>
+</cs>
+<cs name="61377 - Iced Coffee" fixedID="181">
+<color cs="RGB" tints="0.4823529411764706,0.2627450980392157,0.15294117647058825"/>
+</cs>
+<cs name="61378 - Pale Ecru" fixedID="182">
+<color cs="RGB" tints="0.8627450980392157,0.8196078431372549,0.7294117647058823"/>
+</cs>
+<cs name="61379 - Medium Khaki" fixedID="183">
+<color cs="RGB" tints="0.5372549019607843,0.4823529411764706,0.3764705882352941"/>
+</cs>
+<cs name="61380 - Pale Brown" fixedID="184">
+<color cs="RGB" tints="0.4549019607843137,0.3686274509803922,0.35294117647058826"/>
+</cs>
+<cs name="61381 - Ochre" fixedID="185">
+<color cs="RGB" tints="0.7137254901960784,0.23137254901960785,0.0"/>
+</cs>
+<cs name="61382 - Sienna" fixedID="186">
+<color cs="RGB" tints="0.5607843137254902,0.3803921568627451,0.21176470588235294"/>
+</cs>
+<cs name="61383 - Yellow Ochre" fixedID="187">
+<color cs="RGB" tints="0.6235294117647059,0.2901960784313726,0.0"/>
+</cs>
+<cs name="61384 - Red Brass" fixedID="188">
+<color cs="RGB" tints="0.4196078431372549,0.2,0.0"/>
+</cs>
+<cs name="61385 - Russet" fixedID="189">
+<color cs="RGB" tints="0.33725490196078434,0.13333333333333333,0.10588235294117647"/>
+</cs>
+<cs name="61386 - Burnt Umber" fixedID="190">
+<color cs="RGB" tints="0.3686274509803922,0.12549019607843137,0.13333333333333333"/>
+</cs>
+<cs name="61387 - Light Apricot" fixedID="191">
+<color cs="RGB" tints="0.9607843137254902,0.7607843137254902,0.6196078431372549"/>
+</cs>
+<cs name="61388 - Afterglow" fixedID="192">
+<color cs="RGB" tints="0.4980392156862745,0.3058823529411765,0.30196078431372547"/>
+</cs>
+<cs name="61389 - Mocha" fixedID="193">
+<color cs="RGB" tints="0.7529411764705882,0.615686274509804,0.4745098039215686"/>
+</cs>
+<cs name="61390 - Medium Rust" fixedID="194">
+<color cs="RGB" tints="0.6745098039215687,0.0,0.0"/>
+</cs>
+<cs name="61391 - Tuscan Red" fixedID="195">
+<color cs="RGB" tints="0.5843137254901961,0.22745098039215686,0.0392156862745098"/>
+</cs>
+<cs name="61392" fixedID="196">
+<color cs="RGB" tints="0.9137254901960784,0.0,0.0"/>
+</cs>
+<cs name="61393 - Bright Red" fixedID="197">
+<color cs="RGB" tints="0.8431372549019608,0.0,0.0"/>
+</cs>
+<cs name="61394 - Blush" fixedID="198">
+<color cs="RGB" tints="0.8627450980392157,0.5882352941176471,0.5843137254901961"/>
+</cs>
+<cs name="61395 - Stop Sign Red" fixedID="199">
+<color cs="RGB" tints="0.7176470588235294,0.0,0.0"/>
+</cs>
+<cs name="61396 - Bubblegum" fixedID="200">
+<color cs="RGB" tints="1.0,0.45098039215686275,0.5529411764705883"/>
+</cs>
+<cs name="61397 - Brown Sugar" fixedID="201">
+<color cs="RGB" tints="0.2784313725490196,0.1803921568627451,0.15294117647058825"/>
+</cs>
+<cs name="61398 - Firecracker Red" fixedID="202">
+<color cs="RGB" tints="0.7647058823529411,0.0,0.0"/>
+</cs>
+<cs name="61399 - Dark Lipstick Red" fixedID="203">
+<color cs="RGB" tints="0.5686274509803921,0.0,0.0"/>
+</cs>
+<cs name="61400 - Carmine Red" fixedID="204">
+<color cs="RGB" tints="0.48627450980392156,0.0,0.0"/>
+</cs>
+<cs name="61401 - Maroon Red" fixedID="205">
+<color cs="RGB" tints="0.5176470588235295,0.0,0.0"/>
+</cs>
+<cs name="61402 - Claret" fixedID="206">
+<color cs="RGB" tints="0.43137254901960786,0.12941176470588237,0.0"/>
+</cs>
+<cs name="61403 - Light Burgundy" fixedID="207">
+<color cs="RGB" tints="0.8901960784313725,0.5058823529411764,0.615686274509804"/>
+</cs>
+<cs name="61404 - Ultra Pink" fixedID="208">
+<color cs="RGB" tints="0.9254901960784314,0.0,0.3686274509803922"/>
+</cs>
+<cs name="61405 - Beaujolais" fixedID="209">
+<color cs="RGB" tints="0.47843137254901963,0.07450980392156863,0.13333333333333333"/>
+</cs>
+<cs name="61406 - Light Beaujolais" fixedID="210">
+<color cs="RGB" tints="0.611764705882353,0.10588235294117647,0.21568627450980393"/>
+</cs>
+<cs name="61407 - Red Violet" fixedID="211">
+<color cs="RGB" tints="0.47843137254901963,0.17254901960784313,0.21176470588235294"/>
+</cs>
+<cs name="61408 - Pale Blush" fixedID="212">
+<color cs="RGB" tints="0.9568627450980393,0.807843137254902,0.9137254901960784"/>
+</cs>
+<cs name="61409 - Violet" fixedID="213">
+<color cs="RGB" tints="0.6431372549019608,0.0,0.25882352941176473"/>
+</cs>
+<cs name="61410 - Medium Pink" fixedID="214">
+<color cs="RGB" tints="0.9294117647058824,0.403921568627451,0.6352941176470588"/>
+</cs>
+<cs name="61411 - Medium Violet" fixedID="215">
+<color cs="RGB" tints="0.41568627450980394,0.0,0.6352941176470588"/>
+</cs>
+<cs name="61412 - Dark Magenta" fixedID="216">
+<color cs="RGB" tints="0.403921568627451,0.03137254901960784,0.21176470588235294"/>
+</cs>
+<cs name="61413 - Grape" fixedID="217">
+<color cs="RGB" tints="0.4823529411764706,0.19215686274509805,0.3058823529411765"/>
+</cs>
+<cs name="61414 - Light Grape" fixedID="218">
+<color cs="RGB" tints="0.40784313725490196,0.21176470588235294,0.47843137254901963"/>
+</cs>
+<cs name="61415 - Dark Royal Blue" fixedID="219">
+<color cs="RGB" tints="0.21176470588235294,0.23529411764705882,0.4"/>
+</cs>
+<cs name="61416 - Iris" fixedID="220">
+<color cs="RGB" tints="0.16862745098039217,0.15294117647058825,0.5647058823529412"/>
+</cs>
+<cs name="61417 - Blue Violet" fixedID="221">
+<color cs="RGB" tints="0.25098039215686274,0.16470588235294117,0.5019607843137255"/>
+</cs>
+<cs name="61418 - Pale Iris" fixedID="222">
+<color cs="RGB" tints="0.4666666666666667,0.34901960784313724,0.49411764705882355"/>
+</cs>
+<cs name="61419 - Indigo" fixedID="223">
+<color cs="RGB" tints="0.25098039215686274,0.12156862745098039,0.23921568627450981"/>
+</cs>
+<cs name="61420 - Medium Indigo" fixedID="224">
+<color cs="RGB" tints="0.23137254901960785,0.15294117647058825,0.2901960784313726"/>
+</cs>
+<cs name="61421 - Navy Blue" fixedID="225">
+<color cs="RGB" tints="0.23921568627450981,0.1411764705882353,0.25098039215686274"/>
+</cs>
+<cs name="61422 - Light Indigo" fixedID="226">
+<color cs="RGB" tints="0.2196078431372549,0.10588235294117647,0.22745098039215686"/>
+</cs>
+<cs name="61423 - Aubergine" fixedID="227">
+<color cs="RGB" tints="0.30980392156862746,0.11764705882352941,0.22745098039215686"/>
+</cs>
+<cs name="61424 - Azure" fixedID="228">
+<color cs="RGB" tints="0.13333333333333333,0.25098039215686274,0.6"/>
+</cs>
+<cs name="61425 - Medium Sapphire" fixedID="229">
+<color cs="RGB" tints="0.0,0.3176470588235294,0.7019607843137254"/>
+</cs>
+<cs name="61426 - Electric Blue" fixedID="230">
+<color cs="RGB" tints="0.0,0.2196078431372549,0.5450980392156862"/>
+</cs>
+<cs name="61427 - Deep Sapphire" fixedID="231">
+<color cs="RGB" tints="0.058823529411764705,0.22745098039215686,0.396078431372549"/>
+</cs>
+<cs name="61428 - Light Sapphire" fixedID="232">
+<color cs="RGB" tints="0.0,0.44313725490196076,0.6862745098039216"/>
+</cs>
+<cs name="61429 - Bright Sapphire" fixedID="233">
+<color cs="RGB" tints="0.0,0.47058823529411764,0.8274509803921568"/>
+</cs>
+<cs name="61430 - Pale Sapphire" fixedID="234">
+<color cs="RGB" tints="0.0,0.615686274509804,0.8549019607843137"/>
+</cs>
+<cs name="61431 - Sky Blue" fixedID="235">
+<color cs="RGB" tints="0.4117647058823529,0.592156862745098,0.7568627450980392"/>
+</cs>
+<cs name="61432 - Dusty Blue" fixedID="236">
+<color cs="RGB" tints="0.25882352941176473,0.3411764705882353,0.4745098039215686"/>
+</cs>
+<cs name="61433 - Pale Sky Blue" fixedID="237">
+<color cs="RGB" tints="0.4549019607843137,0.7372549019607844,0.8431372549019608"/>
+</cs>
+<cs name="61434 - Light London Fog" fixedID="238">
+<color cs="RGB" tints="0.6352941176470588,0.6549019607843137,0.7372549019607844"/>
+</cs>
+<cs name="61435 - Caribbean Blue" fixedID="239">
+<color cs="RGB" tints="0.0,0.37254901960784315,0.6392156862745098"/>
+</cs>
+<cs name="61436 - Ocean Blue" fixedID="240">
+<color cs="RGB" tints="0.26666666666666666,0.25882352941176473,0.3568627450980392"/>
+</cs>
+<cs name="61437 - Light Caribbean Blue" fixedID="241">
+<color cs="RGB" tints="0.0,0.5372549019607843,0.7137254901960784"/>
+</cs>
+<cs name="61438 - Ultramarine" fixedID="242">
+<color cs="RGB" tints="0.13725490196078433,0.1803921568627451,0.33725490196078434"/>
+</cs>
+<cs name="61439 - Cool Black" fixedID="243">
+<color cs="RGB" tints="0.17647058823529413,0.12941176470588237,0.1568627450980392"/>
+</cs>
+<cs name="61440 - Pale Turquoise" fixedID="244">
+<color cs="RGB" tints="0.37254901960784315,0.7647058823529411,0.803921568627451"/>
+</cs>
+<cs name="61441 - Deep Blue Sea" fixedID="245">
+<color cs="RGB" tints="0.11764705882352941,0.19607843137254902,0.27450980392156865"/>
+</cs>
+<cs name="61442 - Aquamarine" fixedID="246">
+<color cs="RGB" tints="0.0,0.44313725490196076,0.5607843137254902"/>
+</cs>
+<cs name="61443 - Light Aquamarine" fixedID="247">
+<color cs="RGB" tints="0.0,0.5019607843137255,0.6235294117647059"/>
+</cs>
+<cs name="61444 - Deep Jade" fixedID="248">
+<color cs="RGB" tints="0.0392156862745098,0.23921568627450981,0.3764705882352941"/>
+</cs>
+<cs name="61445 - Dark Jade" fixedID="249">
+<color cs="RGB" tints="0.23529411764705882,0.27450980392156865,0.4"/>
+</cs>
+<cs name="61446 - Pale Caribbean Blue" fixedID="250">
+<color cs="RGB" tints="0.396078431372549,0.7058823529411765,0.7176470588235294"/>
+</cs>
+<cs name="61449 - Dark Kelly Green" fixedID="251">
+<color cs="RGB" tints="0.11372549019607843,0.13333333333333333,0.16470588235294117"/>
+</cs>
+<cs name="61450 - Ultra Kelly Green" fixedID="252">
+<color cs="RGB" tints="0.21568627450980393,0.13725490196078433,0.10980392156862745"/>
+</cs>
+<cs name="61452 - Spring Green" fixedID="253">
+<color cs="RGB" tints="0.35294117647058826,0.5882352941176471,0.28627450980392155"/>
+</cs>
+<cs name="61453 - Light Mint Green" fixedID="254">
+<color cs="RGB" tints="0.5411764705882353,0.7607843137254902,0.4666666666666667"/>
+</cs>
+<cs name="61454 - Dark Green" fixedID="255">
+<color cs="RGB" tints="0.17647058823529413,0.2235294117647059,0.13333333333333333"/>
+</cs>
+<cs name="61455 - Mud Brown" fixedID="256">
+<color cs="RGB" tints="0.27450980392156865,0.1568627450980392,0.12156862745098039"/>
+</cs>
+<cs name="61456 - Caribbean Yellow" fixedID="257">
+<color cs="RGB" tints="0.984313725490196,0.8352941176470589,0.0"/>
+</cs>
+<cs name="61457" fixedID="258">
+<color cs="RGB" tints="0.9254901960784314,0.4549019607843137,0.0"/>
+</cs>
+<cs name="61458 - Ruby Red" fixedID="259">
+<color cs="RGB" tints="0.592156862745098,0.0,0.023529411764705882"/>
+</cs>
+<cs name="61459 - Alice Blue" fixedID="260">
+<color cs="RGB" tints="0.5843137254901961,0.807843137254902,0.9333333333333333"/>
+</cs>
+<cs name="61460 - Medium Electric Blue" fixedID="261">
+<color cs="RGB" tints="0.09019607843137255,0.23529411764705882,0.5254901960784314"/>
+</cs>
+<cs name="61461 - Oxford Blue" fixedID="262">
+<color cs="RGB" tints="0.1411764705882353,0.1411764705882353,0.21176470588235294"/>
+</cs>
+<cs name="61462 - Light Beige" fixedID="263">
+<color cs="RGB" tints="0.7725490196078432,0.6862745098039216,0.596078431372549"/>
+</cs>
+<cs name="61463 - Beaver Brown" fixedID="264">
+<color cs="RGB" tints="0.45098039215686275,0.24705882352941178,0.011764705882352941"/>
+</cs>
+<cs name="61464 - Light Mist" fixedID="265">
+<color cs="RGB" tints="0.7843137254901961,0.7686274509803922,0.7686274509803922"/>
+</cs>
+<cs name="61465 - Dark Mist" fixedID="266">
+<color cs="RGB" tints="0.6196078431372549,0.615686274509804,0.6745098039215687"/>
+</cs>
+<cs name="61466 - Cerulean Blue" fixedID="267">
+<color cs="RGB" tints="0.21176470588235294,0.36470588235294116,0.6980392156862745"/>
+</cs>
+<cs name="61467 - Dark Cerulean Blue" fixedID="268">
+<color cs="RGB" tints="0.10980392156862745,0.24313725490196078,0.615686274509804"/>
+</cs>
+<cs name="61468 - Light Peacock Blue" fixedID="269">
+<color cs="RGB" tints="0.0,0.4392156862745098,0.7529411764705882"/>
+</cs>
+<cs name="61470 - Light Umber" fixedID="270">
+<color cs="RGB" tints="0.5490196078431373,0.45098039215686275,0.35294117647058826"/>
+</cs>
+<cs name="61471 - London Fog" fixedID="271">
+<color cs="RGB" tints="0.39215686274509803,0.40784313725490196,0.49411764705882355"/>
+</cs>
+<cs name="61472 - Light Ecru" fixedID="272">
+<color cs="RGB" tints="0.7843137254901961,0.6784313725490196,0.4823529411764706"/>
+</cs>
+<cs name="61473 - Roasted Coffee" fixedID="273">
+<color cs="RGB" tints="0.33725490196078434,0.17254901960784313,0.10196078431372549"/>
+</cs>
+<cs name="61474 - White" fixedID="274">
+<color cs="RGB" tints="0.6941176470588235,0.7019607843137254,0.6588235294117647"/>
+</cs>
+<cs name="61475 - Pale Celadon" fixedID="275">
+<color cs="RGB" tints="0.5843137254901961,0.5568627450980392,0.5686274509803921"/>
+</cs>
+<cs name="61476 - Vanilla" fixedID="276">
+<color cs="RGB" tints="0.9098039215686274,0.8509803921568627,0.7333333333333333"/>
+</cs>
+<cs name="61477 - Light Blush" fixedID="277">
+<color cs="RGB" tints="0.8784313725490196,0.7215686274509804,0.6039215686274509"/>
+</cs>
+<cs name="61503 - Green Peacock" fixedID="278">
+<color cs="RGB" tints="0.13333333333333333,0.49411764705882355,0.4470588235294118"/>
+</cs>
+<cs name="61508 - Putty" fixedID="279">
+<color cs="RGB" tints="0.6392156862745098,0.5137254901960784,0.45098039215686275"/>
+</cs>
+<cs name="61510 - Lime Green" fixedID="280">
+<color cs="RGB" tints="0.5725490196078431,0.8313725490196079,0.3607843137254902"/>
+</cs>
+<cs name="61511 - Deep Rose" fixedID="281">
+<color cs="RGB" tints="1.0,0.18823529411764706,0.5098039215686274"/>
+</cs>
+<cs name="61513 - Wild Peacock" fixedID="282">
+<color cs="RGB" tints="0.09411764705882353,0.48627450980392156,0.6039215686274509"/>
+</cs>
+<cs name="61517 - Coachman Green" fixedID="283">
+<color cs="RGB" tints="0.24313725490196078,0.396078431372549,0.41568627450980394"/>
+</cs>
+<cs name="61533 - Light Rose" fixedID="284">
+<color cs="RGB" tints="0.792156862745098,0.03137254901960784,0.30980392156862746"/>
+</cs>
+<cs name="61535 - Team Blue" fixedID="285">
+<color cs="RGB" tints="0.06274509803921569,0.10588235294117647,0.5764705882352941"/>
+</cs>
+<cs name="61536 - Midnight Teal" fixedID="286">
+<color cs="RGB" tints="0.18823529411764706,0.12941176470588237,0.13333333333333333"/>
+</cs>
+<cs name="61594 - Light Cordovan" fixedID="287">
+<color cs="RGB" tints="0.49411764705882355,0.0,0.0"/>
+</cs>
+<cs name="61901" fixedID="288">
+<color cs="RGB" tints="0.8470588235294118,0.996078431372549,0.1568627450980392"/>
+</cs>
+<cs name="61904 - Lime Green Neon" fixedID="289">
+<color cs="RGB" tints="0.5647058823529412,1.0,0.0"/>
+</cs>
+<cs name="61905 - Bright Yellow Neon" fixedID="290">
+<color cs="RGB" tints="1.0,0.9450980392156862,0.0"/>
+</cs>
+<cs name="61909 - Medium Pink Neon" fixedID="291">
+<color cs="RGB" tints="1.0,0.43529411764705883,0.5882352941176471"/>
+</cs>
+<cs name="61910 - Fuschia Neon" fixedID="292">
+<color cs="RGB" tints="1.0,0.0,0.5098039215686274"/>
+</cs>
+<cs name="61913 - Hot Pink Neon" fixedID="293">
+<color cs="RGB" tints="1.0,0.0,0.26666666666666666"/>
+</cs>
+<cs name="61914 - Light Orange Neon" fixedID="294">
+<color cs="RGB" tints="1.0,0.6196078431372549,0.023529411764705882"/>
+</cs>
+<cs name="61953 - Tangerine Neon" fixedID="295">
+<color cs="RGB" tints="1.0,0.2823529411764706,0.0"/>
+</cs>
+<cs name="61079 - Emerald Green" fixedID="296">
+<color cs="RGB" tints="0.13725490196078433,0.4588235294117647,0.3254901960784314"/>
+</cs>
+<cs name="61469 - Leaf Green" fixedID="297">
+<color cs="RGB" tints="0.0,0.4,0.18823529411764706"/>
+</cs>
+<cs name="61448 - Light Kelly Green" fixedID="298">
+<color cs="RGB" tints="0.0,0.6235294117647059,0.5254901960784314"/>
+</cs>
+<cs name="61447 - Kelly Green" fixedID="299">
+<color cs="RGB" tints="0.0,0.3764705882352941,0.13333333333333333"/>
+</cs>
+<cs name="61451 - Summer Green" fixedID="300">
+<color cs="RGB" tints="0.0,0.47843137254901963,0.3803921568627451"/>
+</cs>
+</colorspaces>
+</palette>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="13bf4478-7ae9-440d-bf1a-f1b41e16625d" name="Yenmet" prefix="" locked="true">
+<colorspaces>
+<cs name="7009 - S-1  Chrome Silver Metallic" fixedID="1">
+<color cs="RGB" tints="0.8196078431372549,0.8235294117647058,0.8274509803921568"/>
+</cs>
+<cs name="7012 - S-4  Renaissance Gold Metallic" fixedID="2">
+<color cs="RGB" tints="0.8745098039215686,0.7176470588235294,0.3411764705882353"/>
+</cs>
+<cs name="7011 - S-7  Pale Gold Metallic" fixedID="3">
+<color cs="RGB" tints="0.9254901960784314,0.8705882352941177,0.7019607843137254"/>
+</cs>
+<cs name="7008 - S-11  Gold Metallic" fixedID="4">
+<color cs="RGB" tints="0.9098039215686274,0.8470588235294118,0.4823529411764706"/>
+</cs>
+<cs name="7001 - S-12  Dark Gold Metallic" fixedID="5">
+<color cs="RGB" tints="0.9372549019607843,0.8196078431372549,0.15294117647058825"/>
+</cs>
+<cs name="7013 - S-14  Warm Gold Metallic" fixedID="6">
+<color cs="RGB" tints="0.807843137254902,0.7529411764705882,0.3764705882352941"/>
+</cs>
+<cs name="7014 - S-15  Medium Gold Metallic" fixedID="7">
+<color cs="RGB" tints="0.8549019607843137,0.8,0.47843137254901963"/>
+</cs>
+<cs name="7005 - SN-1  Metallic Silver" fixedID="8">
+<color cs="RGB" tints="0.7490196078431373,0.7490196078431373,0.7490196078431373"/>
+</cs>
+<cs name="7019 - SN-2  Metallic Grey" fixedID="9">
+<color cs="RGB" tints="0.3411764705882353,0.3411764705882353,0.3411764705882353"/>
+</cs>
+<cs name="7020 - SN-3  Metallic Black" fixedID="10">
+<color cs="RGB" tints="0.08235294117647059,0.08235294117647059,0.08235294117647059"/>
+</cs>
+<cs name="7000 - SN-4  Metallic Navy" fixedID="11">
+<color cs="RGB" tints="0.1450980392156863,0.10196078431372549,0.7098039215686275"/>
+</cs>
+<cs name="7021 - SN-5  Metallic Royal" fixedID="12">
+<color cs="RGB" tints="0.11372549019607843,0.4627450980392157,0.7215686274509804"/>
+</cs>
+<cs name="7022 - SN-6  Metallic Turquoise" fixedID="13">
+<color cs="RGB" tints="0.09019607843137255,0.7019607843137254,0.807843137254902"/>
+</cs>
+<cs name="7023 - SN-7  Metallic Pink" fixedID="14">
+<color cs="RGB" tints="0.8705882352941177,0.5137254901960784,0.7098039215686275"/>
+</cs>
+<cs name="7024 - SN-8  Metallic Red" fixedID="15">
+<color cs="RGB" tints="0.7529411764705882,0.054901960784313725,0.24705882352941178"/>
+</cs>
+<cs name="7007 - SN-9  Metallic Copper" fixedID="16">
+<color cs="RGB" tints="0.788235294117647,0.403921568627451,0.23921568627450981"/>
+</cs>
+<cs name="7002 - SN-10  Metallic Kelly Green" fixedID="17">
+<color cs="RGB" tints="0.09411764705882353,0.5450980392156862,0.027450980392156862"/>
+</cs>
+<cs name="7004 - SN-11  Metallic Deep Red" fixedID="18">
+<color cs="RGB" tints="0.5764705882352941,0.01568627450980392,0.07058823529411765"/>
+</cs>
+<cs name="7025 - SN-12  Metallic Violet" fixedID="19">
+<color cs="RGB" tints="0.8,0.592156862745098,0.796078431372549"/>
+</cs>
+<cs name="7026 - SN-13  Metallic Forest Green" fixedID="20">
+<color cs="RGB" tints="0.17647058823529413,0.3176470588235294,0.29411764705882354"/>
+</cs>
+<cs name="7027 - SN-14  Metallic Purple" fixedID="21">
+<color cs="RGB" tints="0.3411764705882353,0.13333333333333333,0.43529411764705883"/>
+</cs>
+<cs name="7003 - AN-1  White Opalescent" fixedID="22">
+<color cs="RGB" tints="0.9921568627450981,0.9411764705882353,0.8509803921568627"/>
+</cs>
+<cs name="7028 - AN-2  Pink Opalescent" fixedID="23">
+<color cs="RGB" tints="0.9921568627450981,0.8745098039215686,0.8745098039215686"/>
+</cs>
+<cs name="7029 - AN-3  Pale Blue Opalescent" fixedID="24">
+<color cs="RGB" tints="0.8549019607843137,0.996078431372549,0.9882352941176471"/>
+</cs>
+<cs name="7030 - AN-4  Peach Opalescent" fixedID="25">
+<color cs="RGB" tints="1.0,0.6627450980392157,0.5686274509803921"/>
+</cs>
+<cs name="7031 - AN-5  Violet Opalescent" fixedID="26">
+<color cs="RGB" tints="0.6862745098039216,0.5607843137254902,0.7529411764705882"/>
+</cs>
+<cs name="7032 - AN-6  Green Opalescent" fixedID="27">
+<color cs="RGB" tints="0.592156862745098,0.7294117647058823,0.5529411764705883"/>
+</cs>
+<cs name="7033 - AN-7  Blue/Violet Opalescent" fixedID="28">
+<color cs="RGB" tints="0.4588235294117647,0.4470588235294118,0.5725490196078431"/>
+</cs>
+<cs name="7034 - AN-8  Rose Opalescent" fixedID="29">
+<color cs="RGB" tints="1.0,0.5803921568627451,0.5176470588235295"/>
+</cs>
+<cs name="7035 - AN-9  Black/Green Opalescent" fixedID="30">
+<color cs="RGB" tints="0.42745098039215684,0.48627450980392156,0.4588235294117647"/>
+</cs>
+<cs name="7036 - AN-10  Blue Opalescent" fixedID="31">
+<color cs="RGB" tints="0.44313725490196076,0.5019607843137255,0.6078431372549019"/>
+</cs>
+<cs name="7037 - AN-11  Turquoise Opalescent" fixedID="32">
+<color cs="RGB" tints="0.48627450980392156,0.6470588235294118,0.6196078431372549"/>
+</cs>
+<cs name="7038 - PS-1  Silver and Pink Twilight" fixedID="33">
+<color cs="RGB" tints="0.6666666666666666,0.6588235294117647,0.6588235294117647"/>
+</cs>
+<cs name="7039 - PS-2  Silver and Violet Twilight" fixedID="34">
+<color cs="RGB" tints="0.5058823529411764,0.4235294117647059,0.5764705882352941"/>
+</cs>
+<cs name="7040 - PS-3  Silver and Forest Green Twilight" fixedID="35">
+<color cs="RGB" tints="0.10588235294117647,0.4117647058823529,0.3215686274509804"/>
+</cs>
+<cs name="7041 - PS-4  Silver and Purple Twilight" fixedID="36">
+<color cs="RGB" tints="0.3568627450980392,0.2,0.45098039215686275"/>
+</cs>
+<cs name="7042 - PS-5  Silver and Deep Red Twilight" fixedID="37">
+<color cs="RGB" tints="0.6588235294117647,0.25882352941176473,0.26666666666666666"/>
+</cs>
+<cs name="7043 - PS-6  Silver and Black Twilight" fixedID="38">
+<color cs="RGB" tints="0.2549019607843137,0.2549019607843137,0.2549019607843137"/>
+</cs>
+<cs name="7044 - PS-7  Silver and Royal Twilight" fixedID="39">
+<color cs="RGB" tints="0.0,0.29411764705882354,0.592156862745098"/>
+</cs>
+<cs name="7045 - PS-8  Silver and Turquoise Twilight" fixedID="40">
+<color cs="RGB" tints="0.011764705882352941,0.5215686274509804,0.5607843137254902"/>
+</cs>
+<cs name="7046 - PS-9  Silver and White Twilight" fixedID="41">
+<color cs="RGB" tints="0.8745098039215686,0.8745098039215686,0.8745098039215686"/>
+</cs>
+<cs name="7047 - PS-10  Silver and Yellow Twilight" fixedID="42">
+<color cs="RGB" tints="0.788235294117647,0.6352941176470588,0.0196078431372549"/>
+</cs>
+<cs name="7048 - PS-11  Silver and Red Twilight" fixedID="43">
+<color cs="RGB" tints="0.6078431372549019,0.0,0.0"/>
+</cs>
+<cs name="7049 - PS-12  Silver and Kelly Green Twilight" fixedID="44">
+<color cs="RGB" tints="0.1843137254901961,0.5176470588235295,0.39215686274509803"/>
+</cs>
+<cs name="7050 - PG-1  Gold and Pink Twilight" fixedID="45">
+<color cs="RGB" tints="0.8156862745098039,0.8,0.8117647058823529"/>
+</cs>
+<cs name="7051 - PG-2  Gold and Violet Twilight" fixedID="46">
+<color cs="RGB" tints="0.5215686274509804,0.34901960784313724,0.5254901960784314"/>
+</cs>
+<cs name="7052 - PG-3  Gold and Forest Green Twilight" fixedID="47">
+<color cs="RGB" tints="0.30196078431372547,0.4588235294117647,0.3803921568627451"/>
+</cs>
+<cs name="7053 - PG-4  Gold and Purple Twilight" fixedID="48">
+<color cs="RGB" tints="0.27450980392156865,0.0,0.27450980392156865"/>
+</cs>
+<cs name="7054 - PG-5  Gold and Deep Red Twilight" fixedID="49">
+<color cs="RGB" tints="0.6509803921568628,0.21568627450980393,0.21568627450980393"/>
+</cs>
+<cs name="7055 - PG-6  Gold and Black Twilight" fixedID="50">
+<color cs="RGB" tints="0.1803921568627451,0.1843137254901961,0.16862745098039217"/>
+</cs>
+<cs name="7056 - PG-7  Gold and Royal Twilight" fixedID="51">
+<color cs="RGB" tints="0.21176470588235294,0.29411764705882354,0.42745098039215684"/>
+</cs>
+<cs name="7057 - PG-8  Gold and Turquoise Twilight" fixedID="52">
+<color cs="RGB" tints="0.24313725490196078,0.4745098039215686,0.5176470588235295"/>
+</cs>
+<cs name="7058 - PG-9  Gold and White Twilight" fixedID="53">
+<color cs="RGB" tints="0.8549019607843137,0.8509803921568627,0.8117647058823529"/>
+</cs>
+<cs name="7059 - PG-10  Gold and Yellow Twilight" fixedID="54">
+<color cs="RGB" tints="0.7529411764705882,0.6549019607843137,0.2627450980392157"/>
+</cs>
+<cs name="7060 - PG-11  Gold and Red Twilight" fixedID="55">
+<color cs="RGB" tints="0.7333333333333333,0.14901960784313725,0.14901960784313725"/>
+</cs>
+<cs name="7061 - PG-12  Gold and Kelly Green Twilight" fixedID="56">
+<color cs="RGB" tints="0.054901960784313725,0.49411764705882355,0.3607843137254902"/>
+</cs>
+</colorspaces>
+</palette>

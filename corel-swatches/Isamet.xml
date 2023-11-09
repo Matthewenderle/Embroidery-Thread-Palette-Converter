@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="033015d0-a5a2-41ab-8ccb-82f048d7a4db" name="Isamet" prefix="" locked="true">
+<colorspaces>
+<cs name="496 - Topaz" fixedID="1">
+<color cs="RGB" tints="0.8627450980392157,0.7843137254901961,0.6274509803921569"/>
+</cs>
+<cs name="491 - Shimmering gold" fixedID="2">
+<color cs="RGB" tints="0.8,0.8,0.2"/>
+</cs>
+<cs name="490 - Sun gold" fixedID="3">
+<color cs="RGB" tints="0.9411764705882353,0.8,0.2"/>
+</cs>
+<cs name="493 - Shimmering gold" fixedID="4">
+<color cs="RGB" tints="0.8,0.8,0.2"/>
+</cs>
+<cs name="492 - Shimmering gold" fixedID="5">
+<color cs="RGB" tints="0.8,0.8,0.2"/>
+</cs>
+<cs name="500 - Shimmering gold" fixedID="6">
+<color cs="RGB" tints="0.8,0.8,0.2"/>
+</cs>
+<cs name="1271 - New gold" fixedID="7">
+<color cs="RGB" tints="0.8627450980392157,0.7843137254901961,0.6274509803921569"/>
+</cs>
+<cs name="1131 - Hazel" fixedID="8">
+<color cs="RGB" tints="0.6,0.2,0.2"/>
+</cs>
+<cs name="502 - Seashell" fixedID="9">
+<color cs="RGB" tints="0.9607843137254902,0.9411764705882353,0.9019607843137255"/>
+</cs>
+<cs name="511 - Cloud" fixedID="10">
+<color cs="RGB" tints="0.8,0.8235294117647058,0.8"/>
+</cs>
+<cs name="501 - Pearl grey" fixedID="11">
+<color cs="RGB" tints="0.8,0.8,0.8"/>
+</cs>
+<cs name="9924 - Mixed Colors" fixedID="12">
+<color cs="RGB" tints="0.0,0.0,0.0"/>
+</cs>
+<cs name="9925 - Mixed Colors" fixedID="13">
+<color cs="RGB" tints="0.0,0.0,0.0"/>
+</cs>
+<cs name="9922 - Mixed Colors" fixedID="14">
+<color cs="RGB" tints="0.0,0.0,0.0"/>
+</cs>
+<cs name="1723 - Very red" fixedID="15">
+<color cs="RGB" tints="1.0,0.0,0.29411764705882354"/>
+</cs>
+<cs name="3543 - Blue" fixedID="16">
+<color cs="RGB" tints="0.6470588235294118,0.6470588235294118,1.0"/>
+</cs>
+</colorspaces>
+</palette>

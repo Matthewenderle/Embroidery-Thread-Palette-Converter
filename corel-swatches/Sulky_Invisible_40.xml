@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="ac13d7e1-dd5e-47eb-805f-d3b79e55f686" name="Invisible 40" prefix="" locked="true">
+<colorspaces>
+<cs name="﻿0002 - transparent smoke" fixedID="1">
+<color cs="RGB" tints="0.5019607843137255,0.5019607843137255,0.5019607843137255"/>
+</cs>
+<cs name="0001 - transparent" fixedID="2">
+<color cs="RGB" tints="1.0,1.0,1.0"/>
+</cs>
+</colorspaces>
+</palette>

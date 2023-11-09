@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="5b02d38d-a4d8-42e2-9071-d836d593f94a" name="40D-2 Poly" prefix="" locked="true">
+<colorspaces>
+<cs name="1022 - Lipstick" fixedID="1">
+<color cs="RGB" tints="0.996078431372549,0.027450980392156862,0.2"/>
+</cs>
+<cs name="1113 - Honeydew" fixedID="2">
+<color cs="RGB" tints="1.0,0.5529411764705883,0.10980392156862745"/>
+</cs>
+<cs name="1141 - Skylight" fixedID="3">
+<color cs="RGB" tints="0.8549019607843137,0.8509803921568627,0.8274509803921568"/>
+</cs>
+<cs name="1159 - Caf�" fixedID="4">
+<color cs="RGB" tints="0.37254901960784315,0.23529411764705882,0.09803921568627451"/>
+</cs>
+<cs name="1061 - Nottingham" fixedID="5">
+<color cs="RGB" tints="0.17254901960784313,0.5294117647058824,0.23529411764705882"/>
+</cs>
+<cs name="1038 - Arabian Night" fixedID="6">
+<color cs="RGB" tints="0.10588235294117647,0.14901960784313725,0.5450980392156862"/>
+</cs>
+<cs name="1189 - Submariner" fixedID="7">
+<color cs="RGB" tints="0.0,0.0,0.2549019607843137"/>
+</cs>
+<cs name="1197 - Black" fixedID="8">
+<color cs="RGB" tints="0.0,0.0,0.0"/>
+</cs>
+<cs name="1198 - White" fixedID="9">
+<color cs="RGB" tints="1.0,1.0,1.0"/>
+</cs>
+<cs name="1190 - Ivory" fixedID="10">
+<color cs="RGB" tints="1.0,1.0,0.9607843137254902"/>
+</cs>
+</colorspaces>
+</palette>

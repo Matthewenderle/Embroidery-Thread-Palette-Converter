@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="2433d29b-4657-4a29-97d6-ce00134d3d78" name="Mono 40" prefix="" locked="true">
+<colorspaces>
+<cs name="﻿231 - transparent smoke" fixedID="1">
+<color cs="RGB" tints="0.5019607843137255,0.5019607843137255,0.5019607843137255"/>
+</cs>
+<cs name="230 - transparent" fixedID="2">
+<color cs="RGB" tints="1.0,1.0,1.0"/>
+</cs>
+</colorspaces>
+</palette>

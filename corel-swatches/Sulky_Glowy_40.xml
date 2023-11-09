@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="b6a3ff76-2b4a-4597-9b9b-b3809766a6d1" name="Glowy 40" prefix="" locked="true">
+<colorspaces>
+<cs name="﻿0208 - white" fixedID="1">
+<color cs="RGB" tints="1.0,1.0,1.0"/>
+</cs>
+<cs name="0207 - green" fixedID="2">
+<color cs="RGB" tints="0.8392156862745098,0.9921568627450981,0.6352941176470588"/>
+</cs>
+<cs name="0204 - blue" fixedID="3">
+<color cs="RGB" tints="0.592156862745098,0.9215686274509803,0.9921568627450981"/>
+</cs>
+<cs name="0203 - rose" fixedID="4">
+<color cs="RGB" tints="1.0,0.6823529411764706,0.8431372549019608"/>
+</cs>
+<cs name="0202 - apricot" fixedID="5">
+<color cs="RGB" tints="0.996078431372549,0.7843137254901961,0.5882352941176471"/>
+</cs>
+<cs name="0201 - yellow" fixedID="6">
+<color cs="RGB" tints="0.9882352941176471,0.9803921568627451,0.596078431372549"/>
+</cs>
+<cs name="0206 - lilac" fixedID="7">
+<color cs="RGB" tints="0.8470588235294118,0.7294117647058823,0.8941176470588236"/>
+</cs>
+</colorspaces>
+</palette>

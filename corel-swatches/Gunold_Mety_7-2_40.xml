@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="c3e539d6-6faa-4362-82ab-07bc3283e8cb" name="Mety 7-2 40" prefix="" locked="true">
+<colorspaces>
+<cs name="﻿7001" fixedID="1">
+<color cs="RGB" tints="0.9686274509803922,0.9686274509803922,0.9686274509803922"/>
+</cs>
+<cs name="7002" fixedID="2">
+<color cs="RGB" tints="0.8666666666666667,0.6705882352941176,0.0"/>
+</cs>
+<cs name="7003" fixedID="3">
+<color cs="RGB" tints="0.9058823529411765,0.9019607843137255,0.5019607843137255"/>
+</cs>
+<cs name="7004" fixedID="4">
+<color cs="RGB" tints="0.8588235294117647,0.7294117647058823,0.13333333333333333"/>
+</cs>
+<cs name="7005" fixedID="5">
+<color cs="RGB" tints="0.792156862745098,0.6627450980392157,0.00784313725490196"/>
+</cs>
+<cs name="7007" fixedID="6">
+<color cs="RGB" tints="0.8901960784313725,0.7843137254901961,0.06274509803921569"/>
+</cs>
+<cs name="7008" fixedID="7">
+<color cs="RGB" tints="0.9372549019607843,0.7843137254901961,0.06274509803921569"/>
+</cs>
+<cs name="7009" fixedID="8">
+<color cs="RGB" tints="0.8352941176470589,0.7803921568627451,0.7647058823529411"/>
+</cs>
+</colorspaces>
+</palette>

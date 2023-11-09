@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<palette guid="af3a8f21-0247-4b67-8e3d-a501adbd200e" name="Metallic" prefix="" locked="true">
+<colorspaces>
+<cs name="899 - Opal Metallic" fixedID="1">
+<color cs="RGB" tints="0.9764705882352941,0.9725490196078431,0.9568627450980393"/>
+</cs>
+<cs name="986 - Copper" fixedID="2">
+<color cs="RGB" tints="0.5529411764705883,0.33725490196078434,0.21568627450980393"/>
+</cs>
+<cs name="987 - Light Blue" fixedID="3">
+<color cs="RGB" tints="0.592156862745098,0.7450980392156863,0.8705882352941177"/>
+</cs>
+<cs name="988 - Lavender" fixedID="4">
+<color cs="RGB" tints="0.14901960784313725,0.2627450980392157,0.5254901960784314"/>
+</cs>
+<cs name="989 - Fresh Green" fixedID="5">
+<color cs="RGB" tints="0.788235294117647,0.7843137254901961,0.5254901960784314"/>
+</cs>
+<cs name="990 - Light Pink" fixedID="6">
+<color cs="RGB" tints="0.5411764705882353,0.33725490196078434,0.38823529411764707"/>
+</cs>
+<cs name="991 - Dark Pink" fixedID="7">
+<color cs="RGB" tints="0.5725490196078431,0.24313725490196078,0.32941176470588235"/>
+</cs>
+<cs name="992 - Peppermint" fixedID="8">
+<color cs="RGB" tints="0.25098039215686274,0.4549019607843137,0.40784313725490196"/>
+</cs>
+<cs name="993 - Red Metallic" fixedID="9">
+<color cs="RGB" tints="0.6627450980392157,0.27450980392156865,0.26666666666666666"/>
+</cs>
+<cs name="994 - Green Metallic" fixedID="10">
+<color cs="RGB" tints="0.32941176470588235,0.4823529411764706,0.3686274509803922"/>
+</cs>
+<cs name="995 - Blue Metallic" fixedID="11">
+<color cs="RGB" tints="0.35294117647058826,0.43529411764705883,0.5568627450980392"/>
+</cs>
+<cs name="996 - Pewter" fixedID="12">
+<color cs="RGB" tints="0.48627450980392156,0.48627450980392156,0.5764705882352941"/>
+</cs>
+<cs name="997 - Silver Metallic" fixedID="13">
+<color cs="RGB" tints="0.8313725490196079,0.8235294117647058,0.788235294117647"/>
+</cs>
+<cs name="998 - Rich Gold" fixedID="14">
+<color cs="RGB" tints="0.7294117647058823,0.5333333333333333,0.16470588235294117"/>
+</cs>
+<cs name="999 - Government Gold Metallic" fixedID="15">
+<color cs="RGB" tints="0.7529411764705882,0.6509803921568628,0.4470588235294118"/>
+</cs>
+</colorspaces>
+</palette>

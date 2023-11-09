@@ -19,21 +19,22 @@ This script was built to automate the task of creating Adobe Swatch Exchange (.a
 
 * Pull data from over 35k threads instantly
 * Generate Adobe Swatch Exchange files containing colors with the thread spool label right on the swatch
+* CorelDraw support has been added
 
 ## 🐾 Examples
 
-### Animate logos into GIFs
+### Loading a Swatch Library into Adobe Illustrator
 
 ![loading-file](https://i.imgur.com/3fMWKZY.gif)
 
 
 ## Download premade Swatch Files
 
-You can find all the latest swatch files in the [*swatches folder*](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/tree/main/swatches) above. Check out the date next to the files there to see the last time it was updated.
+You can find all the latest swatch files in the [*swatches*](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/tree/main/swatches) folder above. Check out the date next to the files there to see the last time it was updated.
 
 Please be aware that Adobe *.ase* files are not openable in a text editing program. They are binary files that can only be ran in Adobe products. 
 
-*CorelDraw files coming soon*.
+*CorelDraw files are available under [*corel-swatches*](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/tree/main/corel-swatches) folder*.
 
 ## Want to run it yourself?
 
@@ -43,5 +44,7 @@ Clone it to local computer. Install python libraries.
 $ git clone https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch.git
 $ pip install mysql.connector
 $ python main.py
+# or to generate CorelDraw files 
+$ python coreldraw.py
 ```
 
