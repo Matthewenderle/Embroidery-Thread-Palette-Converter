@@ -1,26 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="84454f96-0216-4b73-add0-e366a23760d9" name="Glowy 40" prefix="" locked="true">
-<colorspaces>
-<cs name="﻿08 - white" fixedID="1">
-<color cs="RGB" tints="1.0,1.0,1.0"/>
-</cs>
-<cs name="07 - green" fixedID="2">
-<color cs="RGB" tints="0.8392156862745098,0.9921568627450981,0.6352941176470588"/>
-</cs>
-<cs name="04 - blue" fixedID="3">
-<color cs="RGB" tints="0.592156862745098,0.9215686274509803,0.9921568627450981"/>
-</cs>
-<cs name="03 - rose" fixedID="4">
-<color cs="RGB" tints="1.0,0.6823529411764706,0.8431372549019608"/>
-</cs>
-<cs name="02 - apricot" fixedID="5">
-<color cs="RGB" tints="0.996078431372549,0.7843137254901961,0.5882352941176471"/>
-</cs>
-<cs name="01 - yellow" fixedID="6">
-<color cs="RGB" tints="0.9882352941176471,0.9803921568627451,0.596078431372549"/>
-</cs>
-<cs name="06 - lilac" fixedID="7">
-<color cs="RGB" tints="0.8470588235294118,0.7294117647058823,0.8941176470588236"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="54797a3a-a275-4462-941e-d1678b051ca3" name="Gunold - Glowy 40" locked="true">
+<colors>
+<page>
+<color name="﻿08 - white" cs="RGB" tints="1.0,1.0,1.0" fixedID="1"/>
+<color name="07 - green" cs="RGB" tints="0.8392156862745098,0.9921568627450981,0.6352941176470588" fixedID="2"/>
+<color name="04 - blue" cs="RGB" tints="0.592156862745098,0.9215686274509803,0.9921568627450981" fixedID="3"/>
+<color name="03 - rose" cs="RGB" tints="1.0,0.6823529411764706,0.8431372549019608" fixedID="4"/>
+<color name="02 - apricot" cs="RGB" tints="0.996078431372549,0.7843137254901961,0.5882352941176471" fixedID="5"/>
+<color name="01 - yellow" cs="RGB" tints="0.9882352941176471,0.9803921568627451,0.596078431372549" fixedID="6"/>
+<color name="06 - lilac" cs="RGB" tints="0.8470588235294118,0.7294117647058823,0.8941176470588236" fixedID="7"/>
+</page>
+</colors>
 </palette>

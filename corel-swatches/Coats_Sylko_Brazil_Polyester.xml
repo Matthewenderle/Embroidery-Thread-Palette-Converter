@@ -1,668 +1,232 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="d214f265-1675-4771-accb-74bdeb3079e1" name="Sylko Brazil Polyester" prefix="" locked="true">
-<colorspaces>
-<cs name="Y7132 - Angelica" fixedID="1">
-<color cs="RGB" tints="0.9333333333333333,0.9019607843137255,0.792156862745098"/>
-</cs>
-<cs name="Y7029 - Trigo" fixedID="2">
-<color cs="RGB" tints="0.9450980392156862,0.8705882352941177,0.6745098039215687"/>
-</cs>
-<cs name="Y7030 - Ananas" fixedID="3">
-<color cs="RGB" tints="0.9490196078431372,0.8901960784313725,0.5215686274509804"/>
-</cs>
-<cs name="Y7160 - Cidra" fixedID="4">
-<color cs="RGB" tints="0.9411764705882353,0.8549019607843137,0.4549019607843137"/>
-</cs>
-<cs name="Y7058 - Acacia Imperial" fixedID="5">
-<color cs="RGB" tints="0.9137254901960784,0.8235294117647058,0.13725490196078433"/>
-</cs>
-<cs name="Y7193 - Sol" fixedID="6">
-<color cs="RGB" tints="0.9568627450980393,0.788235294117647,0.23921568627450981"/>
-</cs>
-<cs name="Y7051 - Alamanda" fixedID="7">
-<color cs="RGB" tints="0.9058823529411765,0.788235294117647,0.38823529411764707"/>
-</cs>
-<cs name="Y7032 - Gerbera" fixedID="8">
-<color cs="RGB" tints="0.8901960784313725,0.7254901960784313,0.4117647058823529"/>
-</cs>
-<cs name="Y7159 - Tangerina" fixedID="9">
-<color cs="RGB" tints="1.0,0.788235294117647,0.4"/>
-</cs>
-<cs name="Y7106 - Amarelo Frenetico" fixedID="10">
-<color cs="RGB" tints="1.0,0.8196078431372549,0.32941176470588235"/>
-</cs>
-<cs name="Y7157 - Acafrao" fixedID="11">
-<color cs="RGB" tints="0.9490196078431372,0.6078431372549019,0.16862745098039217"/>
-</cs>
-<cs name="Y7099 - Hi Tec" fixedID="12">
-<color cs="RGB" tints="1.0,0.42745098039215684,0.19215686274509805"/>
-</cs>
-<cs name="Y7103 - Fresea" fixedID="13">
-<color cs="RGB" tints="1.0,0.2901960784313726,0.25098039215686274"/>
-</cs>
-<cs name="Y7057 - Mandarim" fixedID="14">
-<color cs="RGB" tints="0.9490196078431372,0.5333333333333333,0.4549019607843137"/>
-</cs>
-<cs name="Y7122 - Flesh" fixedID="15">
-<color cs="RGB" tints="0.9647058823529412,0.615686274509804,0.5647058823529412"/>
-</cs>
-<cs name="Y7211 - Damasco" fixedID="16">
-<color cs="RGB" tints="0.9764705882352941,0.6666666666666666,0.5843137254901961"/>
-</cs>
-<cs name="Y7084 - Pessego" fixedID="17">
-<color cs="RGB" tints="0.9725490196078431,0.6588235294117647,0.611764705882353"/>
-</cs>
-<cs name="Y7125 - Papaya" fixedID="18">
-<color cs="RGB" tints="1.0,0.48627450980392156,0.3686274509803922"/>
-</cs>
-<cs name="Y7116 - Sausalito" fixedID="19">
-<color cs="RGB" tints="0.9450980392156862,0.34901960784313724,0.18823529411764706"/>
-</cs>
-<cs name="Y7095 - Pitanga" fixedID="20">
-<color cs="RGB" tints="0.9137254901960784,0.403921568627451,0.24313725490196078"/>
-</cs>
-<cs name="Y7037 - Manga" fixedID="21">
-<color cs="RGB" tints="0.8627450980392157,0.396078431372549,0.2"/>
-</cs>
-<cs name="Y7094 - Dalia" fixedID="22">
-<color cs="RGB" tints="0.8470588235294118,0.36470588235294116,0.0"/>
-</cs>
-<cs name="Y7052 - Flama" fixedID="23">
-<color cs="RGB" tints="0.9372549019607843,0.5647058823529412,0.2980392156862745"/>
-</cs>
-<cs name="Y7033 - Real" fixedID="24">
-<color cs="RGB" tints="0.8823529411764706,0.611764705882353,0.22745098039215686"/>
-</cs>
-<cs name="Y7158 - Girasol" fixedID="25">
-<color cs="RGB" tints="0.9490196078431372,0.6470588235294118,0.0"/>
-</cs>
-<cs name="Y7049 - Cromo" fixedID="26">
-<color cs="RGB" tints="0.8784313725490196,0.6470588235294118,0.2196078431372549"/>
-</cs>
-<cs name="Y7130 - Imaginario" fixedID="27">
-<color cs="RGB" tints="0.9294117647058824,0.8156862745098039,0.807843137254902"/>
-</cs>
-<cs name="Y7081 - Marmore" fixedID="28">
-<color cs="RGB" tints="0.8941176470588236,0.7411764705882353,0.7490196078431373"/>
-</cs>
-<cs name="Y7213 - Champagne" fixedID="29">
-<color cs="RGB" tints="0.8941176470588236,0.7137254901960784,0.7019607843137254"/>
-</cs>
-<cs name="Y7129 - Topazio" fixedID="30">
-<color cs="RGB" tints="0.9764705882352941,0.6980392156862745,0.6509803921568628"/>
-</cs>
-<cs name="Y7161 - Mistico" fixedID="31">
-<color cs="RGB" tints="0.9450980392156862,0.7333333333333333,0.7176470588235294"/>
-</cs>
-<cs name="Y7162 - Aurora" fixedID="32">
-<color cs="RGB" tints="0.9176470588235294,0.6705882352941176,0.6549019607843137"/>
-</cs>
-<cs name="Y7163 - Perolado" fixedID="33">
-<color cs="RGB" tints="0.8352941176470589,0.596078431372549,0.5764705882352941"/>
-</cs>
-<cs name="Y7164 - Rose" fixedID="34">
-<color cs="RGB" tints="0.8,0.5294117647058824,0.4823529411764706"/>
-</cs>
-<cs name="Y7212 - Salmao" fixedID="35">
-<color cs="RGB" tints="0.8980392156862745,0.5098039215686274,0.49019607843137253"/>
-</cs>
-<cs name="Y7123 - Coral" fixedID="36">
-<color cs="RGB" tints="0.9294117647058824,0.39215686274509803,0.4"/>
-</cs>
-<cs name="Y7216 - Coloral" fixedID="37">
-<color cs="RGB" tints="0.8666666666666667,0.21568627450980393,0.25882352941176473"/>
-</cs>
-<cs name="Y7215 - Fogo" fixedID="38">
-<color cs="RGB" tints="0.807843137254902,0.0,0.18823529411764706"/>
-</cs>
-<cs name="Y7197 - Primor" fixedID="39">
-<color cs="RGB" tints="0.7490196078431373,0.21568627450980393,0.2784313725490196"/>
-</cs>
-<cs name="Y7112 - Carmim" fixedID="40">
-<color cs="RGB" tints="0.7098039215686275,0.0,0.2"/>
-</cs>
-<cs name="Y7066 - Indiano" fixedID="41">
-<color cs="RGB" tints="0.6235294117647059,0.0,0.16862745098039217"/>
-</cs>
-<cs name="Y7208 - Framboesa" fixedID="42">
-<color cs="RGB" tints="0.6549019607843137,0.0,0.1843137254901961"/>
-</cs>
-<cs name="Y7007 - Vermelho" fixedID="43">
-<color cs="RGB" tints="0.6980392156862745,0.0,0.2235294117647059"/>
-</cs>
-<cs name="Y7199 - Scarlate Medio" fixedID="44">
-<color cs="RGB" tints="0.8,0.0,0.25098039215686274"/>
-</cs>
-<cs name="Y7165 - Scarlate" fixedID="45">
-<color cs="RGB" tints="0.8196078431372549,0.0784313725490196,0.29411764705882354"/>
-</cs>
-<cs name="Y7220 - Rosacea" fixedID="46">
-<color cs="RGB" tints="0.8627450980392157,0.27450980392156865,0.4235294117647059"/>
-</cs>
-<cs name="Y7196 - Pink" fixedID="47">
-<color cs="RGB" tints="0.9176470588235294,0.3686274509803922,0.5490196078431373"/>
-</cs>
-<cs name="Y7090 - Cravo" fixedID="48">
-<color cs="RGB" tints="0.9254901960784314,0.42745098039215684,0.5686274509803921"/>
-</cs>
-<cs name="Y7004 - Turmalina Rosa" fixedID="49">
-<color cs="RGB" tints="0.8862745098039215,0.403921568627451,0.611764705882353"/>
-</cs>
-<cs name="Y7100 - Pink Luminoso" fixedID="50">
-<color cs="RGB" tints="1.0,0.20784313725490197,0.4666666666666667"/>
-</cs>
-<cs name="Y7202 - Rosa Silvestre" fixedID="51">
-<color cs="RGB" tints="0.9372549019607843,0.8392156862745098,0.9058823529411765"/>
-</cs>
-<cs name="Y7201 - Inocencia" fixedID="52">
-<color cs="RGB" tints="0.9372549019607843,0.7764705882352941,0.8627450980392157"/>
-</cs>
-<cs name="Y7209 - Rosa Calssico" fixedID="53">
-<color cs="RGB" tints="0.9568627450980393,0.7294117647058823,0.8235294117647058"/>
-</cs>
-<cs name="Y7002 - Flocus" fixedID="54">
-<color cs="RGB" tints="0.9333333333333333,0.7294117647058823,0.8"/>
-</cs>
-<cs name="Y7003 - Rosa Cha" fixedID="55">
-<color cs="RGB" tints="0.9176470588235294,0.6313725490196078,0.7686274509803922"/>
-</cs>
-<cs name="Y7079 - Rubilita" fixedID="56">
-<color cs="RGB" tints="0.9607843137254902,0.6470588235294118,0.7333333333333333"/>
-</cs>
-<cs name="Y7206 - Ciclame" fixedID="57">
-<color cs="RGB" tints="0.8823529411764706,0.6039215686274509,0.7137254901960784"/>
-</cs>
-<cs name="Y7217 - Petala" fixedID="58">
-<color cs="RGB" tints="0.8588235294117647,0.5529411764705883,0.6588235294117647"/>
-</cs>
-<cs name="Y7087 - Azaleia" fixedID="59">
-<color cs="RGB" tints="0.7686274509803922,0.19215686274509805,0.49411764705882355"/>
-</cs>
-<cs name="Y7005 - Morganita" fixedID="60">
-<color cs="RGB" tints="0.8549019607843137,0.36470588235294116,0.6"/>
-</cs>
-<cs name="Y7101 - Purpura" fixedID="61">
-<color cs="RGB" tints="0.8666666666666667,0.3333333333333333,0.592156862745098"/>
-</cs>
-<cs name="Y7104 - Maravilha" fixedID="62">
-<color cs="RGB" tints="0.996078431372549,0.26666666666666666,0.6235294117647059"/>
-</cs>
-<cs name="Y7006 - Begonia" fixedID="63">
-<color cs="RGB" tints="0.7607843137254902,0.3411764705882353,0.47843137254901963"/>
-</cs>
-<cs name="Y7210 - Marabu" fixedID="64">
-<color cs="RGB" tints="0.8196078431372549,0.47058823529411764,0.5647058823529412"/>
-</cs>
-<cs name="Y7228 - brown" fixedID="65">
-<color cs="RGB" tints="0.9450980392156862,0.4392156862745098,0.49411764705882355"/>
-</cs>
-<cs name="Y7071 - Rosato" fixedID="66">
-<color cs="RGB" tints="0.8470588235294118,0.47843137254901963,0.5372549019607843"/>
-</cs>
-<cs name="Y7009 - Grena" fixedID="67">
-<color cs="RGB" tints="0.615686274509804,0.0,0.28627450980392155"/>
-</cs>
-<cs name="Y7171 - Granada" fixedID="68">
-<color cs="RGB" tints="0.5098039215686274,0.11764705882352941,0.24313725490196078"/>
-</cs>
-<cs name="Y7172 - Hematita" fixedID="69">
-<color cs="RGB" tints="0.4470588235294118,0.09019607843137255,0.19607843137254902"/>
-</cs>
-<cs name="Y7078 - Sagu" fixedID="70">
-<color cs="RGB" tints="0.42745098039215684,0.0,0.17254901960784313"/>
-</cs>
-<cs name="Y7173 - Rubi" fixedID="71">
-<color cs="RGB" tints="0.396078431372549,0.08235294117647059,0.20392156862745098"/>
-</cs>
-<cs name="Y7169 - Cereja" fixedID="72">
-<color cs="RGB" tints="0.44313725490196076,0.06666666666666667,0.26666666666666666"/>
-</cs>
-<cs name="Y7174 - Uva" fixedID="73">
-<color cs="RGB" tints="0.4745098039215686,0.0,0.2823529411764706"/>
-</cs>
-<cs name="Y7170 - Bordo" fixedID="74">
-<color cs="RGB" tints="0.32941176470588235,0.15294117647058825,0.25098039215686274"/>
-</cs>
-<cs name="Y7010 - Amora" fixedID="75">
-<color cs="RGB" tints="0.4,0.11372549019607843,0.2627450980392157"/>
-</cs>
-<cs name="Y7011 - Quaresmeira" fixedID="76">
-<color cs="RGB" tints="0.8862745098039215,0.7215686274509804,0.8862745098039215"/>
-</cs>
-<cs name="Y7012 - Rosa Antigo" fixedID="77">
-<color cs="RGB" tints="0.6941176470588235,0.49019607843137253,0.6352941176470588"/>
-</cs>
-<cs name="Y7109 - Primavera" fixedID="78">
-<color cs="RGB" tints="0.49019607843137253,0.07450980392156863,0.43529411764705883"/>
-</cs>
-<cs name="Y7185 - Fucsia" fixedID="79">
-<color cs="RGB" tints="0.45098039215686275,0.0,0.41568627450980394"/>
-</cs>
-<cs name="Y7184 - Ametista" fixedID="80">
-<color cs="RGB" tints="0.4,0.21176470588235294,0.47843137254901963"/>
-</cs>
-<cs name="Y7110 - Grape" fixedID="81">
-<color cs="RGB" tints="0.49411764705882355,0.29411764705882354,0.6431372549019608"/>
-</cs>
-<cs name="Y7014 - Orquidea" fixedID="82">
-<color cs="RGB" tints="0.4588235294117647,0.25098039215686274,0.5882352941176471"/>
-</cs>
-<cs name="Y7059 - Alfazema" fixedID="83">
-<color cs="RGB" tints="0.7568627450980392,0.6588235294117647,0.8392156862745098"/>
-</cs>
-<cs name="Y7091 - Manaca" fixedID="84">
-<color cs="RGB" tints="0.6823529411764706,0.5529411764705883,0.8196078431372549"/>
-</cs>
-<cs name="Y7182 - Tecno" fixedID="85">
-<color cs="RGB" tints="0.43529411764705883,0.3411764705882353,0.4823529411764706"/>
-</cs>
-<cs name="Y7183 - Roxo" fixedID="86">
-<color cs="RGB" tints="0.29411764705882354,0.07450980392156863,0.3843137254901961"/>
-</cs>
-<cs name="Y7108 - Violeta" fixedID="87">
-<color cs="RGB" tints="0.2784313725490196,0.19215686274509805,0.4"/>
-</cs>
-<cs name="Y7105 - Lisianthus" fixedID="88">
-<color cs="RGB" tints="0.3333333333333333,0.2,0.5607843137254902"/>
-</cs>
-<cs name="Y7166 - Violaceo" fixedID="89">
-<color cs="RGB" tints="0.5372549019607843,0.4666666666666667,0.7333333333333333"/>
-</cs>
-<cs name="Y7013 - Spato" fixedID="90">
-<color cs="RGB" tints="0.45098039215686275,0.4,0.6509803921568628"/>
-</cs>
-<cs name="Y7086 - Lavanda" fixedID="91">
-<color cs="RGB" tints="0.6431372549019608,0.6235294117647059,0.796078431372549"/>
-</cs>
-<cs name="Y7167 - Egeu" fixedID="92">
-<color cs="RGB" tints="0.45098039215686275,0.45098039215686275,0.6588235294117647"/>
-</cs>
-<cs name="Y7146 - Atlantico" fixedID="93">
-<color cs="RGB" tints="0.4196078431372549,0.47843137254901963,0.6980392156862745"/>
-</cs>
-<cs name="Y7147 - Gin" fixedID="94">
-<color cs="RGB" tints="0.4666666666666667,0.5607843137254902,0.8"/>
-</cs>
-<cs name="Y7139 - Kaly" fixedID="95">
-<color cs="RGB" tints="0.7137254901960784,0.7803921568627451,0.9215686274509803"/>
-</cs>
-<cs name="Y7138 - Glacial" fixedID="96">
-<color cs="RGB" tints="0.5882352941176471,0.6549019607843137,0.7803921568627451"/>
-</cs>
-<cs name="Y7133 - Pacifico" fixedID="97">
-<color cs="RGB" tints="0.3176470588235294,0.5215686274509804,0.8"/>
-</cs>
-<cs name="Y7134 - Delfin" fixedID="98">
-<color cs="RGB" tints="0.3137254901960784,0.4588235294117647,0.6980392156862745"/>
-</cs>
-<cs name="Y7020 - Liz" fixedID="99">
-<color cs="RGB" tints="0.09803921568627451,0.32941176470588235,0.611764705882353"/>
-</cs>
-<cs name="Y7115 - Lapis Lazuli" fixedID="100">
-<color cs="RGB" tints="0.1411764705882353,0.24313725490196078,0.5333333333333333"/>
-</cs>
-<cs name="Y7021 - Murano" fixedID="101">
-<color cs="RGB" tints="0.1803921568627451,0.21176470588235294,0.5254901960784314"/>
-</cs>
-<cs name="Y7127 - Marinho" fixedID="102">
-<color cs="RGB" tints="0.18823529411764706,0.21568627450980393,0.36470588235294116"/>
-</cs>
-<cs name="Y7141 - Sevres" fixedID="103">
-<color cs="RGB" tints="0.17647058823529413,0.17647058823529413,0.3254901960784314"/>
-</cs>
-<cs name="Y7121 - Noturno" fixedID="104">
-<color cs="RGB" tints="0.1568627450980392,0.14901960784313725,0.2901960784313726"/>
-</cs>
-<cs name="Y7056 - Azeviche" fixedID="105">
-<color cs="RGB" tints="0.16862745098039217,0.16862745098039217,0.2980392156862745"/>
-</cs>
-<cs name="Y7024 - Onix" fixedID="106">
-<color cs="RGB" tints="0.16470588235294117,0.16862745098039217,0.24705882352941178"/>
-</cs>
-<cs name="Y7143 - Azul Antigo" fixedID="107">
-<color cs="RGB" tints="0.20392156862745098,0.33725490196078434,0.5607843137254902"/>
-</cs>
-<cs name="Y7142 - Azurita" fixedID="108">
-<color cs="RGB" tints="0.12941176470588237,0.2784313725490196,0.4980392156862745"/>
-</cs>
-<cs name="Y7144 - Riviera" fixedID="109">
-<color cs="RGB" tints="0.2627450980392157,0.3254901960784314,0.5098039215686274"/>
-</cs>
-<cs name="Y7017 - Petropolis" fixedID="110">
-<color cs="RGB" tints="0.30980392156862746,0.396078431372549,0.5843137254901961"/>
-</cs>
-<cs name="Y7126 - Dicroico" fixedID="111">
-<color cs="RGB" tints="0.40784313725490196,0.5176470588235295,0.7294117647058823"/>
-</cs>
-<cs name="Y7131 - Piscina" fixedID="112">
-<color cs="RGB" tints="0.7764705882352941,0.8196078431372549,0.8509803921568627"/>
-</cs>
-<cs name="Y7218 - Agata" fixedID="113">
-<color cs="RGB" tints="0.6980392156862745,0.7529411764705882,0.8196078431372549"/>
-</cs>
-<cs name="Y7140 - Ceu" fixedID="114">
-<color cs="RGB" tints="0.6431372549019608,0.7764705882352941,0.9098039215686274"/>
-</cs>
-<cs name="Y7207 - Agua" fixedID="115">
-<color cs="RGB" tints="0.6666666666666666,0.7725490196078432,0.8470588235294118"/>
-</cs>
-<cs name="Y7015 - Siames" fixedID="116">
-<color cs="RGB" tints="0.592156862745098,0.6980392156862745,0.792156862745098"/>
-</cs>
-<cs name="Y7117 - Patina" fixedID="117">
-<color cs="RGB" tints="0.5568627450980392,0.6901960784313725,0.8117647058823529"/>
-</cs>
-<cs name="Y7065 - Cobalto" fixedID="118">
-<color cs="RGB" tints="0.3215686274509804,0.5529411764705883,0.7019607843137254"/>
-</cs>
-<cs name="Y7061 - Safira" fixedID="119">
-<color cs="RGB" tints="0.0,0.24705882352941178,0.396078431372549"/>
-</cs>
-<cs name="Y7019 - Mikonos" fixedID="120">
-<color cs="RGB" tints="0.0,0.36470588235294116,0.5803921568627451"/>
-</cs>
-<cs name="Y7072 - Turqueza" fixedID="121">
-<color cs="RGB" tints="0.0,0.4980392156862745,0.6745098039215687"/>
-</cs>
-<cs name="Y7018 - Cancun" fixedID="122">
-<color cs="RGB" tints="0.18823529411764706,0.5764705882352941,0.7333333333333333"/>
-</cs>
-<cs name="Y7092 - Augua Marinha" fixedID="123">
-<color cs="RGB" tints="0.3607843137254902,0.6941176470588235,0.803921568627451"/>
-</cs>
-<cs name="Y7145 - Baby" fixedID="124">
-<color cs="RGB" tints="0.4470588235294118,0.6666666666666666,0.7529411764705882"/>
-</cs>
-<cs name="Y7093 - Avalone" fixedID="125">
-<color cs="RGB" tints="0.0,0.596078431372549,0.6941176470588235"/>
-</cs>
-<cs name="Y7048 - Jade" fixedID="126">
-<color cs="RGB" tints="0.5215686274509804,0.7568627450980392,0.7607843137254902"/>
-</cs>
-<cs name="Y7175 - Campesino" fixedID="127">
-<color cs="RGB" tints="0.1803921568627451,0.6392156862745098,0.6745098039215687"/>
-</cs>
-<cs name="Y7054 - Berilo" fixedID="128">
-<color cs="RGB" tints="0.0,0.5725490196078431,0.5529411764705883"/>
-</cs>
-<cs name="Y7177 - Pistache" fixedID="129">
-<color cs="RGB" tints="0.7333333333333333,0.8235294117647058,0.7647058823529411"/>
-</cs>
-<cs name="Y7070 - Artemisia" fixedID="130">
-<color cs="RGB" tints="0.6705882352941176,0.7490196078431373,0.6745098039215687"/>
-</cs>
-<cs name="Y7176 - Orvalho" fixedID="131">
-<color cs="RGB" tints="0.5882352941176471,0.6941176470588235,0.6392156862745098"/>
-</cs>
-<cs name="Y7178 - Colonia" fixedID="132">
-<color cs="RGB" tints="0.47843137254901963,0.7411764705882353,0.5294117647058824"/>
-</cs>
-<cs name="Y7069 - Avenca" fixedID="133">
-<color cs="RGB" tints="0.2627450980392157,0.6431372549019608,0.4392156862745098"/>
-</cs>
-<cs name="Y7181 - Crisp Jade" fixedID="134">
-<color cs="RGB" tints="0.3215686274509804,0.6274509803921569,0.4823529411764706"/>
-</cs>
-<cs name="Y7050 - Folha" fixedID="135">
-<color cs="RGB" tints="0.12549019607843137,0.5411764705882353,0.2980392156862745"/>
-</cs>
-<cs name="Y7075 - Malaquita" fixedID="136">
-<color cs="RGB" tints="0.0,0.44313725490196076,0.2627450980392157"/>
-</cs>
-<cs name="Y7027 - Esmeralda" fixedID="137">
-<color cs="RGB" tints="0.07058823529411765,0.34901960784313724,0.23529411764705882"/>
-</cs>
-<cs name="Y7028 - Pepper" fixedID="138">
-<color cs="RGB" tints="0.0,0.3176470588235294,0.24705882352941178"/>
-</cs>
-<cs name="Y7088 - Hera" fixedID="139">
-<color cs="RGB" tints="0.1843137254901961,0.23921568627450981,0.18823529411764706"/>
-</cs>
-<cs name="Y7060 - Geranio" fixedID="140">
-<color cs="RGB" tints="0.3215686274509804,0.42745098039215684,0.16470588235294117"/>
-</cs>
-<cs name="Y7180 - Selva" fixedID="141">
-<color cs="RGB" tints="0.4627450980392157,0.5294117647058824,0.3607843137254902"/>
-</cs>
-<cs name="Y7063 - Alface" fixedID="142">
-<color cs="RGB" tints="0.5725490196078431,0.6509803921568628,0.44313725490196076"/>
-</cs>
-<cs name="Y7025 - Palha" fixedID="143">
-<color cs="RGB" tints="0.7098039215686275,0.7019607843137254,0.5843137254901961"/>
-</cs>
-<cs name="Y7124 - Musguinho" fixedID="144">
-<color cs="RGB" tints="0.5568627450980392,0.5411764705882353,0.49019607843137253"/>
-</cs>
-<cs name="Y7111 - Outono" fixedID="145">
-<color cs="RGB" tints="0.4980392156862745,0.4470588235294118,0.10196078431372549"/>
-</cs>
-<cs name="Y7107 - Oliva" fixedID="146">
-<color cs="RGB" tints="0.43529411764705883,0.33725490196078434,0.13333333333333333"/>
-</cs>
-<cs name="Y7097 - Citrico" fixedID="147">
-<color cs="RGB" tints="0.8666666666666667,1.0,0.3215686274509804"/>
-</cs>
-<cs name="Y7179 - Lazer" fixedID="148">
-<color cs="RGB" tints="0.7294117647058823,1.0,0.396078431372549"/>
-</cs>
-<cs name="Y7098 - Verde Luminoso" fixedID="149">
-<color cs="RGB" tints="0.5725490196078431,0.9098039215686274,0.28627450980392155"/>
-</cs>
-<cs name="Y7102 - Verde Electrico" fixedID="150">
-<color cs="RGB" tints="0.4470588235294118,0.8784313725490196,0.2980392156862745"/>
-</cs>
-<cs name="Y7026 - Limao" fixedID="151">
-<color cs="RGB" tints="0.47058823529411764,0.7372549019607844,0.3333333333333333"/>
-</cs>
-<cs name="Y7067 - Dresden" fixedID="152">
-<color cs="RGB" tints="0.2980392156862745,0.5568627450980392,0.18823529411764706"/>
-</cs>
-<cs name="Y7053 - Boca de Leao" fixedID="153">
-<color cs="RGB" tints="0.9411764705882353,0.8549019607843137,0.7333333333333333"/>
-</cs>
-<cs name="Y7038 - Duna" fixedID="154">
-<color cs="RGB" tints="0.8901960784313725,0.788235294117647,0.6588235294117647"/>
-</cs>
-<cs name="Y7214 - Cr�me" fixedID="155">
-<color cs="RGB" tints="0.9568627450980393,0.8117647058823529,0.6705882352941176"/>
-</cs>
-<cs name="Y7189 - Bege" fixedID="156">
-<color cs="RGB" tints="0.7764705882352941,0.7019607843137254,0.611764705882353"/>
-</cs>
-<cs name="Y7039 - Nozes" fixedID="157">
-<color cs="RGB" tints="0.7529411764705882,0.6509803921568628,0.5725490196078431"/>
-</cs>
-<cs name="Y7205 - Caqui" fixedID="158">
-<color cs="RGB" tints="0.6470588235294118,0.5725490196078431,0.5019607843137255"/>
-</cs>
-<cs name="Y7204 - Cacau" fixedID="159">
-<color cs="RGB" tints="0.6862745098039216,0.5647058823529412,0.47058823529411764"/>
-</cs>
-<cs name="Y7080 - Craft" fixedID="160">
-<color cs="RGB" tints="0.6627450980392157,0.5450980392156862,0.47058823529411764"/>
-</cs>
-<cs name="Y7203 - Tropical" fixedID="161">
-<color cs="RGB" tints="0.6823529411764706,0.5647058823529412,0.4235294117647059"/>
-</cs>
-<cs name="Y7077 - Alabastro" fixedID="162">
-<color cs="RGB" tints="0.6666666666666666,0.5843137254901961,0.4627450980392157"/>
-</cs>
-<cs name="Y7120 - Mate" fixedID="163">
-<color cs="RGB" tints="0.5529411764705883,0.4745098039215686,0.3803921568627451"/>
-</cs>
-<cs name="Y7114 - Montana" fixedID="164">
-<color cs="RGB" tints="0.5137254901960784,0.4470588235294118,0.396078431372549"/>
-</cs>
-<cs name="Y7186 - Mostarda" fixedID="165">
-<color cs="RGB" tints="0.6862745098039216,0.5647058823529412,0.050980392156862744"/>
-</cs>
-<cs name="Y7119 - Ouro" fixedID="166">
-<color cs="RGB" tints="0.7647058823529411,0.6274509803921569,0.30196078431372547"/>
-</cs>
-<cs name="Y7128 - Bronze" fixedID="167">
-<color cs="RGB" tints="0.6784313725490196,0.5333333333333333,0.2784313725490196"/>
-</cs>
-<cs name="Y7083 - Latao" fixedID="168">
-<color cs="RGB" tints="0.7215686274509804,0.6078431372549019,0.37254901960784315"/>
-</cs>
-<cs name="Y7319 - Ferrugem" fixedID="169">
-<color cs="RGB" tints="0.7607843137254902,0.6509803921568628,0.44313725490196076"/>
-</cs>
-<cs name="Y7035 - Cobre" fixedID="170">
-<color cs="RGB" tints="0.6784313725490196,0.36470588235294116,0.15294117647058825"/>
-</cs>
-<cs name="Y7188 - Run" fixedID="171">
-<color cs="RGB" tints="0.7215686274509804,0.5529411764705883,0.3568627450980392"/>
-</cs>
-<cs name="Y7042 - Havana" fixedID="172">
-<color cs="RGB" tints="0.5215686274509804,0.33725490196078434,0.1411764705882353"/>
-</cs>
-<cs name="Y7034 - Olho de Tigre" fixedID="173">
-<color cs="RGB" tints="0.6823529411764706,0.4235294117647059,0.1450980392156863"/>
-</cs>
-<cs name="Y7036 - Sequoia" fixedID="174">
-<color cs="RGB" tints="0.6588235294117647,0.19215686274509805,0.1450980392156863"/>
-</cs>
-<cs name="Y7068 - Jaspe" fixedID="175">
-<color cs="RGB" tints="0.7176470588235294,0.4980392156862745,0.3764705882352941"/>
-</cs>
-<cs name="Y7073 - Andalusita" fixedID="176">
-<color cs="RGB" tints="0.6392156862745098,0.403921568627451,0.2549019607843137"/>
-</cs>
-<cs name="Y7041 - Avela" fixedID="177">
-<color cs="RGB" tints="0.5372549019607843,0.30980392156862746,0.1843137254901961"/>
-</cs>
-<cs name="Y7275 - dark brown" fixedID="178">
-<color cs="RGB" tints="0.49411764705882355,0.3137254901960784,0.24313725490196078"/>
-</cs>
-<cs name="Y7043 - Sepia" fixedID="179">
-<color cs="RGB" tints="0.45098039215686275,0.3176470588235294,0.2823529411764706"/>
-</cs>
-<cs name="Y7306 - brown" fixedID="180">
-<color cs="RGB" tints="0.41568627450980394,0.2,0.14901960784313725"/>
-</cs>
-<cs name="Y7074 - Caf�" fixedID="181">
-<color cs="RGB" tints="0.2980392156862745,0.19215686274509805,0.20392156862745098"/>
-</cs>
-<cs name="Y7044 - Trufa" fixedID="182">
-<color cs="RGB" tints="0.2980392156862745,0.19215686274509805,0.20392156862745098"/>
-</cs>
-<cs name="Y7282 - brown" fixedID="183">
-<color cs="RGB" tints="0.34901960784313724,0.2235294117647059,0.22745098039215686"/>
-</cs>
-<cs name="Y7195 - Tamara" fixedID="184">
-<color cs="RGB" tints="0.4,0.30196078431372547,0.2235294117647059"/>
-</cs>
-<cs name="Y7221 - Semente" fixedID="185">
-<color cs="RGB" tints="0.5607843137254902,0.45098039215686275,0.36470588235294116"/>
-</cs>
-<cs name="Y7298 - brown" fixedID="186">
-<color cs="RGB" tints="0.7137254901960784,0.5490196078431373,0.48627450980392156"/>
-</cs>
-<cs name="Y7198 - Caramelo" fixedID="187">
-<color cs="RGB" tints="0.6313725490196078,0.49019607843137253,0.4"/>
-</cs>
-<cs name="Y7040 - Opalina" fixedID="188">
-<color cs="RGB" tints="0.7764705882352941,0.6470588235294118,0.6039215686274509"/>
-</cs>
-<cs name="Y7219 - Jasmim" fixedID="189">
-<color cs="RGB" tints="0.9294117647058824,0.8745098039215686,0.8823529411764706"/>
-</cs>
-<cs name="Y7200 - Laguna" fixedID="190">
-<color cs="RGB" tints="0.8313725490196079,0.788235294117647,0.803921568627451"/>
-</cs>
-<cs name="Y7190 - Areia" fixedID="191">
-<color cs="RGB" tints="0.7725490196078432,0.6901960784313725,0.6666666666666666"/>
-</cs>
-<cs name="Y7191 - Areia Cava" fixedID="192">
-<color cs="RGB" tints="0.7607843137254902,0.6666666666666666,0.6588235294117647"/>
-</cs>
-<cs name="Y7113 - Perola" fixedID="193">
-<color cs="RGB" tints="0.9411764705882353,0.8862745098039215,0.8392156862745098"/>
-</cs>
-<cs name="Y7194 - Marfim" fixedID="194">
-<color cs="RGB" tints="0.8941176470588236,0.8666666666666667,0.8509803921568627"/>
-</cs>
-<cs name="Y7064 - Persa" fixedID="195">
-<color cs="RGB" tints="0.4549019607843137,0.45098039215686275,0.44313725490196076"/>
-</cs>
-<cs name="Y7085 - Salvia" fixedID="196">
-<color cs="RGB" tints="0.7333333333333333,0.7372549019607844,0.7254901960784313"/>
-</cs>
-<cs name="Y7187 - Argamassa" fixedID="197">
-<color cs="RGB" tints="0.6509803921568628,0.6274509803921569,0.6235294117647059"/>
-</cs>
-<cs name="Y7151 - Grafite" fixedID="198">
-<color cs="RGB" tints="0.49411764705882355,0.4980392156862745,0.5215686274509804"/>
-</cs>
-<cs name="Y7152 - Cyprus" fixedID="199">
-<color cs="RGB" tints="0.3411764705882353,0.3411764705882353,0.3803921568627451"/>
-</cs>
-<cs name="Y7089 - Prata" fixedID="200">
-<color cs="RGB" tints="0.7294117647058823,0.7411764705882353,0.7725490196078432"/>
-</cs>
-<cs name="Y7096 - Aluminio" fixedID="201">
-<color cs="RGB" tints="0.7568627450980392,0.7254901960784313,0.7568627450980392"/>
-</cs>
-<cs name="Y7271 - light blue" fixedID="202">
-<color cs="RGB" tints="0.7058823529411765,0.7411764705882353,0.8156862745098039"/>
-</cs>
-<cs name="Y7045 - Zicao" fixedID="203">
-<color cs="RGB" tints="0.611764705882353,0.6392156862745098,0.6823529411764706"/>
-</cs>
-<cs name="Y7076 - Amianto" fixedID="204">
-<color cs="RGB" tints="0.6666666666666666,0.6745098039215687,0.7294117647058823"/>
-</cs>
-<cs name="Bc - Branco" fixedID="205">
-<color cs="RGB" tints="0.9411764705882353,0.9372549019607843,1.0"/>
-</cs>
-<cs name="Y7148 - Bronze Claro" fixedID="206">
-<color cs="RGB" tints="0.47058823529411764,0.5098039215686274,0.6470588235294118"/>
-</cs>
-<cs name="Y7156 - Alpaca" fixedID="207">
-<color cs="RGB" tints="0.47058823529411764,0.48627450980392156,0.6"/>
-</cs>
-<cs name="Y7016 - Lotus" fixedID="208">
-<color cs="RGB" tints="0.4392156862745098,0.49019607843137253,0.611764705882353"/>
-</cs>
-<cs name="Y7136 - Oceanico" fixedID="209">
-<color cs="RGB" tints="0.3333333333333333,0.4588235294117647,0.6"/>
-</cs>
-<cs name="Y7135 - Requinte" fixedID="210">
-<color cs="RGB" tints="0.30196078431372547,0.40784313725490196,0.5568627450980392"/>
-</cs>
-<cs name="Y7022 - Minerio" fixedID="211">
-<color cs="RGB" tints="0.2980392156862745,0.3607843137254902,0.48627450980392156"/>
-</cs>
-<cs name="Y7023 - Petroleo" fixedID="212">
-<color cs="RGB" tints="0.043137254901960784,0.23137254901960785,0.3254901960784314"/>
-</cs>
-<cs name="Y7149 - Chumbo" fixedID="213">
-<color cs="RGB" tints="0.3058823529411765,0.3568627450980392,0.4470588235294118"/>
-</cs>
-<cs name="Y7137 - Luar" fixedID="214">
-<color cs="RGB" tints="0.49411764705882355,0.5686274509803921,0.6705882352941176"/>
-</cs>
-<cs name="Y7046 - Concreto" fixedID="215">
-<color cs="RGB" tints="0.5333333333333333,0.4980392156862745,0.5568627450980392"/>
-</cs>
-<cs name="Y7150 - Cassiterita" fixedID="216">
-<color cs="RGB" tints="0.48627450980392156,0.4980392156862745,0.5607843137254902"/>
-</cs>
-<cs name="Y7155 - Zinco" fixedID="217">
-<color cs="RGB" tints="0.47843137254901963,0.49019607843137253,0.5725490196078431"/>
-</cs>
-<cs name="Y7047 - Granito" fixedID="218">
-<color cs="RGB" tints="0.40784313725490196,0.396078431372549,0.4549019607843137"/>
-</cs>
-<cs name="Y7082 - Meteoro" fixedID="219">
-<color cs="RGB" tints="0.3568627450980392,0.3333333333333333,0.37254901960784315"/>
-</cs>
-<cs name="Y7154 - Ardosia" fixedID="220">
-<color cs="RGB" tints="0.2980392156862745,0.2980392156862745,0.37254901960784315"/>
-</cs>
-<cs name="PT - Preto" fixedID="221">
-<color cs="RGB" tints="0.1607843137254902,0.1450980392156863,0.16470588235294117"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="1e156bef-910c-4443-ab9c-1aea9c89709b" name="Coats - Sylko Brazil Polyester" locked="true">
+<colors>
+<page>
+<color name="Y7132 - Angelica" cs="RGB" tints="0.9333333333333333,0.9019607843137255,0.792156862745098" fixedID="1"/>
+<color name="Y7029 - Trigo" cs="RGB" tints="0.9450980392156862,0.8705882352941177,0.6745098039215687" fixedID="2"/>
+<color name="Y7030 - Ananas" cs="RGB" tints="0.9490196078431372,0.8901960784313725,0.5215686274509804" fixedID="3"/>
+<color name="Y7160 - Cidra" cs="RGB" tints="0.9411764705882353,0.8549019607843137,0.4549019607843137" fixedID="4"/>
+<color name="Y7058 - Acacia Imperial" cs="RGB" tints="0.9137254901960784,0.8235294117647058,0.13725490196078433" fixedID="5"/>
+<color name="Y7193 - Sol" cs="RGB" tints="0.9568627450980393,0.788235294117647,0.23921568627450981" fixedID="6"/>
+<color name="Y7051 - Alamanda" cs="RGB" tints="0.9058823529411765,0.788235294117647,0.38823529411764707" fixedID="7"/>
+<color name="Y7032 - Gerbera" cs="RGB" tints="0.8901960784313725,0.7254901960784313,0.4117647058823529" fixedID="8"/>
+<color name="Y7159 - Tangerina" cs="RGB" tints="1.0,0.788235294117647,0.4" fixedID="9"/>
+<color name="Y7106 - Amarelo Frenetico" cs="RGB" tints="1.0,0.8196078431372549,0.32941176470588235" fixedID="10"/>
+<color name="Y7157 - Acafrao" cs="RGB" tints="0.9490196078431372,0.6078431372549019,0.16862745098039217" fixedID="11"/>
+<color name="Y7099 - Hi Tec" cs="RGB" tints="1.0,0.42745098039215684,0.19215686274509805" fixedID="12"/>
+<color name="Y7103 - Fresea" cs="RGB" tints="1.0,0.2901960784313726,0.25098039215686274" fixedID="13"/>
+<color name="Y7057 - Mandarim" cs="RGB" tints="0.9490196078431372,0.5333333333333333,0.4549019607843137" fixedID="14"/>
+<color name="Y7122 - Flesh" cs="RGB" tints="0.9647058823529412,0.615686274509804,0.5647058823529412" fixedID="15"/>
+<color name="Y7211 - Damasco" cs="RGB" tints="0.9764705882352941,0.6666666666666666,0.5843137254901961" fixedID="16"/>
+<color name="Y7084 - Pessego" cs="RGB" tints="0.9725490196078431,0.6588235294117647,0.611764705882353" fixedID="17"/>
+<color name="Y7125 - Papaya" cs="RGB" tints="1.0,0.48627450980392156,0.3686274509803922" fixedID="18"/>
+<color name="Y7116 - Sausalito" cs="RGB" tints="0.9450980392156862,0.34901960784313724,0.18823529411764706" fixedID="19"/>
+<color name="Y7095 - Pitanga" cs="RGB" tints="0.9137254901960784,0.403921568627451,0.24313725490196078" fixedID="20"/>
+<color name="Y7037 - Manga" cs="RGB" tints="0.8627450980392157,0.396078431372549,0.2" fixedID="21"/>
+<color name="Y7094 - Dalia" cs="RGB" tints="0.8470588235294118,0.36470588235294116,0.0" fixedID="22"/>
+<color name="Y7052 - Flama" cs="RGB" tints="0.9372549019607843,0.5647058823529412,0.2980392156862745" fixedID="23"/>
+<color name="Y7033 - Real" cs="RGB" tints="0.8823529411764706,0.611764705882353,0.22745098039215686" fixedID="24"/>
+<color name="Y7158 - Girasol" cs="RGB" tints="0.9490196078431372,0.6470588235294118,0.0" fixedID="25"/>
+<color name="Y7049 - Cromo" cs="RGB" tints="0.8784313725490196,0.6470588235294118,0.2196078431372549" fixedID="26"/>
+<color name="Y7130 - Imaginario" cs="RGB" tints="0.9294117647058824,0.8156862745098039,0.807843137254902" fixedID="27"/>
+<color name="Y7081 - Marmore" cs="RGB" tints="0.8941176470588236,0.7411764705882353,0.7490196078431373" fixedID="28"/>
+<color name="Y7213 - Champagne" cs="RGB" tints="0.8941176470588236,0.7137254901960784,0.7019607843137254" fixedID="29"/>
+<color name="Y7129 - Topazio" cs="RGB" tints="0.9764705882352941,0.6980392156862745,0.6509803921568628" fixedID="30"/>
+<color name="Y7161 - Mistico" cs="RGB" tints="0.9450980392156862,0.7333333333333333,0.7176470588235294" fixedID="31"/>
+<color name="Y7162 - Aurora" cs="RGB" tints="0.9176470588235294,0.6705882352941176,0.6549019607843137" fixedID="32"/>
+<color name="Y7163 - Perolado" cs="RGB" tints="0.8352941176470589,0.596078431372549,0.5764705882352941" fixedID="33"/>
+<color name="Y7164 - Rose" cs="RGB" tints="0.8,0.5294117647058824,0.4823529411764706" fixedID="34"/>
+<color name="Y7212 - Salmao" cs="RGB" tints="0.8980392156862745,0.5098039215686274,0.49019607843137253" fixedID="35"/>
+<color name="Y7123 - Coral" cs="RGB" tints="0.9294117647058824,0.39215686274509803,0.4" fixedID="36"/>
+<color name="Y7216 - Coloral" cs="RGB" tints="0.8666666666666667,0.21568627450980393,0.25882352941176473" fixedID="37"/>
+<color name="Y7215 - Fogo" cs="RGB" tints="0.807843137254902,0.0,0.18823529411764706" fixedID="38"/>
+<color name="Y7197 - Primor" cs="RGB" tints="0.7490196078431373,0.21568627450980393,0.2784313725490196" fixedID="39"/>
+<color name="Y7112 - Carmim" cs="RGB" tints="0.7098039215686275,0.0,0.2" fixedID="40"/>
+<color name="Y7066 - Indiano" cs="RGB" tints="0.6235294117647059,0.0,0.16862745098039217" fixedID="41"/>
+<color name="Y7208 - Framboesa" cs="RGB" tints="0.6549019607843137,0.0,0.1843137254901961" fixedID="42"/>
+<color name="Y7007 - Vermelho" cs="RGB" tints="0.6980392156862745,0.0,0.2235294117647059" fixedID="43"/>
+<color name="Y7199 - Scarlate Medio" cs="RGB" tints="0.8,0.0,0.25098039215686274" fixedID="44"/>
+<color name="Y7165 - Scarlate" cs="RGB" tints="0.8196078431372549,0.0784313725490196,0.29411764705882354" fixedID="45"/>
+<color name="Y7220 - Rosacea" cs="RGB" tints="0.8627450980392157,0.27450980392156865,0.4235294117647059" fixedID="46"/>
+<color name="Y7196 - Pink" cs="RGB" tints="0.9176470588235294,0.3686274509803922,0.5490196078431373" fixedID="47"/>
+<color name="Y7090 - Cravo" cs="RGB" tints="0.9254901960784314,0.42745098039215684,0.5686274509803921" fixedID="48"/>
+<color name="Y7004 - Turmalina Rosa" cs="RGB" tints="0.8862745098039215,0.403921568627451,0.611764705882353" fixedID="49"/>
+<color name="Y7100 - Pink Luminoso" cs="RGB" tints="1.0,0.20784313725490197,0.4666666666666667" fixedID="50"/>
+<color name="Y7202 - Rosa Silvestre" cs="RGB" tints="0.9372549019607843,0.8392156862745098,0.9058823529411765" fixedID="51"/>
+<color name="Y7201 - Inocencia" cs="RGB" tints="0.9372549019607843,0.7764705882352941,0.8627450980392157" fixedID="52"/>
+<color name="Y7209 - Rosa Calssico" cs="RGB" tints="0.9568627450980393,0.7294117647058823,0.8235294117647058" fixedID="53"/>
+<color name="Y7002 - Flocus" cs="RGB" tints="0.9333333333333333,0.7294117647058823,0.8" fixedID="54"/>
+<color name="Y7003 - Rosa Cha" cs="RGB" tints="0.9176470588235294,0.6313725490196078,0.7686274509803922" fixedID="55"/>
+<color name="Y7079 - Rubilita" cs="RGB" tints="0.9607843137254902,0.6470588235294118,0.7333333333333333" fixedID="56"/>
+<color name="Y7206 - Ciclame" cs="RGB" tints="0.8823529411764706,0.6039215686274509,0.7137254901960784" fixedID="57"/>
+<color name="Y7217 - Petala" cs="RGB" tints="0.8588235294117647,0.5529411764705883,0.6588235294117647" fixedID="58"/>
+<color name="Y7087 - Azaleia" cs="RGB" tints="0.7686274509803922,0.19215686274509805,0.49411764705882355" fixedID="59"/>
+<color name="Y7005 - Morganita" cs="RGB" tints="0.8549019607843137,0.36470588235294116,0.6" fixedID="60"/>
+<color name="Y7101 - Purpura" cs="RGB" tints="0.8666666666666667,0.3333333333333333,0.592156862745098" fixedID="61"/>
+<color name="Y7104 - Maravilha" cs="RGB" tints="0.996078431372549,0.26666666666666666,0.6235294117647059" fixedID="62"/>
+<color name="Y7006 - Begonia" cs="RGB" tints="0.7607843137254902,0.3411764705882353,0.47843137254901963" fixedID="63"/>
+<color name="Y7210 - Marabu" cs="RGB" tints="0.8196078431372549,0.47058823529411764,0.5647058823529412" fixedID="64"/>
+<color name="Y7228 - brown" cs="RGB" tints="0.9450980392156862,0.4392156862745098,0.49411764705882355" fixedID="65"/>
+<color name="Y7071 - Rosato" cs="RGB" tints="0.8470588235294118,0.47843137254901963,0.5372549019607843" fixedID="66"/>
+<color name="Y7009 - Grena" cs="RGB" tints="0.615686274509804,0.0,0.28627450980392155" fixedID="67"/>
+<color name="Y7171 - Granada" cs="RGB" tints="0.5098039215686274,0.11764705882352941,0.24313725490196078" fixedID="68"/>
+<color name="Y7172 - Hematita" cs="RGB" tints="0.4470588235294118,0.09019607843137255,0.19607843137254902" fixedID="69"/>
+<color name="Y7078 - Sagu" cs="RGB" tints="0.42745098039215684,0.0,0.17254901960784313" fixedID="70"/>
+<color name="Y7173 - Rubi" cs="RGB" tints="0.396078431372549,0.08235294117647059,0.20392156862745098" fixedID="71"/>
+<color name="Y7169 - Cereja" cs="RGB" tints="0.44313725490196076,0.06666666666666667,0.26666666666666666" fixedID="72"/>
+<color name="Y7174 - Uva" cs="RGB" tints="0.4745098039215686,0.0,0.2823529411764706" fixedID="73"/>
+<color name="Y7170 - Bordo" cs="RGB" tints="0.32941176470588235,0.15294117647058825,0.25098039215686274" fixedID="74"/>
+<color name="Y7010 - Amora" cs="RGB" tints="0.4,0.11372549019607843,0.2627450980392157" fixedID="75"/>
+<color name="Y7011 - Quaresmeira" cs="RGB" tints="0.8862745098039215,0.7215686274509804,0.8862745098039215" fixedID="76"/>
+<color name="Y7012 - Rosa Antigo" cs="RGB" tints="0.6941176470588235,0.49019607843137253,0.6352941176470588" fixedID="77"/>
+<color name="Y7109 - Primavera" cs="RGB" tints="0.49019607843137253,0.07450980392156863,0.43529411764705883" fixedID="78"/>
+<color name="Y7185 - Fucsia" cs="RGB" tints="0.45098039215686275,0.0,0.41568627450980394" fixedID="79"/>
+<color name="Y7184 - Ametista" cs="RGB" tints="0.4,0.21176470588235294,0.47843137254901963" fixedID="80"/>
+<color name="Y7110 - Grape" cs="RGB" tints="0.49411764705882355,0.29411764705882354,0.6431372549019608" fixedID="81"/>
+<color name="Y7014 - Orquidea" cs="RGB" tints="0.4588235294117647,0.25098039215686274,0.5882352941176471" fixedID="82"/>
+<color name="Y7059 - Alfazema" cs="RGB" tints="0.7568627450980392,0.6588235294117647,0.8392156862745098" fixedID="83"/>
+<color name="Y7091 - Manaca" cs="RGB" tints="0.6823529411764706,0.5529411764705883,0.8196078431372549" fixedID="84"/>
+<color name="Y7182 - Tecno" cs="RGB" tints="0.43529411764705883,0.3411764705882353,0.4823529411764706" fixedID="85"/>
+<color name="Y7183 - Roxo" cs="RGB" tints="0.29411764705882354,0.07450980392156863,0.3843137254901961" fixedID="86"/>
+<color name="Y7108 - Violeta" cs="RGB" tints="0.2784313725490196,0.19215686274509805,0.4" fixedID="87"/>
+<color name="Y7105 - Lisianthus" cs="RGB" tints="0.3333333333333333,0.2,0.5607843137254902" fixedID="88"/>
+<color name="Y7166 - Violaceo" cs="RGB" tints="0.5372549019607843,0.4666666666666667,0.7333333333333333" fixedID="89"/>
+<color name="Y7013 - Spato" cs="RGB" tints="0.45098039215686275,0.4,0.6509803921568628" fixedID="90"/>
+<color name="Y7086 - Lavanda" cs="RGB" tints="0.6431372549019608,0.6235294117647059,0.796078431372549" fixedID="91"/>
+<color name="Y7167 - Egeu" cs="RGB" tints="0.45098039215686275,0.45098039215686275,0.6588235294117647" fixedID="92"/>
+<color name="Y7146 - Atlantico" cs="RGB" tints="0.4196078431372549,0.47843137254901963,0.6980392156862745" fixedID="93"/>
+<color name="Y7147 - Gin" cs="RGB" tints="0.4666666666666667,0.5607843137254902,0.8" fixedID="94"/>
+<color name="Y7139 - Kaly" cs="RGB" tints="0.7137254901960784,0.7803921568627451,0.9215686274509803" fixedID="95"/>
+<color name="Y7138 - Glacial" cs="RGB" tints="0.5882352941176471,0.6549019607843137,0.7803921568627451" fixedID="96"/>
+<color name="Y7133 - Pacifico" cs="RGB" tints="0.3176470588235294,0.5215686274509804,0.8" fixedID="97"/>
+<color name="Y7134 - Delfin" cs="RGB" tints="0.3137254901960784,0.4588235294117647,0.6980392156862745" fixedID="98"/>
+<color name="Y7020 - Liz" cs="RGB" tints="0.09803921568627451,0.32941176470588235,0.611764705882353" fixedID="99"/>
+<color name="Y7115 - Lapis Lazuli" cs="RGB" tints="0.1411764705882353,0.24313725490196078,0.5333333333333333" fixedID="100"/>
+<color name="Y7021 - Murano" cs="RGB" tints="0.1803921568627451,0.21176470588235294,0.5254901960784314" fixedID="101"/>
+<color name="Y7127 - Marinho" cs="RGB" tints="0.18823529411764706,0.21568627450980393,0.36470588235294116" fixedID="102"/>
+<color name="Y7141 - Sevres" cs="RGB" tints="0.17647058823529413,0.17647058823529413,0.3254901960784314" fixedID="103"/>
+<color name="Y7121 - Noturno" cs="RGB" tints="0.1568627450980392,0.14901960784313725,0.2901960784313726" fixedID="104"/>
+<color name="Y7056 - Azeviche" cs="RGB" tints="0.16862745098039217,0.16862745098039217,0.2980392156862745" fixedID="105"/>
+<color name="Y7024 - Onix" cs="RGB" tints="0.16470588235294117,0.16862745098039217,0.24705882352941178" fixedID="106"/>
+<color name="Y7143 - Azul Antigo" cs="RGB" tints="0.20392156862745098,0.33725490196078434,0.5607843137254902" fixedID="107"/>
+<color name="Y7142 - Azurita" cs="RGB" tints="0.12941176470588237,0.2784313725490196,0.4980392156862745" fixedID="108"/>
+<color name="Y7144 - Riviera" cs="RGB" tints="0.2627450980392157,0.3254901960784314,0.5098039215686274" fixedID="109"/>
+<color name="Y7017 - Petropolis" cs="RGB" tints="0.30980392156862746,0.396078431372549,0.5843137254901961" fixedID="110"/>
+<color name="Y7126 - Dicroico" cs="RGB" tints="0.40784313725490196,0.5176470588235295,0.7294117647058823" fixedID="111"/>
+<color name="Y7131 - Piscina" cs="RGB" tints="0.7764705882352941,0.8196078431372549,0.8509803921568627" fixedID="112"/>
+<color name="Y7218 - Agata" cs="RGB" tints="0.6980392156862745,0.7529411764705882,0.8196078431372549" fixedID="113"/>
+<color name="Y7140 - Ceu" cs="RGB" tints="0.6431372549019608,0.7764705882352941,0.9098039215686274" fixedID="114"/>
+<color name="Y7207 - Agua" cs="RGB" tints="0.6666666666666666,0.7725490196078432,0.8470588235294118" fixedID="115"/>
+<color name="Y7015 - Siames" cs="RGB" tints="0.592156862745098,0.6980392156862745,0.792156862745098" fixedID="116"/>
+<color name="Y7117 - Patina" cs="RGB" tints="0.5568627450980392,0.6901960784313725,0.8117647058823529" fixedID="117"/>
+<color name="Y7065 - Cobalto" cs="RGB" tints="0.3215686274509804,0.5529411764705883,0.7019607843137254" fixedID="118"/>
+<color name="Y7061 - Safira" cs="RGB" tints="0.0,0.24705882352941178,0.396078431372549" fixedID="119"/>
+<color name="Y7019 - Mikonos" cs="RGB" tints="0.0,0.36470588235294116,0.5803921568627451" fixedID="120"/>
+<color name="Y7072 - Turqueza" cs="RGB" tints="0.0,0.4980392156862745,0.6745098039215687" fixedID="121"/>
+<color name="Y7018 - Cancun" cs="RGB" tints="0.18823529411764706,0.5764705882352941,0.7333333333333333" fixedID="122"/>
+<color name="Y7092 - Augua Marinha" cs="RGB" tints="0.3607843137254902,0.6941176470588235,0.803921568627451" fixedID="123"/>
+<color name="Y7145 - Baby" cs="RGB" tints="0.4470588235294118,0.6666666666666666,0.7529411764705882" fixedID="124"/>
+<color name="Y7093 - Avalone" cs="RGB" tints="0.0,0.596078431372549,0.6941176470588235" fixedID="125"/>
+<color name="Y7048 - Jade" cs="RGB" tints="0.5215686274509804,0.7568627450980392,0.7607843137254902" fixedID="126"/>
+<color name="Y7175 - Campesino" cs="RGB" tints="0.1803921568627451,0.6392156862745098,0.6745098039215687" fixedID="127"/>
+<color name="Y7054 - Berilo" cs="RGB" tints="0.0,0.5725490196078431,0.5529411764705883" fixedID="128"/>
+<color name="Y7177 - Pistache" cs="RGB" tints="0.7333333333333333,0.8235294117647058,0.7647058823529411" fixedID="129"/>
+<color name="Y7070 - Artemisia" cs="RGB" tints="0.6705882352941176,0.7490196078431373,0.6745098039215687" fixedID="130"/>
+<color name="Y7176 - Orvalho" cs="RGB" tints="0.5882352941176471,0.6941176470588235,0.6392156862745098" fixedID="131"/>
+<color name="Y7178 - Colonia" cs="RGB" tints="0.47843137254901963,0.7411764705882353,0.5294117647058824" fixedID="132"/>
+<color name="Y7069 - Avenca" cs="RGB" tints="0.2627450980392157,0.6431372549019608,0.4392156862745098" fixedID="133"/>
+<color name="Y7181 - Crisp Jade" cs="RGB" tints="0.3215686274509804,0.6274509803921569,0.4823529411764706" fixedID="134"/>
+<color name="Y7050 - Folha" cs="RGB" tints="0.12549019607843137,0.5411764705882353,0.2980392156862745" fixedID="135"/>
+<color name="Y7075 - Malaquita" cs="RGB" tints="0.0,0.44313725490196076,0.2627450980392157" fixedID="136"/>
+<color name="Y7027 - Esmeralda" cs="RGB" tints="0.07058823529411765,0.34901960784313724,0.23529411764705882" fixedID="137"/>
+<color name="Y7028 - Pepper" cs="RGB" tints="0.0,0.3176470588235294,0.24705882352941178" fixedID="138"/>
+<color name="Y7088 - Hera" cs="RGB" tints="0.1843137254901961,0.23921568627450981,0.18823529411764706" fixedID="139"/>
+<color name="Y7060 - Geranio" cs="RGB" tints="0.3215686274509804,0.42745098039215684,0.16470588235294117" fixedID="140"/>
+<color name="Y7180 - Selva" cs="RGB" tints="0.4627450980392157,0.5294117647058824,0.3607843137254902" fixedID="141"/>
+<color name="Y7063 - Alface" cs="RGB" tints="0.5725490196078431,0.6509803921568628,0.44313725490196076" fixedID="142"/>
+<color name="Y7025 - Palha" cs="RGB" tints="0.7098039215686275,0.7019607843137254,0.5843137254901961" fixedID="143"/>
+<color name="Y7124 - Musguinho" cs="RGB" tints="0.5568627450980392,0.5411764705882353,0.49019607843137253" fixedID="144"/>
+<color name="Y7111 - Outono" cs="RGB" tints="0.4980392156862745,0.4470588235294118,0.10196078431372549" fixedID="145"/>
+<color name="Y7107 - Oliva" cs="RGB" tints="0.43529411764705883,0.33725490196078434,0.13333333333333333" fixedID="146"/>
+<color name="Y7097 - Citrico" cs="RGB" tints="0.8666666666666667,1.0,0.3215686274509804" fixedID="147"/>
+<color name="Y7179 - Lazer" cs="RGB" tints="0.7294117647058823,1.0,0.396078431372549" fixedID="148"/>
+<color name="Y7098 - Verde Luminoso" cs="RGB" tints="0.5725490196078431,0.9098039215686274,0.28627450980392155" fixedID="149"/>
+<color name="Y7102 - Verde Electrico" cs="RGB" tints="0.4470588235294118,0.8784313725490196,0.2980392156862745" fixedID="150"/>
+<color name="Y7026 - Limao" cs="RGB" tints="0.47058823529411764,0.7372549019607844,0.3333333333333333" fixedID="151"/>
+<color name="Y7067 - Dresden" cs="RGB" tints="0.2980392156862745,0.5568627450980392,0.18823529411764706" fixedID="152"/>
+<color name="Y7053 - Boca de Leao" cs="RGB" tints="0.9411764705882353,0.8549019607843137,0.7333333333333333" fixedID="153"/>
+<color name="Y7038 - Duna" cs="RGB" tints="0.8901960784313725,0.788235294117647,0.6588235294117647" fixedID="154"/>
+<color name="Y7214 - Cr�me" cs="RGB" tints="0.9568627450980393,0.8117647058823529,0.6705882352941176" fixedID="155"/>
+<color name="Y7189 - Bege" cs="RGB" tints="0.7764705882352941,0.7019607843137254,0.611764705882353" fixedID="156"/>
+<color name="Y7039 - Nozes" cs="RGB" tints="0.7529411764705882,0.6509803921568628,0.5725490196078431" fixedID="157"/>
+<color name="Y7205 - Caqui" cs="RGB" tints="0.6470588235294118,0.5725490196078431,0.5019607843137255" fixedID="158"/>
+<color name="Y7204 - Cacau" cs="RGB" tints="0.6862745098039216,0.5647058823529412,0.47058823529411764" fixedID="159"/>
+<color name="Y7080 - Craft" cs="RGB" tints="0.6627450980392157,0.5450980392156862,0.47058823529411764" fixedID="160"/>
+<color name="Y7203 - Tropical" cs="RGB" tints="0.6823529411764706,0.5647058823529412,0.4235294117647059" fixedID="161"/>
+<color name="Y7077 - Alabastro" cs="RGB" tints="0.6666666666666666,0.5843137254901961,0.4627450980392157" fixedID="162"/>
+<color name="Y7120 - Mate" cs="RGB" tints="0.5529411764705883,0.4745098039215686,0.3803921568627451" fixedID="163"/>
+<color name="Y7114 - Montana" cs="RGB" tints="0.5137254901960784,0.4470588235294118,0.396078431372549" fixedID="164"/>
+<color name="Y7186 - Mostarda" cs="RGB" tints="0.6862745098039216,0.5647058823529412,0.050980392156862744" fixedID="165"/>
+<color name="Y7119 - Ouro" cs="RGB" tints="0.7647058823529411,0.6274509803921569,0.30196078431372547" fixedID="166"/>
+<color name="Y7128 - Bronze" cs="RGB" tints="0.6784313725490196,0.5333333333333333,0.2784313725490196" fixedID="167"/>
+<color name="Y7083 - Latao" cs="RGB" tints="0.7215686274509804,0.6078431372549019,0.37254901960784315" fixedID="168"/>
+<color name="Y7319 - Ferrugem" cs="RGB" tints="0.7607843137254902,0.6509803921568628,0.44313725490196076" fixedID="169"/>
+<color name="Y7035 - Cobre" cs="RGB" tints="0.6784313725490196,0.36470588235294116,0.15294117647058825" fixedID="170"/>
+<color name="Y7188 - Run" cs="RGB" tints="0.7215686274509804,0.5529411764705883,0.3568627450980392" fixedID="171"/>
+<color name="Y7042 - Havana" cs="RGB" tints="0.5215686274509804,0.33725490196078434,0.1411764705882353" fixedID="172"/>
+<color name="Y7034 - Olho de Tigre" cs="RGB" tints="0.6823529411764706,0.4235294117647059,0.1450980392156863" fixedID="173"/>
+<color name="Y7036 - Sequoia" cs="RGB" tints="0.6588235294117647,0.19215686274509805,0.1450980392156863" fixedID="174"/>
+<color name="Y7068 - Jaspe" cs="RGB" tints="0.7176470588235294,0.4980392156862745,0.3764705882352941" fixedID="175"/>
+<color name="Y7073 - Andalusita" cs="RGB" tints="0.6392156862745098,0.403921568627451,0.2549019607843137" fixedID="176"/>
+<color name="Y7041 - Avela" cs="RGB" tints="0.5372549019607843,0.30980392156862746,0.1843137254901961" fixedID="177"/>
+<color name="Y7275 - dark brown" cs="RGB" tints="0.49411764705882355,0.3137254901960784,0.24313725490196078" fixedID="178"/>
+<color name="Y7043 - Sepia" cs="RGB" tints="0.45098039215686275,0.3176470588235294,0.2823529411764706" fixedID="179"/>
+<color name="Y7306 - brown" cs="RGB" tints="0.41568627450980394,0.2,0.14901960784313725" fixedID="180"/>
+<color name="Y7074 - Caf�" cs="RGB" tints="0.2980392156862745,0.19215686274509805,0.20392156862745098" fixedID="181"/>
+<color name="Y7044 - Trufa" cs="RGB" tints="0.2980392156862745,0.19215686274509805,0.20392156862745098" fixedID="182"/>
+<color name="Y7282 - brown" cs="RGB" tints="0.34901960784313724,0.2235294117647059,0.22745098039215686" fixedID="183"/>
+<color name="Y7195 - Tamara" cs="RGB" tints="0.4,0.30196078431372547,0.2235294117647059" fixedID="184"/>
+<color name="Y7221 - Semente" cs="RGB" tints="0.5607843137254902,0.45098039215686275,0.36470588235294116" fixedID="185"/>
+<color name="Y7298 - brown" cs="RGB" tints="0.7137254901960784,0.5490196078431373,0.48627450980392156" fixedID="186"/>
+<color name="Y7198 - Caramelo" cs="RGB" tints="0.6313725490196078,0.49019607843137253,0.4" fixedID="187"/>
+<color name="Y7040 - Opalina" cs="RGB" tints="0.7764705882352941,0.6470588235294118,0.6039215686274509" fixedID="188"/>
+<color name="Y7219 - Jasmim" cs="RGB" tints="0.9294117647058824,0.8745098039215686,0.8823529411764706" fixedID="189"/>
+<color name="Y7200 - Laguna" cs="RGB" tints="0.8313725490196079,0.788235294117647,0.803921568627451" fixedID="190"/>
+<color name="Y7190 - Areia" cs="RGB" tints="0.7725490196078432,0.6901960784313725,0.6666666666666666" fixedID="191"/>
+<color name="Y7191 - Areia Cava" cs="RGB" tints="0.7607843137254902,0.6666666666666666,0.6588235294117647" fixedID="192"/>
+<color name="Y7113 - Perola" cs="RGB" tints="0.9411764705882353,0.8862745098039215,0.8392156862745098" fixedID="193"/>
+<color name="Y7194 - Marfim" cs="RGB" tints="0.8941176470588236,0.8666666666666667,0.8509803921568627" fixedID="194"/>
+<color name="Y7064 - Persa" cs="RGB" tints="0.4549019607843137,0.45098039215686275,0.44313725490196076" fixedID="195"/>
+<color name="Y7085 - Salvia" cs="RGB" tints="0.7333333333333333,0.7372549019607844,0.7254901960784313" fixedID="196"/>
+<color name="Y7187 - Argamassa" cs="RGB" tints="0.6509803921568628,0.6274509803921569,0.6235294117647059" fixedID="197"/>
+<color name="Y7151 - Grafite" cs="RGB" tints="0.49411764705882355,0.4980392156862745,0.5215686274509804" fixedID="198"/>
+<color name="Y7152 - Cyprus" cs="RGB" tints="0.3411764705882353,0.3411764705882353,0.3803921568627451" fixedID="199"/>
+<color name="Y7089 - Prata" cs="RGB" tints="0.7294117647058823,0.7411764705882353,0.7725490196078432" fixedID="200"/>
+<color name="Y7096 - Aluminio" cs="RGB" tints="0.7568627450980392,0.7254901960784313,0.7568627450980392" fixedID="201"/>
+<color name="Y7271 - light blue" cs="RGB" tints="0.7058823529411765,0.7411764705882353,0.8156862745098039" fixedID="202"/>
+<color name="Y7045 - Zicao" cs="RGB" tints="0.611764705882353,0.6392156862745098,0.6823529411764706" fixedID="203"/>
+<color name="Y7076 - Amianto" cs="RGB" tints="0.6666666666666666,0.6745098039215687,0.7294117647058823" fixedID="204"/>
+<color name="Bc - Branco" cs="RGB" tints="0.9411764705882353,0.9372549019607843,1.0" fixedID="205"/>
+<color name="Y7148 - Bronze Claro" cs="RGB" tints="0.47058823529411764,0.5098039215686274,0.6470588235294118" fixedID="206"/>
+<color name="Y7156 - Alpaca" cs="RGB" tints="0.47058823529411764,0.48627450980392156,0.6" fixedID="207"/>
+<color name="Y7016 - Lotus" cs="RGB" tints="0.4392156862745098,0.49019607843137253,0.611764705882353" fixedID="208"/>
+<color name="Y7136 - Oceanico" cs="RGB" tints="0.3333333333333333,0.4588235294117647,0.6" fixedID="209"/>
+<color name="Y7135 - Requinte" cs="RGB" tints="0.30196078431372547,0.40784313725490196,0.5568627450980392" fixedID="210"/>
+<color name="Y7022 - Minerio" cs="RGB" tints="0.2980392156862745,0.3607843137254902,0.48627450980392156" fixedID="211"/>
+<color name="Y7023 - Petroleo" cs="RGB" tints="0.043137254901960784,0.23137254901960785,0.3254901960784314" fixedID="212"/>
+<color name="Y7149 - Chumbo" cs="RGB" tints="0.3058823529411765,0.3568627450980392,0.4470588235294118" fixedID="213"/>
+<color name="Y7137 - Luar" cs="RGB" tints="0.49411764705882355,0.5686274509803921,0.6705882352941176" fixedID="214"/>
+<color name="Y7046 - Concreto" cs="RGB" tints="0.5333333333333333,0.4980392156862745,0.5568627450980392" fixedID="215"/>
+<color name="Y7150 - Cassiterita" cs="RGB" tints="0.48627450980392156,0.4980392156862745,0.5607843137254902" fixedID="216"/>
+<color name="Y7155 - Zinco" cs="RGB" tints="0.47843137254901963,0.49019607843137253,0.5725490196078431" fixedID="217"/>
+<color name="Y7047 - Granito" cs="RGB" tints="0.40784313725490196,0.396078431372549,0.4549019607843137" fixedID="218"/>
+<color name="Y7082 - Meteoro" cs="RGB" tints="0.3568627450980392,0.3333333333333333,0.37254901960784315" fixedID="219"/>
+<color name="Y7154 - Ardosia" cs="RGB" tints="0.2980392156862745,0.2980392156862745,0.37254901960784315" fixedID="220"/>
+<color name="PT - Preto" cs="RGB" tints="0.1607843137254902,0.1450980392156863,0.16470588235294117" fixedID="221"/>
+</page>
+</colors>
 </palette>

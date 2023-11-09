@@ -1,137 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="91faa029-f880-4062-88ac-8a2c49207d6c" name="Card 70C Cotton" prefix="" locked="true">
-<colorspaces>
-<cs name="1283 - Cherry" fixedID="1">
-<color cs="RGB" tints="0.6,0.2,0.45098039215686275"/>
-</cs>
-<cs name="1240 - Red" fixedID="2">
-<color cs="RGB" tints="1.0,0.0,0.29411764705882354"/>
-</cs>
-<cs name="1258 - Jockey" fixedID="3">
-<color cs="RGB" tints="1.0,0.0,0.4"/>
-</cs>
-<cs name="1228 - Begonia" fixedID="4">
-<color cs="RGB" tints="1.0,0.4,0.6"/>
-</cs>
-<cs name="1232 - French Rose" fixedID="5">
-<color cs="RGB" tints="1.0,0.7254901960784313,0.7450980392156863"/>
-</cs>
-<cs name="1293 - Rose" fixedID="6">
-<color cs="RGB" tints="1.0,0.7254901960784313,0.7450980392156863"/>
-</cs>
-<cs name="1239 - Pink" fixedID="7">
-<color cs="RGB" tints="1.0,0.8745098039215686,0.8470588235294118"/>
-</cs>
-<cs name="1205 - Indian Orange" fixedID="8">
-<color cs="RGB" tints="1.0,0.4,0.0"/>
-</cs>
-<cs name="1274 - Toboggan" fixedID="9">
-<color cs="RGB" tints="1.0,0.6,0.2"/>
-</cs>
-<cs name="1294 - Peach" fixedID="10">
-<color cs="RGB" tints="1.0,0.6,0.4"/>
-</cs>
-<cs name="1238 - Orange" fixedID="11">
-<color cs="RGB" tints="1.0,0.8,0.0"/>
-</cs>
-<cs name="1272 - Goldenrod" fixedID="12">
-<color cs="RGB" tints="1.0,1.0,0.0"/>
-</cs>
-<cs name="1235 - Canary" fixedID="13">
-<color cs="RGB" tints="0.9607843137254902,1.0,0.47058823529411764"/>
-</cs>
-<cs name="1243 - Gold" fixedID="14">
-<color cs="RGB" tints="1.0,0.9411764705882353,0.35294117647058826"/>
-</cs>
-<cs name="1264 - Maize" fixedID="15">
-<color cs="RGB" tints="1.0,0.8745098039215686,0.6"/>
-</cs>
-<cs name="1221 - Forest" fixedID="16">
-<color cs="RGB" tints="0.0,0.4,0.0"/>
-</cs>
-<cs name="1242 - Emerald" fixedID="17">
-<color cs="RGB" tints="0.0,0.6,0.5098039215686274"/>
-</cs>
-<cs name="1259 - Meadow" fixedID="18">
-<color cs="RGB" tints="0.2,0.8,0.2"/>
-</cs>
-<cs name="1226 - Avacado" fixedID="19">
-<color cs="RGB" tints="0.5098039215686274,0.7490196078431373,0.20784313725490197"/>
-</cs>
-<cs name="1244 - Spring Green" fixedID="20">
-<color cs="RGB" tints="0.5490196078431373,0.9019607843137255,0.40784313725490196"/>
-</cs>
-<cs name="1250 - Nile" fixedID="21">
-<color cs="RGB" tints="0.6,1.0,0.4"/>
-</cs>
-<cs name="1292 - Gooseberry" fixedID="22">
-<color cs="RGB" tints="0.2,1.0,0.6"/>
-</cs>
-<cs name="1279 - Mint" fixedID="23">
-<color cs="RGB" tints="0.6,1.0,0.8627450980392157"/>
-</cs>
-<cs name="1204 - Dark Turq." fixedID="24">
-<color cs="RGB" tints="0.4,0.6745098039215687,0.6"/>
-</cs>
-<cs name="1222 - Lt. Turq." fixedID="25">
-<color cs="RGB" tints="0.2,0.6,0.47058823529411764"/>
-</cs>
-<cs name="1284 - Navy" fixedID="26">
-<color cs="RGB" tints="0.0,0.1568627450980392,0.47058823529411764"/>
-</cs>
-<cs name="1236 - Marine" fixedID="27">
-<color cs="RGB" tints="0.0,0.2,0.6"/>
-</cs>
-<cs name="1280 - Royal" fixedID="28">
-<color cs="RGB" tints="0.19607843137254902,0.39215686274509803,0.6666666666666666"/>
-</cs>
-<cs name="1245 - Copen" fixedID="29">
-<color cs="RGB" tints="0.6666666666666666,0.7843137254901961,1.0"/>
-</cs>
-<cs name="1269 - Sky Blue" fixedID="30">
-<color cs="RGB" tints="0.8235294117647058,0.8627450980392157,1.0"/>
-</cs>
-<cs name="1231 - Dawn Blue" fixedID="31">
-<color cs="RGB" tints="0.8980392156862745,0.8980392156862745,1.0"/>
-</cs>
-<cs name="1254 - Pansy" fixedID="32">
-<color cs="RGB" tints="0.6,0.0,0.6"/>
-</cs>
-<cs name="1299 - Lilac" fixedID="33">
-<color cs="RGB" tints="1.0,0.6,1.0"/>
-</cs>
-<cs name="1275 - Slate" fixedID="34">
-<color cs="RGB" tints="0.6,0.6,0.6039215686274509"/>
-</cs>
-<cs name="1281 - Grey" fixedID="35">
-<color cs="RGB" tints="0.7450980392156863,0.7450980392156863,0.7647058823529411"/>
-</cs>
-<cs name="1251 - Seal" fixedID="36">
-<color cs="RGB" tints="0.4,0.2,0.0"/>
-</cs>
-<cs name="1290 - Date" fixedID="37">
-<color cs="RGB" tints="0.6,0.4,0.2"/>
-</cs>
-<cs name="1297 - Aztec" fixedID="38">
-<color cs="RGB" tints="0.7058823529411765,0.5098039215686274,0.29411764705882354"/>
-</cs>
-<cs name="1201 - Old Gold" fixedID="39">
-<color cs="RGB" tints="0.9019607843137255,0.7058823529411765,0.35294117647058826"/>
-</cs>
-<cs name="1273 - Tan" fixedID="40">
-<color cs="RGB" tints="1.0,0.8431372549019608,0.8"/>
-</cs>
-<cs name="1224 - Beige" fixedID="41">
-<color cs="RGB" tints="0.8627450980392157,0.7450980392156863,0.6274509803921569"/>
-</cs>
-<cs name="1200 - Natural" fixedID="42">
-<color cs="RGB" tints="0.9411764705882353,0.8823529411764706,0.7647058823529411"/>
-</cs>
-<cs name="1209 - Black" fixedID="43">
-<color cs="RGB" tints="0.0,0.0,0.0"/>
-</cs>
-<cs name="1210 - White" fixedID="44">
-<color cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="98f9b255-ff80-4cf9-a77a-a7a7d30b16ab" name="Robison-Anton - Card 70C Cotton" locked="true">
+<colors>
+<page>
+<color name="1283 - Cherry" cs="RGB" tints="0.6,0.2,0.45098039215686275" fixedID="1"/>
+<color name="1240 - Red" cs="RGB" tints="1.0,0.0,0.29411764705882354" fixedID="2"/>
+<color name="1258 - Jockey" cs="RGB" tints="1.0,0.0,0.4" fixedID="3"/>
+<color name="1228 - Begonia" cs="RGB" tints="1.0,0.4,0.6" fixedID="4"/>
+<color name="1232 - French Rose" cs="RGB" tints="1.0,0.7254901960784313,0.7450980392156863" fixedID="5"/>
+<color name="1293 - Rose" cs="RGB" tints="1.0,0.7254901960784313,0.7450980392156863" fixedID="6"/>
+<color name="1239 - Pink" cs="RGB" tints="1.0,0.8745098039215686,0.8470588235294118" fixedID="7"/>
+<color name="1205 - Indian Orange" cs="RGB" tints="1.0,0.4,0.0" fixedID="8"/>
+<color name="1274 - Toboggan" cs="RGB" tints="1.0,0.6,0.2" fixedID="9"/>
+<color name="1294 - Peach" cs="RGB" tints="1.0,0.6,0.4" fixedID="10"/>
+<color name="1238 - Orange" cs="RGB" tints="1.0,0.8,0.0" fixedID="11"/>
+<color name="1272 - Goldenrod" cs="RGB" tints="1.0,1.0,0.0" fixedID="12"/>
+<color name="1235 - Canary" cs="RGB" tints="0.9607843137254902,1.0,0.47058823529411764" fixedID="13"/>
+<color name="1243 - Gold" cs="RGB" tints="1.0,0.9411764705882353,0.35294117647058826" fixedID="14"/>
+<color name="1264 - Maize" cs="RGB" tints="1.0,0.8745098039215686,0.6" fixedID="15"/>
+<color name="1221 - Forest" cs="RGB" tints="0.0,0.4,0.0" fixedID="16"/>
+<color name="1242 - Emerald" cs="RGB" tints="0.0,0.6,0.5098039215686274" fixedID="17"/>
+<color name="1259 - Meadow" cs="RGB" tints="0.2,0.8,0.2" fixedID="18"/>
+<color name="1226 - Avacado" cs="RGB" tints="0.5098039215686274,0.7490196078431373,0.20784313725490197" fixedID="19"/>
+<color name="1244 - Spring Green" cs="RGB" tints="0.5490196078431373,0.9019607843137255,0.40784313725490196" fixedID="20"/>
+<color name="1250 - Nile" cs="RGB" tints="0.6,1.0,0.4" fixedID="21"/>
+<color name="1292 - Gooseberry" cs="RGB" tints="0.2,1.0,0.6" fixedID="22"/>
+<color name="1279 - Mint" cs="RGB" tints="0.6,1.0,0.8627450980392157" fixedID="23"/>
+<color name="1204 - Dark Turq." cs="RGB" tints="0.4,0.6745098039215687,0.6" fixedID="24"/>
+<color name="1222 - Lt. Turq." cs="RGB" tints="0.2,0.6,0.47058823529411764" fixedID="25"/>
+<color name="1284 - Navy" cs="RGB" tints="0.0,0.1568627450980392,0.47058823529411764" fixedID="26"/>
+<color name="1236 - Marine" cs="RGB" tints="0.0,0.2,0.6" fixedID="27"/>
+<color name="1280 - Royal" cs="RGB" tints="0.19607843137254902,0.39215686274509803,0.6666666666666666" fixedID="28"/>
+<color name="1245 - Copen" cs="RGB" tints="0.6666666666666666,0.7843137254901961,1.0" fixedID="29"/>
+<color name="1269 - Sky Blue" cs="RGB" tints="0.8235294117647058,0.8627450980392157,1.0" fixedID="30"/>
+<color name="1231 - Dawn Blue" cs="RGB" tints="0.8980392156862745,0.8980392156862745,1.0" fixedID="31"/>
+<color name="1254 - Pansy" cs="RGB" tints="0.6,0.0,0.6" fixedID="32"/>
+<color name="1299 - Lilac" cs="RGB" tints="1.0,0.6,1.0" fixedID="33"/>
+<color name="1275 - Slate" cs="RGB" tints="0.6,0.6,0.6039215686274509" fixedID="34"/>
+<color name="1281 - Grey" cs="RGB" tints="0.7450980392156863,0.7450980392156863,0.7647058823529411" fixedID="35"/>
+<color name="1251 - Seal" cs="RGB" tints="0.4,0.2,0.0" fixedID="36"/>
+<color name="1290 - Date" cs="RGB" tints="0.6,0.4,0.2" fixedID="37"/>
+<color name="1297 - Aztec" cs="RGB" tints="0.7058823529411765,0.5098039215686274,0.29411764705882354" fixedID="38"/>
+<color name="1201 - Old Gold" cs="RGB" tints="0.9019607843137255,0.7058823529411765,0.35294117647058826" fixedID="39"/>
+<color name="1273 - Tan" cs="RGB" tints="1.0,0.8431372549019608,0.8" fixedID="40"/>
+<color name="1224 - Beige" cs="RGB" tints="0.8627450980392157,0.7450980392156863,0.6274509803921569" fixedID="41"/>
+<color name="1200 - Natural" cs="RGB" tints="0.9411764705882353,0.8823529411764706,0.7647058823529411" fixedID="42"/>
+<color name="1209 - Black" cs="RGB" tints="0.0,0.0,0.0" fixedID="43"/>
+<color name="1210 - White" cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0" fixedID="44"/>
+</page>
+</colors>
 </palette>

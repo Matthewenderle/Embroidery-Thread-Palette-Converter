@@ -132,7 +132,7 @@ for row in rows:
 
 
 for chart in charts:
-    file_path = './swatches/'
+    file_path = './adobe-swatches/'
     if chart[1] == chart[3]:
         file_path += sanitize_file_name(f'{chart[3]}.ase')
     else:

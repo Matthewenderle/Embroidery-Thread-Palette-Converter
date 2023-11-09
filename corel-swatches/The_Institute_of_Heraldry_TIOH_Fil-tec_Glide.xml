@@ -1,155 +1,61 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="efe9b150-751f-4078-9b2f-f1120894f288" name="Fil-tec Glide" prefix="" locked="true">
-<colorspaces>
-<cs name="27582 - Spice Brown (67196 - Spice Brown)" fixedID="1">
-<color cs="RGB" tints="0.403921568627451,0.2784313725490196,0.21176470588235294"/>
-</cs>
-<cs name="11001 - Black (67138 - Black)" fixedID="2">
-<color cs="RGB" tints="0.0,0.0,0.0"/>
-</cs>
-<cs name="60455 - Olive Drab (67133 - Olive Drab)" fixedID="3">
-<color cs="RGB" tints="0.4117647058823529,0.3568627450980392,0.1411764705882353"/>
-</cs>
-<cs name="30287 - Bombay (67118 - Ultra-Marine Blue)" fixedID="4">
-<color cs="RGB" tints="0.0,0.2196078431372549,0.5764705882352941"/>
-</cs>
-<cs name="10WG1 - Linen (67140 - Ivory)" fixedID="5">
-<color cs="RGB" tints="0.9803921568627451,0.9411764705882353,0.9019607843137255"/>
-</cs>
-<cs name="32767 - Deep Sea (67122 - Colbalt Blue)" fixedID="6">
-<color cs="RGB" tints="0.09411764705882353,0.16862745098039217,0.28627450980392155"/>
-</cs>
-<cs name="81235 - Butter (67108 - Yellow)" fixedID="7">
-<color cs="RGB" tints="1.0,0.7215686274509804,0.10980392156862745"/>
-</cs>
-<cs name="32210 - Space (67207 - Space Blue)" fixedID="8">
-<color cs="RGB" tints="0.2784313725490196,0.396078431372549,0.4823529411764706"/>
-</cs>
-<cs name="17529 - Putty (67197 - Putty )" fixedID="9">
-<color cs="RGB" tints="0.7176470588235294,0.6627450980392157,0.6039215686274509"/>
-</cs>
-<cs name="60451 - Bagby Green (67204 - Bagby Green)" fixedID="10">
-<color cs="RGB" tints="0.6078431372549019,0.5803921568627451,0.37254901960784315"/>
-</cs>
-<cs name="30533 - Presidential (67126 - Dark Blue)" fixedID="11">
-<color cs="RGB" tints="0.12156862745098039,0.16470588235294117,0.26666666666666666"/>
-</cs>
-<cs name="27403 - Buttermilk (67106 - Gold USMC)" fixedID="12">
-<color cs="RGB" tints="0.9333333333333333,0.8313725490196079,0.5176470588235295"/>
-</cs>
-<cs name="80135 - Jubilee (67104 - Golden Yellow)" fixedID="13">
-<color cs="RGB" tints="1.0,0.7764705882352941,0.34509803921568627"/>
-</cs>
-<cs name="70032 - Cherry (67154 - MC Scarlet)" fixedID="14">
-<color cs="RGB" tints="0.9372549019607843,0.2,0.25098039215686274"/>
-</cs>
-<cs name="30296 - Midnight Navy (67181 - Graphite Blue)" fixedID="15">
-<color cs="RGB" tints="0.0,0.17647058823529413,0.2784313725490196"/>
-</cs>
-<cs name="70187 - Ruby (67155 - Cardinal Red)" fixedID="16">
-<color cs="RGB" tints="0.6862745098039216,0.11764705882352941,0.17647058823529413"/>
-</cs>
-<cs name="27559 - Brass (67147 - Bronze)" fixedID="17">
-<color cs="RGB" tints="0.5607843137254902,0.41568627450980394,0.16470588235294117"/>
-</cs>
-<cs name="80116 - Mango (67103 - Air Force Yellow)" fixedID="18">
-<color cs="RGB" tints="0.9882352941176471,0.8196078431372549,0.08627450980392157"/>
-</cs>
-<cs name="71797 - Imperial (67111 - Scarlet)" fixedID="19">
-<color cs="RGB" tints="0.8,0.17647058823529413,0.18823529411764706"/>
-</cs>
-<cs name="24535 - Shell (67193 - Khaki)" fixedID="20">
-<color cs="RGB" tints="0.8588235294117647,0.807843137254902,0.6470588235294118"/>
-</cs>
-<cs name="30712 - Bluebird (67117 - Bluebird)" fixedID="21">
-<color cs="RGB" tints="0.2823529411764706,0.23137254901960785,0.8745098039215686"/>
-</cs>
-<cs name="62269 - Lime (67128 - Emerald)" fixedID="22">
-<color cs="RGB" tints="0.48627450980392156,0.8,0.4235294117647059"/>
-</cs>
-<cs name="45115 - Wine (67114 - Maroon)" fixedID="23">
-<color cs="RGB" tints="0.30980392156862746,0.12941176470588237,0.22745098039215686"/>
-</cs>
-<cs name="42607 - Raven (67115 - Purple HP)" fixedID="24">
-<color cs="RGB" tints="0.3568627450980392,0.00784313725490196,0.47843137254901963"/>
-</cs>
-<cs name="60343 - Christmas Pine (67130 - Spruce Green)" fixedID="25">
-<color cs="RGB" tints="0.0,0.33725490196078434,0.24705882352941178"/>
-</cs>
-<cs name="32757 - Federal (67178 - Old Glory Blue)" fixedID="26">
-<color cs="RGB" tints="0.0784313725490196,0.08627450980392157,0.32941176470588235"/>
-</cs>
-<cs name="30655 - Captain Navy (67179 - Navy Blue)" fixedID="27">
-<color cs="RGB" tints="0.047058823529411764,0.10980392156862745,0.2784313725490196"/>
-</cs>
-<cs name="20730 - Light Copper (67195 - Toast HCU)" fixedID="28">
-<color cs="RGB" tints="0.6666666666666666,0.4588235294117647,0.24705882352941178"/>
-</cs>
-<cs name="50138 - Bronze (67109 - Golden Orange)" fixedID="29">
-<color cs="RGB" tints="0.8470588235294118,0.5490196078431373,0.00784313725490196"/>
-</cs>
-<cs name="80108 - Bright Yellow (67145 - Star Yellow)" fixedID="30">
-<color cs="RGB" tints="0.9764705882352941,0.8666666666666667,0.08627450980392157"/>
-</cs>
-<cs name="80120 - Cornflower (67144 - Lemon Yellow)" fixedID="31">
-<color cs="RGB" tints="0.9764705882352941,0.8862745098039215,0.4980392156862745"/>
-</cs>
-<cs name="60382 - Avocado (67127 - Moss Stone Green)" fixedID="32">
-<color cs="RGB" tints="0.7294117647058823,0.8470588235294118,0.0392156862745098"/>
-</cs>
-<cs name="60355 - Forest (67189 - Irish Green)" fixedID="33">
-<color cs="RGB" tints="0.0,0.6196078431372549,0.28627450980392155"/>
-</cs>
-<cs name="51675 - Burnt Orange (67148 - Oriole Orange)" fixedID="34">
-<color cs="RGB" tints="0.6470588235294118,0.24705882352941178,0.058823529411764705"/>
-</cs>
-<cs name="12332 - Dolphin (67200 - Grey HCZ)" fixedID="35">
-<color cs="RGB" tints="0.5490196078431373,0.5372549019607843,0.5215686274509804"/>
-</cs>
-<cs name="30286 - Empire (67177 - Corsaire Blue)" fixedID="36">
-<color cs="RGB" tints="0.0,0.2196078431372549,0.6588235294117647"/>
-</cs>
-<cs name="50202 - Orange (67710 - Orange HK)" fixedID="37">
-<color cs="RGB" tints="0.9568627450980393,0.38823529411764707,0.22745098039215686"/>
-</cs>
-<cs name="10004 - Silver Grey (67137 - Silver Grey HAM)" fixedID="38">
-<color cs="RGB" tints="0.6901960784313725,0.6509803921568628,0.6"/>
-</cs>
-<cs name="30292 - Oriental Blue (67122 - Oriental Blue)" fixedID="39">
-<color cs="RGB" tints="0.0,0.611764705882353,0.8705882352941177"/>
-</cs>
-<cs name="10735 - Stargazer (67116 - Sky Blue)" fixedID="40">
-<color cs="RGB" tints="0.7333333333333333,0.7803921568627451,0.8392156862745098"/>
-</cs>
-<cs name="10332 - Gravel (67201 - Smoke)" fixedID="41">
-<color cs="RGB" tints="0.4235294117647059,0.39215686274509803,0.38823529411764707"/>
-</cs>
-<cs name="80841 - Goldenlight (67107 - Golden Light)" fixedID="42">
-<color cs="RGB" tints="0.996078431372549,0.796078431372549,0.5254901960784314"/>
-</cs>
-<cs name="15345 - Brittany Blue (67119 - Brittany Blue)" fixedID="43">
-<color cs="RGB" tints="0.8470588235294118,0.8431372549019608,0.8745098039215686"/>
-</cs>
-<cs name="57067 - Terra Cotta (67150 - Terra Cotta)" fixedID="44">
-<color cs="RGB" tints="0.6470588235294118,0.24705882352941178,0.058823529411764705"/>
-</cs>
-<cs name="10614 - Air Force Grey (67203 - Air Force Grey)" fixedID="45">
-<color cs="RGB" tints="0.49411764705882355,0.4980392156862745,0.4549019607843137"/>
-</cs>
-<cs name="90186 - Candy Apple Red (67156 - Old Glory Red)" fixedID="46">
-<color cs="RGB" tints="0.807843137254902,0.06666666666666667,0.14901960784313725"/>
-</cs>
-<cs name="60944 - Marine Corp (67205 - Marine Corp OD)" fixedID="47">
-<color cs="RGB" tints="0.3764705882352941,0.8666666666666667,0.28627450980392155"/>
-</cs>
-<cs name="63677 - Combat (67134 - Olive HAJ)" fixedID="48">
-<color cs="RGB" tints="0.34509803921568627,0.3607843137254902,0.23137254901960785"/>
-</cs>
-<cs name="67445 - Army Green (67131 - Army Green)" fixedID="49">
-<color cs="RGB" tints="0.4588235294117647,0.4392156862745098,0.16862745098039217"/>
-</cs>
-<cs name="67165 - Grotto Blue (30136 - Grotto Blue)" fixedID="50">
-<color cs="RGB" tints="0.4588235294117647,0.4392156862745098,0.16862745098039217"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="567c6127-b6dc-40e3-9dd0-82964aa718a2" name="The Institute of Heraldry (TIOH) - Fil-tec Glide" locked="true">
+<colors>
+<page>
+<color name="27582 - Spice Brown (67196 - Spice Brown)" cs="RGB" tints="0.403921568627451,0.2784313725490196,0.21176470588235294" fixedID="1"/>
+<color name="11001 - Black (67138 - Black)" cs="RGB" tints="0.0,0.0,0.0" fixedID="2"/>
+<color name="60455 - Olive Drab (67133 - Olive Drab)" cs="RGB" tints="0.4117647058823529,0.3568627450980392,0.1411764705882353" fixedID="3"/>
+<color name="30287 - Bombay (67118 - Ultra-Marine Blue)" cs="RGB" tints="0.0,0.2196078431372549,0.5764705882352941" fixedID="4"/>
+<color name="10WG1 - Linen (67140 - Ivory)" cs="RGB" tints="0.9803921568627451,0.9411764705882353,0.9019607843137255" fixedID="5"/>
+<color name="32767 - Deep Sea (67122 - Colbalt Blue)" cs="RGB" tints="0.09411764705882353,0.16862745098039217,0.28627450980392155" fixedID="6"/>
+<color name="81235 - Butter (67108 - Yellow)" cs="RGB" tints="1.0,0.7215686274509804,0.10980392156862745" fixedID="7"/>
+<color name="32210 - Space (67207 - Space Blue)" cs="RGB" tints="0.2784313725490196,0.396078431372549,0.4823529411764706" fixedID="8"/>
+<color name="17529 - Putty (67197 - Putty )" cs="RGB" tints="0.7176470588235294,0.6627450980392157,0.6039215686274509" fixedID="9"/>
+<color name="60451 - Bagby Green (67204 - Bagby Green)" cs="RGB" tints="0.6078431372549019,0.5803921568627451,0.37254901960784315" fixedID="10"/>
+<color name="30533 - Presidential (67126 - Dark Blue)" cs="RGB" tints="0.12156862745098039,0.16470588235294117,0.26666666666666666" fixedID="11"/>
+<color name="27403 - Buttermilk (67106 - Gold USMC)" cs="RGB" tints="0.9333333333333333,0.8313725490196079,0.5176470588235295" fixedID="12"/>
+<color name="80135 - Jubilee (67104 - Golden Yellow)" cs="RGB" tints="1.0,0.7764705882352941,0.34509803921568627" fixedID="13"/>
+<color name="70032 - Cherry (67154 - MC Scarlet)" cs="RGB" tints="0.9372549019607843,0.2,0.25098039215686274" fixedID="14"/>
+<color name="30296 - Midnight Navy (67181 - Graphite Blue)" cs="RGB" tints="0.0,0.17647058823529413,0.2784313725490196" fixedID="15"/>
+<color name="70187 - Ruby (67155 - Cardinal Red)" cs="RGB" tints="0.6862745098039216,0.11764705882352941,0.17647058823529413" fixedID="16"/>
+<color name="27559 - Brass (67147 - Bronze)" cs="RGB" tints="0.5607843137254902,0.41568627450980394,0.16470588235294117" fixedID="17"/>
+<color name="80116 - Mango (67103 - Air Force Yellow)" cs="RGB" tints="0.9882352941176471,0.8196078431372549,0.08627450980392157" fixedID="18"/>
+<color name="71797 - Imperial (67111 - Scarlet)" cs="RGB" tints="0.8,0.17647058823529413,0.18823529411764706" fixedID="19"/>
+<color name="24535 - Shell (67193 - Khaki)" cs="RGB" tints="0.8588235294117647,0.807843137254902,0.6470588235294118" fixedID="20"/>
+<color name="30712 - Bluebird (67117 - Bluebird)" cs="RGB" tints="0.2823529411764706,0.23137254901960785,0.8745098039215686" fixedID="21"/>
+<color name="62269 - Lime (67128 - Emerald)" cs="RGB" tints="0.48627450980392156,0.8,0.4235294117647059" fixedID="22"/>
+<color name="45115 - Wine (67114 - Maroon)" cs="RGB" tints="0.30980392156862746,0.12941176470588237,0.22745098039215686" fixedID="23"/>
+<color name="42607 - Raven (67115 - Purple HP)" cs="RGB" tints="0.3568627450980392,0.00784313725490196,0.47843137254901963" fixedID="24"/>
+<color name="60343 - Christmas Pine (67130 - Spruce Green)" cs="RGB" tints="0.0,0.33725490196078434,0.24705882352941178" fixedID="25"/>
+<color name="32757 - Federal (67178 - Old Glory Blue)" cs="RGB" tints="0.0784313725490196,0.08627450980392157,0.32941176470588235" fixedID="26"/>
+<color name="30655 - Captain Navy (67179 - Navy Blue)" cs="RGB" tints="0.047058823529411764,0.10980392156862745,0.2784313725490196" fixedID="27"/>
+<color name="20730 - Light Copper (67195 - Toast HCU)" cs="RGB" tints="0.6666666666666666,0.4588235294117647,0.24705882352941178" fixedID="28"/>
+<color name="50138 - Bronze (67109 - Golden Orange)" cs="RGB" tints="0.8470588235294118,0.5490196078431373,0.00784313725490196" fixedID="29"/>
+<color name="80108 - Bright Yellow (67145 - Star Yellow)" cs="RGB" tints="0.9764705882352941,0.8666666666666667,0.08627450980392157" fixedID="30"/>
+<color name="80120 - Cornflower (67144 - Lemon Yellow)" cs="RGB" tints="0.9764705882352941,0.8862745098039215,0.4980392156862745" fixedID="31"/>
+<color name="60382 - Avocado (67127 - Moss Stone Green)" cs="RGB" tints="0.7294117647058823,0.8470588235294118,0.0392156862745098" fixedID="32"/>
+<color name="60355 - Forest (67189 - Irish Green)" cs="RGB" tints="0.0,0.6196078431372549,0.28627450980392155" fixedID="33"/>
+<color name="51675 - Burnt Orange (67148 - Oriole Orange)" cs="RGB" tints="0.6470588235294118,0.24705882352941178,0.058823529411764705" fixedID="34"/>
+<color name="12332 - Dolphin (67200 - Grey HCZ)" cs="RGB" tints="0.5490196078431373,0.5372549019607843,0.5215686274509804" fixedID="35"/>
+<color name="30286 - Empire (67177 - Corsaire Blue)" cs="RGB" tints="0.0,0.2196078431372549,0.6588235294117647" fixedID="36"/>
+<color name="50202 - Orange (67710 - Orange HK)" cs="RGB" tints="0.9568627450980393,0.38823529411764707,0.22745098039215686" fixedID="37"/>
+<color name="10004 - Silver Grey (67137 - Silver Grey HAM)" cs="RGB" tints="0.6901960784313725,0.6509803921568628,0.6" fixedID="38"/>
+<color name="30292 - Oriental Blue (67122 - Oriental Blue)" cs="RGB" tints="0.0,0.611764705882353,0.8705882352941177" fixedID="39"/>
+<color name="10735 - Stargazer (67116 - Sky Blue)" cs="RGB" tints="0.7333333333333333,0.7803921568627451,0.8392156862745098" fixedID="40"/>
+<color name="10332 - Gravel (67201 - Smoke)" cs="RGB" tints="0.4235294117647059,0.39215686274509803,0.38823529411764707" fixedID="41"/>
+<color name="80841 - Goldenlight (67107 - Golden Light)" cs="RGB" tints="0.996078431372549,0.796078431372549,0.5254901960784314" fixedID="42"/>
+<color name="15345 - Brittany Blue (67119 - Brittany Blue)" cs="RGB" tints="0.8470588235294118,0.8431372549019608,0.8745098039215686" fixedID="43"/>
+<color name="57067 - Terra Cotta (67150 - Terra Cotta)" cs="RGB" tints="0.6470588235294118,0.24705882352941178,0.058823529411764705" fixedID="44"/>
+<color name="10614 - Air Force Grey (67203 - Air Force Grey)" cs="RGB" tints="0.49411764705882355,0.4980392156862745,0.4549019607843137" fixedID="45"/>
+<color name="90186 - Candy Apple Red (67156 - Old Glory Red)" cs="RGB" tints="0.807843137254902,0.06666666666666667,0.14901960784313725" fixedID="46"/>
+<color name="60944 - Marine Corp (67205 - Marine Corp OD)" cs="RGB" tints="0.3764705882352941,0.8666666666666667,0.28627450980392155" fixedID="47"/>
+<color name="63677 - Combat (67134 - Olive HAJ)" cs="RGB" tints="0.34509803921568627,0.3607843137254902,0.23137254901960785" fixedID="48"/>
+<color name="67445 - Army Green (67131 - Army Green)" cs="RGB" tints="0.4588235294117647,0.4392156862745098,0.16862745098039217" fixedID="49"/>
+<color name="67165 - Grotto Blue (30136 - Grotto Blue)" cs="RGB" tints="0.4588235294117647,0.4392156862745098,0.16862745098039217" fixedID="50"/>
+</page>
+</colors>
 </palette>

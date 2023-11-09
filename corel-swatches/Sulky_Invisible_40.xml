@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="ac13d7e1-dd5e-47eb-805f-d3b79e55f686" name="Invisible 40" prefix="" locked="true">
-<colorspaces>
-<cs name="﻿0002 - transparent smoke" fixedID="1">
-<color cs="RGB" tints="0.5019607843137255,0.5019607843137255,0.5019607843137255"/>
-</cs>
-<cs name="0001 - transparent" fixedID="2">
-<color cs="RGB" tints="1.0,1.0,1.0"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="dadfa8d5-38e6-4186-a368-0fb27c9db15f" name="Sulky - Invisible 40" locked="true">
+<colors>
+<page>
+<color name="﻿0002 - transparent smoke" cs="RGB" tints="0.5019607843137255,0.5019607843137255,0.5019607843137255" fixedID="1"/>
+<color name="0001 - transparent" cs="RGB" tints="1.0,1.0,1.0" fixedID="2"/>
+</page>
+</colors>
 </palette>

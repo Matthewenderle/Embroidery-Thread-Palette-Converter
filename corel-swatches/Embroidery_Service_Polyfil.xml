@@ -1,599 +1,209 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="4bc9df97-ad17-4421-a443-938ebab53e2f" name="Polyfil" prefix="" locked="true">
-<colorspaces>
-<cs name="91001 - Bianco" fixedID="1">
-<color cs="RGB" tints="0.8745098039215686,0.9372549019607843,1.0"/>
-</cs>
-<cs name="91002 - Bianco Sporco" fixedID="2">
-<color cs="RGB" tints="0.9647058823529412,0.984313725490196,0.9490196078431372"/>
-</cs>
-<cs name="91005 - Nero" fixedID="3">
-<color cs="RGB" tints="0.12941176470588237,0.15294117647058825,0.15294117647058825"/>
-</cs>
-<cs name="91015 - Giallo Sole" fixedID="4">
-<color cs="RGB" tints="0.9686274509803922,0.7137254901960784,0.21176470588235294"/>
-</cs>
-<cs name="91023 - Giallo Crema" fixedID="5">
-<color cs="RGB" tints="0.996078431372549,0.807843137254902,0.1843137254901961"/>
-</cs>
-<cs name="91028 - Azzurro Carta Zucch. Pal" fixedID="6">
-<color cs="RGB" tints="0.5333333333333333,0.6941176470588235,0.8"/>
-</cs>
-<cs name="91041 - Grigio Piombo" fixedID="7">
-<color cs="RGB" tints="0.42745098039215684,0.4627450980392157,0.4588235294117647"/>
-</cs>
-<cs name="91044 - Blu Scuro" fixedID="8">
-<color cs="RGB" tints="0.2549019607843137,0.3215686274509804,0.41568627450980394"/>
-</cs>
-<cs name="91046 - Marr. Prugna Sc" fixedID="9">
-<color cs="RGB" tints="0.6352941176470588,0.5176470588235295,0.5333333333333333"/>
-</cs>
-<cs name="91049 - Fuxia Chiaro" fixedID="10">
-<color cs="RGB" tints="0.9098039215686274,0.6588235294117647,0.792156862745098"/>
-</cs>
-<cs name="91059 - Marrone Testa Di Moro" fixedID="11">
-<color cs="RGB" tints="0.23137254901960785,0.20784313725490197,0.1843137254901961"/>
-</cs>
-<cs name="91068 - Azzurro Ghiaccio" fixedID="12">
-<color cs="RGB" tints="0.788235294117647,0.9137254901960784,0.9372549019607843"/>
-</cs>
-<cs name="91070 - Giallo Crema Scuro" fixedID="13">
-<color cs="RGB" tints="0.9725490196078431,0.8431372549019608,0.5372549019607843"/>
-</cs>
-<cs name="91075 - Azzurro Lavanda Medio" fixedID="14">
-<color cs="RGB" tints="0.5490196078431373,0.6352941176470588,0.803921568627451"/>
-</cs>
-<cs name="91077 - Verde Acqua" fixedID="15">
-<color cs="RGB" tints="0.8235294117647058,0.9176470588235294,0.8235294117647058"/>
-</cs>
-<cs name="91082 - Platino Chiaro" fixedID="16">
-<color cs="RGB" tints="0.9098039215686274,0.8274509803921568,0.6784313725490196"/>
-</cs>
-<cs name="91083 - Giallo Oro" fixedID="17">
-<color cs="RGB" tints="0.9882352941176471,0.7764705882352941,0.3176470588235294"/>
-</cs>
-<cs name="91094 - Azzurro Ceruleo Medio" fixedID="18">
-<color cs="RGB" tints="0.11372549019607843,0.4470588235294118,0.5686274509803921"/>
-</cs>
-<cs name="91095 - Azzurro Ceruleo Scuro" fixedID="19">
-<color cs="RGB" tints="0.10196078431372549,0.43137254901960786,0.5568627450980392"/>
-</cs>
-<cs name="91103 - Verde Bosco Scuro" fixedID="20">
-<color cs="RGB" tints="0.25882352941176473,0.3137254901960784,0.25098039215686274"/>
-</cs>
-<cs name="91119 - Rosa Antico Chiaro" fixedID="21">
-<color cs="RGB" tints="0.8705882352941177,0.5764705882352941,0.6745098039215687"/>
-</cs>
-<cs name="91123 - Giallo" fixedID="22">
-<color cs="RGB" tints="1.0,0.8196078431372549,0.1843137254901961"/>
-</cs>
-<cs name="91137 - Platino" fixedID="23">
-<color cs="RGB" tints="0.8666666666666667,0.8392156862745098,0.7568627450980392"/>
-</cs>
-<cs name="91143 - Marrone Tortora Scuro" fixedID="24">
-<color cs="RGB" tints="0.5686274509803921,0.49411764705882355,0.403921568627451"/>
-</cs>
-<cs name="91147 - Rame Medio" fixedID="25">
-<color cs="RGB" tints="0.6431372549019608,0.34901960784313724,0.25098039215686274"/>
-</cs>
-<cs name="91152 - Marrone Rosato Chiaro" fixedID="26">
-<color cs="RGB" tints="0.7647058823529411,0.5843137254901961,0.4549019607843137"/>
-</cs>
-<cs name="91164 - Grigio Azzurrato Chiaro" fixedID="27">
-<color cs="RGB" tints="0.803921568627451,0.8196078431372549,0.8392156862745098"/>
-</cs>
-<cs name="91165 - Grigio Azzurrato Chiaro" fixedID="28">
-<color cs="RGB" tints="0.7686274509803922,0.7803921568627451,0.8"/>
-</cs>
-<cs name="91167 - Grigio Azzurrato Chiaro" fixedID="29">
-<color cs="RGB" tints="0.5098039215686274,0.5725490196078431,0.6235294117647059"/>
-</cs>
-<cs name="91179 - Tortora Medio" fixedID="30">
-<color cs="RGB" tints="0.6352941176470588,0.5372549019607843,0.4666666666666667"/>
-</cs>
-<cs name="91182 - Tortora Scuro" fixedID="31">
-<color cs="RGB" tints="0.5647058823529412,0.5137254901960784,0.44313725490196076"/>
-</cs>
-<cs name="91190 - Malva" fixedID="32">
-<color cs="RGB" tints="0.7137254901960784,0.42745098039215684,0.5215686274509804"/>
-</cs>
-<cs name="91195 - Viola Melanzana" fixedID="33">
-<color cs="RGB" tints="0.2980392156862745,0.22745098039215686,0.5372549019607843"/>
-</cs>
-<cs name="91198 - Blu Avio Scuro" fixedID="34">
-<color cs="RGB" tints="0.34901960784313724,0.44313725490196076,0.5607843137254902"/>
-</cs>
-<cs name="91200 - Blu Scuro" fixedID="35">
-<color cs="RGB" tints="0.15294117647058825,0.30980392156862746,0.4745098039215686"/>
-</cs>
-<cs name="91220 - Grigio Ferro" fixedID="36">
-<color cs="RGB" tints="0.5372549019607843,0.5215686274509804,0.5568627450980392"/>
-</cs>
-<cs name="91282 - Blu Scuro" fixedID="37">
-<color cs="RGB" tints="0.18823529411764706,0.27450980392156865,0.45098039215686275"/>
-</cs>
-<cs name="91363 - Verde Oliva Scuro" fixedID="38">
-<color cs="RGB" tints="0.42745098039215684,0.41568627450980394,0.2627450980392157"/>
-</cs>
-<cs name="91364 - Oro Antico" fixedID="39">
-<color cs="RGB" tints="0.7176470588235294,0.5254901960784314,0.24313725490196078"/>
-</cs>
-<cs name="91367 - Giallo Oro Scuro" fixedID="40">
-<color cs="RGB" tints="0.984313725490196,0.7647058823529411,0.3333333333333333"/>
-</cs>
-<cs name="91393 - Rosso" fixedID="41">
-<color cs="RGB" tints="0.7098039215686275,0.23529411764705882,0.20392156862745098"/>
-</cs>
-<cs name="91397 - Marrone Testa Di Moro" fixedID="42">
-<color cs="RGB" tints="0.2901960784313726,0.24705882352941178,0.2235294117647059"/>
-</cs>
-<cs name="91416 - Violetto Cobalto" fixedID="43">
-<color cs="RGB" tints="0.30196078431372547,0.33725490196078434,0.6196078431372549"/>
-</cs>
-<cs name="91418 - Malva" fixedID="44">
-<color cs="RGB" tints="0.7529411764705882,0.7333333333333333,0.8196078431372549"/>
-</cs>
-<cs name="91428 - Azzurro Carta Da Zucchero" fixedID="45">
-<color cs="RGB" tints="0.3803921568627451,0.596078431372549,0.7333333333333333"/>
-</cs>
-<cs name="91429 - Turchese Scuro" fixedID="46">
-<color cs="RGB" tints="0.0,0.5254901960784314,0.7803921568627451"/>
-</cs>
-<cs name="91439 - Grigio Scuro" fixedID="47">
-<color cs="RGB" tints="0.38823529411764707,0.43137254901960786,0.4235294117647059"/>
-</cs>
-<cs name="91508 - Verde Salvia" fixedID="48">
-<color cs="RGB" tints="0.6862745098039216,0.7490196078431373,0.6078431372549019"/>
-</cs>
-<cs name="91535 - Blu Royal Medio" fixedID="49">
-<color cs="RGB" tints="0.011764705882352941,0.33725490196078434,0.6431372549019608"/>
-</cs>
-<cs name="91536 - Verde Bosco" fixedID="50">
-<color cs="RGB" tints="0.17254901960784313,0.33725490196078434,0.2784313725490196"/>
-</cs>
-<cs name="91612 - Grigio Chiaro" fixedID="51">
-<color cs="RGB" tints="0.6431372549019608,0.6784313725490196,0.6862745098039216"/>
-</cs>
-<cs name="91616 - Arancio Rosato Scuro" fixedID="52">
-<color cs="RGB" tints="0.8784313725490196,0.43529411764705883,0.38823529411764707"/>
-</cs>
-<cs name="91619 - Grigio Medio" fixedID="53">
-<color cs="RGB" tints="0.4823529411764706,0.5215686274509804,0.5529411764705883"/>
-</cs>
-<cs name="91620 - Arancio Rosato Chiaro" fixedID="54">
-<color cs="RGB" tints="0.9607843137254902,0.611764705882353,0.6235294117647059"/>
-</cs>
-<cs name="91621 - Arancio Carota Scuro" fixedID="55">
-<color cs="RGB" tints="0.8823529411764706,0.47058823529411764,0.2549019607843137"/>
-</cs>
-<cs name="91624 - Giallo Sole" fixedID="56">
-<color cs="RGB" tints="0.9803921568627451,0.792156862745098,0.3568627450980392"/>
-</cs>
-<cs name="91628 - Azzurro Carta Da Zucchero" fixedID="57">
-<color cs="RGB" tints="0.4392156862745098,0.6509803921568628,0.792156862745098"/>
-</cs>
-<cs name="91631 - Lilla Scuro" fixedID="58">
-<color cs="RGB" tints="0.6862745098039216,0.5686274509803921,0.792156862745098"/>
-</cs>
-<cs name="91632 - Prugna Scuro" fixedID="59">
-<color cs="RGB" tints="0.38823529411764707,0.2,0.44313725490196076"/>
-</cs>
-<cs name="91634 - Viola Scuro" fixedID="60">
-<color cs="RGB" tints="0.33725490196078434,0.34901960784313724,0.6588235294117647"/>
-</cs>
-<cs name="91635 - Bordeaux-Ruggine Scuro" fixedID="61">
-<color cs="RGB" tints="0.42745098039215684,0.1843137254901961,0.23529411764705882"/>
-</cs>
-<cs name="91637 - Rosso Papavero" fixedID="62">
-<color cs="RGB" tints="0.7725490196078432,0.23529411764705882,0.18823529411764706"/>
-</cs>
-<cs name="91639 - Rosso Papavero" fixedID="63">
-<color cs="RGB" tints="0.7294117647058823,0.19215686274509805,0.1411764705882353"/>
-</cs>
-<cs name="91640 - Grigio Ferro Scuro" fixedID="64">
-<color cs="RGB" tints="0.5411764705882353,0.5450980392156862,0.5333333333333333"/>
-</cs>
-<cs name="91641 - Grigio Notte" fixedID="65">
-<color cs="RGB" tints="0.23137254901960785,0.25098039215686274,0.3058823529411765"/>
-</cs>
-<cs name="91643 - Blu Marine" fixedID="66">
-<color cs="RGB" tints="0.16470588235294117,0.2196078431372549,0.3764705882352941"/>
-</cs>
-<cs name="91647 - Verde Pallido" fixedID="67">
-<color cs="RGB" tints="0.6470588235294118,0.8705882352941177,0.7490196078431373"/>
-</cs>
-<cs name="91649 - Verde Smeraldo" fixedID="68">
-<color cs="RGB" tints="0.11764705882352941,0.5529411764705883,0.25882352941176473"/>
-</cs>
-<cs name="91650 - Verde Smeraldo" fixedID="69">
-<color cs="RGB" tints="0.1607843137254902,0.6078431372549019,0.29411764705882354"/>
-</cs>
-<cs name="91651 - Verde Bandiera" fixedID="70">
-<color cs="RGB" tints="0.16470588235294117,0.47058823529411764,0.21568627450980393"/>
-</cs>
-<cs name="91652 - Verde Bandiera" fixedID="71">
-<color cs="RGB" tints="0.10196078431372549,0.44313725490196076,0.21176470588235294"/>
-</cs>
-<cs name="91659 - Marrone Terra Bruciata" fixedID="72">
-<color cs="RGB" tints="0.40784313725490196,0.24705882352941178,0.18823529411764706"/>
-</cs>
-<cs name="91664 - Grigio Piombo Medio" fixedID="73">
-<color cs="RGB" tints="0.32941176470588235,0.34509803921568627,0.33725490196078434"/>
-</cs>
-<cs name="91666 - Giallo Paglierino" fixedID="74">
-<color cs="RGB" tints="0.9803921568627451,0.9921568627450981,0.7568627450980392"/>
-</cs>
-<cs name="91674 - Azzurro Plumbeo" fixedID="75">
-<color cs="RGB" tints="0.6862745098039216,0.796078431372549,0.8705882352941177"/>
-</cs>
-<cs name="91678 - Arancio Aragosta" fixedID="76">
-<color cs="RGB" tints="0.8627450980392157,0.40784313725490196,0.1450980392156863"/>
-</cs>
-<cs name="91682 - Rosa Pallido" fixedID="77">
-<color cs="RGB" tints="0.9725490196078431,0.8588235294117647,0.788235294117647"/>
-</cs>
-<cs name="91683 - Arancio Aragosta Scuro" fixedID="78">
-<color cs="RGB" tints="0.8196078431372549,0.34901960784313724,0.1607843137254902"/>
-</cs>
-<cs name="91684 - Grigio Chiaro" fixedID="79">
-<color cs="RGB" tints="0.6627450980392157,0.6039215686274509,0.4392156862745098"/>
-</cs>
-<cs name="91689 - Grigio Piombo" fixedID="80">
-<color cs="RGB" tints="0.5137254901960784,0.5450980392156862,0.5490196078431373"/>
-</cs>
-<cs name="91694 - Azzurro Cielo Scuro" fixedID="81">
-<color cs="RGB" tints="0.4196078431372549,0.7764705882352941,0.8823529411764706"/>
-</cs>
-<cs name="91695 - Turchese Medio" fixedID="82">
-<color cs="RGB" tints="0.0784313725490196,0.6588235294117647,0.7803921568627451"/>
-</cs>
-<cs name="91701 - Verde Foglia" fixedID="83">
-<color cs="RGB" tints="0.23529411764705882,0.6313725490196078,0.24705882352941178"/>
-</cs>
-<cs name="91702 - Verde Prato" fixedID="84">
-<color cs="RGB" tints="0.4823529411764706,0.6901960784313725,0.4392156862745098"/>
-</cs>
-<cs name="91703 - Verde" fixedID="85">
-<color cs="RGB" tints="0.25098039215686274,0.5568627450980392,0.43137254901960786"/>
-</cs>
-<cs name="91704 - Verde Bosco" fixedID="86">
-<color cs="RGB" tints="0.23137254901960785,0.3568627450980392,0.2823529411764706"/>
-</cs>
-<cs name="91706 - Verde Prato Chiaro" fixedID="87">
-<color cs="RGB" tints="0.6941176470588235,0.6901960784313725,0.3803921568627451"/>
-</cs>
-<cs name="91707 - Fuxia Aranciato" fixedID="88">
-<color cs="RGB" tints="0.8745098039215686,0.32941176470588235,0.4196078431372549"/>
-</cs>
-<cs name="91710 - Vinaccia Chiaro" fixedID="89">
-<color cs="RGB" tints="0.5764705882352941,0.26666666666666666,0.5019607843137255"/>
-</cs>
-<cs name="91719 - Vinaccia Scuro" fixedID="90">
-<color cs="RGB" tints="0.403921568627451,0.3058823529411765,0.44313725490196076"/>
-</cs>
-<cs name="91721 - Fuxia Chiaro Rosato" fixedID="91">
-<color cs="RGB" tints="0.9372549019607843,0.4980392156862745,0.6784313725490196"/>
-</cs>
-<cs name="91724 - Giallo Senape Chiaro" fixedID="92">
-<color cs="RGB" tints="0.9647058823529412,0.8156862745098039,0.08627450980392157"/>
-</cs>
-<cs name="91726 - Rame Scuro" fixedID="93">
-<color cs="RGB" tints="0.7529411764705882,0.5333333333333333,0.3176470588235294"/>
-</cs>
-<cs name="91727 - Giallo Limone Scuro" fixedID="94">
-<color cs="RGB" tints="0.9686274509803922,0.8980392156862745,0.4235294117647059"/>
-</cs>
-<cs name="91729 - Marrone Tortora" fixedID="95">
-<color cs="RGB" tints="0.5176470588235295,0.47058823529411764,0.4196078431372549"/>
-</cs>
-<cs name="91733 - Azzurro Carta Da Zucchero" fixedID="96">
-<color cs="RGB" tints="0.35294117647058826,0.5725490196078431,0.7764705882352941"/>
-</cs>
-<cs name="91734 - Rosso Chiaro" fixedID="97">
-<color cs="RGB" tints="0.8901960784313725,0.3686274509803922,0.3607843137254902"/>
-</cs>
-<cs name="91735 - Giallo Limone Chiaro" fixedID="98">
-<color cs="RGB" tints="0.984313725490196,1.0,0.3411764705882353"/>
-</cs>
-<cs name="91736 - Platino Scuro" fixedID="99">
-<color cs="RGB" tints="0.6901960784313725,0.6784313725490196,0.6039215686274509"/>
-</cs>
-<cs name="91741 - Grigio Ghiaccio Medio" fixedID="100">
-<color cs="RGB" tints="0.596078431372549,0.6196078431372549,0.6431372549019608"/>
-</cs>
-<cs name="91742 - Blu Baltico Scuro" fixedID="101">
-<color cs="RGB" tints="0.21568627450980393,0.3176470588235294,0.4117647058823529"/>
-</cs>
-<cs name="91744 - Marrone Terra Bruciata" fixedID="102">
-<color cs="RGB" tints="0.48627450980392156,0.3215686274509804,0.19215686274509805"/>
-</cs>
-<cs name="91745 - Marrone Tortora Scuro" fixedID="103">
-<color cs="RGB" tints="0.5450980392156862,0.4549019607843137,0.396078431372549"/>
-</cs>
-<cs name="91747 - Rosso Porpora Medio" fixedID="104">
-<color cs="RGB" tints="0.596078431372549,0.11764705882352941,0.13725490196078433"/>
-</cs>
-<cs name="91752 - Rame Chiaro" fixedID="105">
-<color cs="RGB" tints="0.8666666666666667,0.6431372549019608,0.5254901960784314"/>
-</cs>
-<cs name="91753 - Rame" fixedID="106">
-<color cs="RGB" tints="0.7529411764705882,0.5058823529411764,0.33725490196078434"/>
-</cs>
-<cs name="91755 - Arancio Medio" fixedID="107">
-<color cs="RGB" tints="0.9294117647058824,0.49411764705882355,0.21568627450980393"/>
-</cs>
-<cs name="91763 - Arancio Scuro" fixedID="108">
-<color cs="RGB" tints="0.9098039215686274,0.49411764705882355,0.18823529411764706"/>
-</cs>
-<cs name="91765 - Arancio Carota" fixedID="109">
-<color cs="RGB" tints="0.9058823529411765,0.49019607843137253,0.10588235294117647"/>
-</cs>
-<cs name="91768 - Verde Sedano" fixedID="110">
-<color cs="RGB" tints="0.6980392156862745,0.803921568627451,0.3764705882352941"/>
-</cs>
-<cs name="91770 - Verde Scuro" fixedID="111">
-<color cs="RGB" tints="0.24705882352941178,0.4392156862745098,0.2784313725490196"/>
-</cs>
-<cs name="91771 - Giallo Ocra" fixedID="112">
-<color cs="RGB" tints="0.9686274509803922,0.6431372549019608,0.15294117647058825"/>
-</cs>
-<cs name="91772 - Giallo Ocra" fixedID="113">
-<color cs="RGB" tints="0.8666666666666667,0.6901960784313725,0.2549019607843137"/>
-</cs>
-<cs name="91776 - Blu Baltico Chiaro" fixedID="114">
-<color cs="RGB" tints="0.20392156862745098,0.3568627450980392,0.4666666666666667"/>
-</cs>
-<cs name="91778 - Arancio Fluo" fixedID="115">
-<color cs="RGB" tints="1.0,0.49411764705882355,0.27058823529411763"/>
-</cs>
-<cs name="91780 - Verde Bottiglia" fixedID="116">
-<color cs="RGB" tints="0.12549019607843137,0.5215686274509804,0.45098039215686275"/>
-</cs>
-<cs name="91781 - Rosso Amaranto" fixedID="117">
-<color cs="RGB" tints="0.7137254901960784,0.1803921568627451,0.13333333333333333"/>
-</cs>
-<cs name="91782 - Bordeaux-Ruggine Chiaro" fixedID="118">
-<color cs="RGB" tints="0.4470588235294118,0.19607843137254902,0.26666666666666666"/>
-</cs>
-<cs name="91784 - Bordeaux Scuro" fixedID="119">
-<color cs="RGB" tints="0.37254901960784315,0.17254901960784313,0.1803921568627451"/>
-</cs>
-<cs name="91785 - Bordeaux-Ruggine Medio" fixedID="120">
-<color cs="RGB" tints="0.4470588235294118,0.16470588235294117,0.2235294117647059"/>
-</cs>
-<cs name="91787 - Fuxia Rosato" fixedID="121">
-<color cs="RGB" tints="0.8823529411764706,0.34901960784313724,0.5098039215686274"/>
-</cs>
-<cs name="91789 - Prugna Antico" fixedID="122">
-<color cs="RGB" tints="0.37254901960784315,0.28627450980392155,0.3686274509803922"/>
-</cs>
-<cs name="91791 - Oro Antico Scuro" fixedID="123">
-<color cs="RGB" tints="0.7529411764705882,0.6627450980392157,0.4745098039215686"/>
-</cs>
-<cs name="91794 - Verde Oliva Medio" fixedID="124">
-<color cs="RGB" tints="0.4666666666666667,0.4196078431372549,0.23137254901960785"/>
-</cs>
-<cs name="91797 - Turchese Scuro" fixedID="125">
-<color cs="RGB" tints="0.06274509803921569,0.6078431372549019,0.8156862745098039"/>
-</cs>
-<cs name="91799 - Verde Acqua" fixedID="126">
-<color cs="RGB" tints="0.34509803921568627,0.7529411764705882,0.7529411764705882"/>
-</cs>
-<cs name="97803 - Bianco Panna" fixedID="127">
-<color cs="RGB" tints="0.9725490196078431,0.9803921568627451,0.9254901960784314"/>
-</cs>
-<cs name="91809 - Verde Kaki" fixedID="128">
-<color cs="RGB" tints="0.6313725490196078,0.596078431372549,0.37254901960784315"/>
-</cs>
-<cs name="91810 - Grigio Ghiaccio" fixedID="129">
-<color cs="RGB" tints="0.796078431372549,0.8235294117647058,0.792156862745098"/>
-</cs>
-<cs name="91811 - Grigio Piombo Chiaro" fixedID="130">
-<color cs="RGB" tints="0.6313725490196078,0.6784313725490196,0.6784313725490196"/>
-</cs>
-<cs name="91816 - Rosa Baby Chiaro" fixedID="131">
-<color cs="RGB" tints="0.9764705882352941,0.7725490196078432,0.8274509803921568"/>
-</cs>
-<cs name="91823 - Giallo Fluo" fixedID="132">
-<color cs="RGB" tints="0.7607843137254902,1.0,0.10196078431372549"/>
-</cs>
-<cs name="91827 - Azzurro Cielo" fixedID="133">
-<color cs="RGB" tints="0.5725490196078431,0.8274509803921568,0.9254901960784314"/>
-</cs>
-<cs name="91829 - Blu Chiaro" fixedID="134">
-<color cs="RGB" tints="0.1411764705882353,0.5019607843137255,0.7607843137254902"/>
-</cs>
-<cs name="91832 - Malva Scuro" fixedID="135">
-<color cs="RGB" tints="0.37254901960784315,0.25098039215686274,0.5647058823529412"/>
-</cs>
-<cs name="91834 - Lilla Antico Medio" fixedID="136">
-<color cs="RGB" tints="0.7372549019607844,0.6862745098039216,0.8196078431372549"/>
-</cs>
-<cs name="91838 - Rosso Fragola" fixedID="137">
-<color cs="RGB" tints="0.6980392156862745,0.1607843137254902,0.13725490196078433"/>
-</cs>
-<cs name="91839 - Rosso Rubino" fixedID="138">
-<color cs="RGB" tints="0.6862745098039216,0.15294117647058825,0.23137254901960785"/>
-</cs>
-<cs name="91840 - Grigio Medio" fixedID="139">
-<color cs="RGB" tints="0.45098039215686275,0.5019607843137255,0.5254901960784314"/>
-</cs>
-<cs name="91841 - Grigio Piombo Scuro" fixedID="140">
-<color cs="RGB" tints="0.403921568627451,0.49019607843137253,0.5098039215686274"/>
-</cs>
-<cs name="91842 - Blu Cina" fixedID="141">
-<color cs="RGB" tints="0.10980392156862745,0.2627450980392157,0.5294117647058824"/>
-</cs>
-<cs name="91843 - Blu Royal" fixedID="142">
-<color cs="RGB" tints="0.06666666666666667,0.29411764705882354,0.5686274509803921"/>
-</cs>
-<cs name="91844 - Blu Notte" fixedID="143">
-<color cs="RGB" tints="0.15294117647058825,0.23921568627450981,0.34509803921568627"/>
-</cs>
-<cs name="91846 - Verde Smeraldo Chiaro" fixedID="144">
-<color cs="RGB" tints="0.1568627450980392,0.6784313725490196,0.6705882352941176"/>
-</cs>
-<cs name="91847 - Verde Caraibi" fixedID="145">
-<color cs="RGB" tints="0.2784313725490196,0.6549019607843137,0.596078431372549"/>
-</cs>
-<cs name="91848 - Grigio Medio" fixedID="146">
-<color cs="RGB" tints="0.42745098039215684,0.4745098039215686,0.49411764705882355"/>
-</cs>
-<cs name="91852 - Azzurro Ceruleo Chiaro" fixedID="147">
-<color cs="RGB" tints="0.26666666666666666,0.4823529411764706,0.6196078431372549"/>
-</cs>
-<cs name="91854 - Marrone Rosato" fixedID="148">
-<color cs="RGB" tints="0.6588235294117647,0.5803921568627451,0.5647058823529412"/>
-</cs>
-<cs name="91857 - Nocciola" fixedID="149">
-<color cs="RGB" tints="0.796078431372549,0.5372549019607843,0.3411764705882353"/>
-</cs>
-<cs name="91858 - Marrone Rosato Scuro" fixedID="150">
-<color cs="RGB" tints="0.5882352941176471,0.4392156862745098,0.4392156862745098"/>
-</cs>
-<cs name="91867 - Fluo Giallo Acido" fixedID="151">
-<color cs="RGB" tints="0.8509803921568627,1.0,0.5686274509803921"/>
-</cs>
-<cs name="91870 - Arancio Chiaro" fixedID="152">
-<color cs="RGB" tints="0.9686274509803922,0.7372549019607844,0.4627450980392157"/>
-</cs>
-<cs name="91878 - Arancio Aragosta" fixedID="153">
-<color cs="RGB" tints="0.8470588235294118,0.35294117647058826,0.21176470588235294"/>
-</cs>
-<cs name="91880 - Malva Chiaro" fixedID="154">
-<color cs="RGB" tints="0.5647058823529412,0.41568627450980394,0.7333333333333333"/>
-</cs>
-<cs name="91884 - Oro Chiaro" fixedID="155">
-<color cs="RGB" tints="0.9137254901960784,0.8156862745098039,0.6784313725490196"/>
-</cs>
-<cs name="91892 - Azzurro Pallido" fixedID="156">
-<color cs="RGB" tints="0.7490196078431373,0.9254901960784314,0.9333333333333333"/>
-</cs>
-<cs name="91895 - Turchese Chiaro" fixedID="157">
-<color cs="RGB" tints="0.34509803921568627,0.7568627450980392,0.8313725490196079"/>
-</cs>
-<cs name="91896 - Turchese" fixedID="158">
-<color cs="RGB" tints="0.0,0.5725490196078431,0.6705882352941176"/>
-</cs>
-<cs name="91898 - Marrone Ramato" fixedID="159">
-<color cs="RGB" tints="0.4470588235294118,0.2549019607843137,0.20392156862745098"/>
-</cs>
-<cs name="91900 - Verde Menta" fixedID="160">
-<color cs="RGB" tints="0.4823529411764706,0.7411764705882353,0.26666666666666666"/>
-</cs>
-<cs name="91904 - Rosa Baby Scuro" fixedID="161">
-<color cs="RGB" tints="0.9333333333333333,0.7450980392156863,0.8274509803921568"/>
-</cs>
-<cs name="91906 - Verde Oliva Chiaro" fixedID="162">
-<color cs="RGB" tints="0.5882352941176471,0.5058823529411764,0.25882352941176473"/>
-</cs>
-<cs name="91908 - Fluo Rosa" fixedID="163">
-<color cs="RGB" tints="1.0,0.24313725490196078,0.3176470588235294"/>
-</cs>
-<cs name="91909 - Fluo Fuxia Chiaro" fixedID="164">
-<color cs="RGB" tints="1.0,0.4588235294117647,0.615686274509804"/>
-</cs>
-<cs name="91910 - Fuxia Fluo" fixedID="165">
-<color cs="RGB" tints="0.8,0.3137254901960784,0.5411764705882353"/>
-</cs>
-<cs name="91911 - Lilla Antico Chiaro" fixedID="166">
-<color cs="RGB" tints="0.9294117647058824,0.8627450980392157,0.9568627450980393"/>
-</cs>
-<cs name="91915 - Verde Bandiera Scuro" fixedID="167">
-<color cs="RGB" tints="0.1411764705882353,0.4627450980392157,0.2980392156862745"/>
-</cs>
-<cs name="91918 - Grigio Medio" fixedID="168">
-<color cs="RGB" tints="0.5686274509803921,0.592156862745098,0.6"/>
-</cs>
-<cs name="91921 - Rosa Chiaro" fixedID="169">
-<color cs="RGB" tints="0.9411764705882353,0.7019607843137254,0.8117647058823529"/>
-</cs>
-<cs name="91924 - Giallo Acido" fixedID="170">
-<color cs="RGB" tints="0.9647058823529412,0.9176470588235294,0.0"/>
-</cs>
-<cs name="91926 - Giallo Arancio Tenue" fixedID="171">
-<color cs="RGB" tints="0.9647058823529412,0.8117647058823529,0.615686274509804"/>
-</cs>
-<cs name="91927 - Oro Rosato Chiaro" fixedID="172">
-<color cs="RGB" tints="0.9568627450980393,0.8196078431372549,0.6588235294117647"/>
-</cs>
-<cs name="91932 - Azzurro Baby Chiaro" fixedID="173">
-<color cs="RGB" tints="0.6235294117647059,0.8588235294117647,0.9294117647058824"/>
-</cs>
-<cs name="91934 - Celeste Scuro" fixedID="174">
-<color cs="RGB" tints="0.09803921568627451,0.5058823529411764,0.7450980392156863"/>
-</cs>
-<cs name="91938 - Platino Chiaro" fixedID="175">
-<color cs="RGB" tints="0.9686274509803922,0.9411764705882353,0.8549019607843137"/>
-</cs>
-<cs name="91939 - Verde Oliva Grigio Chiaro" fixedID="176">
-<color cs="RGB" tints="0.596078431372549,0.5882352941176471,0.39215686274509803"/>
-</cs>
-<cs name="91941 - Rosa Antico Scuro" fixedID="177">
-<color cs="RGB" tints="0.7686274509803922,0.5803921568627451,0.5725490196078431"/>
-</cs>
-<cs name="91943 - Azzurro Lavanda Chiaro" fixedID="178">
-<color cs="RGB" tints="0.4235294117647059,0.6470588235294118,0.8352941176470589"/>
-</cs>
-<cs name="91945 - Marrone Caffe'" fixedID="179">
-<color cs="RGB" tints="0.36470588235294116,0.26666666666666666,0.23529411764705882"/>
-</cs>
-<cs name="91946 - Fluo Arancio" fixedID="180">
-<color cs="RGB" tints="1.0,0.3215686274509804,0.0784313725490196"/>
-</cs>
-<cs name="91948 - Rosa Shocking" fixedID="181">
-<color cs="RGB" tints="0.996078431372549,0.5450980392156862,0.6352941176470588"/>
-</cs>
-<cs name="91949 - Mezzo Bianco" fixedID="182">
-<color cs="RGB" tints="0.9725490196078431,0.984313725490196,0.9333333333333333"/>
-</cs>
-<cs name="91950 - Fluo Verde" fixedID="183">
-<color cs="RGB" tints="0.5294117647058824,0.9568627450980393,0.48627450980392156"/>
-</cs>
-<cs name="91956 - Verde Oliva Grigio Scuro" fixedID="184">
-<color cs="RGB" tints="0.6549019607843137,0.6352941176470588,0.39215686274509803"/>
-</cs>
-<cs name="91966 - Blu Scuro" fixedID="185">
-<color cs="RGB" tints="0.1607843137254902,0.24705882352941178,0.38823529411764707"/>
-</cs>
-<cs name="91970 - Verde Bosco" fixedID="186">
-<color cs="RGB" tints="0.20784313725490197,0.3568627450980392,0.3058823529411765"/>
-</cs>
-<cs name="91976 - Blu Notte" fixedID="187">
-<color cs="RGB" tints="0.17647058823529413,0.21176470588235294,0.26666666666666666"/>
-</cs>
-<cs name="91977 - Turchese" fixedID="188">
-<color cs="RGB" tints="0.0,0.5490196078431373,0.7529411764705882"/>
-</cs>
-<cs name="91980 - Giallo Limone Medio" fixedID="189">
-<color cs="RGB" tints="0.996078431372549,0.9294117647058824,0.29411764705882354"/>
-</cs>
-<cs name="91981 - Bordeaux Chiaro" fixedID="190">
-<color cs="RGB" tints="0.611764705882353,0.20392156862745098,0.2784313725490196"/>
-</cs>
-<cs name="91982 - Mattone" fixedID="191">
-<color cs="RGB" tints="0.6666666666666666,0.2901960784313726,0.27450980392156865"/>
-</cs>
-<cs name="91984 - Fuxia" fixedID="192">
-<color cs="RGB" tints="0.7490196078431373,0.30196078431372547,0.5254901960784314"/>
-</cs>
-<cs name="91987 - Arancio Aragosta Medio" fixedID="193">
-<color cs="RGB" tints="0.8509803921568627,0.396078431372549,0.18823529411764706"/>
-</cs>
-<cs name="91989 - Verde Prato" fixedID="194">
-<color cs="RGB" tints="0.37254901960784315,0.7411764705882353,0.5254901960784314"/>
-</cs>
-<cs name="91990 - Fuxia" fixedID="195">
-<color cs="RGB" tints="0.8784313725490196,0.403921568627451,0.6235294117647059"/>
-</cs>
-<cs name="91991 - Verde Smeraldo Medio" fixedID="196">
-<color cs="RGB" tints="0.06274509803921569,0.6274509803921569,0.6352941176470588"/>
-</cs>
-<cs name="91995 - Rosso Porpora Scuro" fixedID="197">
-<color cs="RGB" tints="0.6470588235294118,0.1843137254901961,0.19215686274509805"/>
-</cs>
-<cs name="91998 - Marrone Prugna Chiaro" fixedID="198">
-<color cs="RGB" tints="0.5450980392156862,0.3803921568627451,0.38823529411764707"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="523d0063-17a1-46c4-8659-d4573aa13664" name="Embroidery Service - Polyfil" locked="true">
+<colors>
+<page>
+<color name="91001 - Bianco" cs="RGB" tints="0.8745098039215686,0.9372549019607843,1.0" fixedID="1"/>
+<color name="91002 - Bianco Sporco" cs="RGB" tints="0.9647058823529412,0.984313725490196,0.9490196078431372" fixedID="2"/>
+<color name="91005 - Nero" cs="RGB" tints="0.12941176470588237,0.15294117647058825,0.15294117647058825" fixedID="3"/>
+<color name="91015 - Giallo Sole" cs="RGB" tints="0.9686274509803922,0.7137254901960784,0.21176470588235294" fixedID="4"/>
+<color name="91023 - Giallo Crema" cs="RGB" tints="0.996078431372549,0.807843137254902,0.1843137254901961" fixedID="5"/>
+<color name="91028 - Azzurro Carta Zucch. Pal" cs="RGB" tints="0.5333333333333333,0.6941176470588235,0.8" fixedID="6"/>
+<color name="91041 - Grigio Piombo" cs="RGB" tints="0.42745098039215684,0.4627450980392157,0.4588235294117647" fixedID="7"/>
+<color name="91044 - Blu Scuro" cs="RGB" tints="0.2549019607843137,0.3215686274509804,0.41568627450980394" fixedID="8"/>
+<color name="91046 - Marr. Prugna Sc" cs="RGB" tints="0.6352941176470588,0.5176470588235295,0.5333333333333333" fixedID="9"/>
+<color name="91049 - Fuxia Chiaro" cs="RGB" tints="0.9098039215686274,0.6588235294117647,0.792156862745098" fixedID="10"/>
+<color name="91059 - Marrone Testa Di Moro" cs="RGB" tints="0.23137254901960785,0.20784313725490197,0.1843137254901961" fixedID="11"/>
+<color name="91068 - Azzurro Ghiaccio" cs="RGB" tints="0.788235294117647,0.9137254901960784,0.9372549019607843" fixedID="12"/>
+<color name="91070 - Giallo Crema Scuro" cs="RGB" tints="0.9725490196078431,0.8431372549019608,0.5372549019607843" fixedID="13"/>
+<color name="91075 - Azzurro Lavanda Medio" cs="RGB" tints="0.5490196078431373,0.6352941176470588,0.803921568627451" fixedID="14"/>
+<color name="91077 - Verde Acqua" cs="RGB" tints="0.8235294117647058,0.9176470588235294,0.8235294117647058" fixedID="15"/>
+<color name="91082 - Platino Chiaro" cs="RGB" tints="0.9098039215686274,0.8274509803921568,0.6784313725490196" fixedID="16"/>
+<color name="91083 - Giallo Oro" cs="RGB" tints="0.9882352941176471,0.7764705882352941,0.3176470588235294" fixedID="17"/>
+<color name="91094 - Azzurro Ceruleo Medio" cs="RGB" tints="0.11372549019607843,0.4470588235294118,0.5686274509803921" fixedID="18"/>
+<color name="91095 - Azzurro Ceruleo Scuro" cs="RGB" tints="0.10196078431372549,0.43137254901960786,0.5568627450980392" fixedID="19"/>
+<color name="91103 - Verde Bosco Scuro" cs="RGB" tints="0.25882352941176473,0.3137254901960784,0.25098039215686274" fixedID="20"/>
+<color name="91119 - Rosa Antico Chiaro" cs="RGB" tints="0.8705882352941177,0.5764705882352941,0.6745098039215687" fixedID="21"/>
+<color name="91123 - Giallo" cs="RGB" tints="1.0,0.8196078431372549,0.1843137254901961" fixedID="22"/>
+<color name="91137 - Platino" cs="RGB" tints="0.8666666666666667,0.8392156862745098,0.7568627450980392" fixedID="23"/>
+<color name="91143 - Marrone Tortora Scuro" cs="RGB" tints="0.5686274509803921,0.49411764705882355,0.403921568627451" fixedID="24"/>
+<color name="91147 - Rame Medio" cs="RGB" tints="0.6431372549019608,0.34901960784313724,0.25098039215686274" fixedID="25"/>
+<color name="91152 - Marrone Rosato Chiaro" cs="RGB" tints="0.7647058823529411,0.5843137254901961,0.4549019607843137" fixedID="26"/>
+<color name="91164 - Grigio Azzurrato Chiaro" cs="RGB" tints="0.803921568627451,0.8196078431372549,0.8392156862745098" fixedID="27"/>
+<color name="91165 - Grigio Azzurrato Chiaro" cs="RGB" tints="0.7686274509803922,0.7803921568627451,0.8" fixedID="28"/>
+<color name="91167 - Grigio Azzurrato Chiaro" cs="RGB" tints="0.5098039215686274,0.5725490196078431,0.6235294117647059" fixedID="29"/>
+<color name="91179 - Tortora Medio" cs="RGB" tints="0.6352941176470588,0.5372549019607843,0.4666666666666667" fixedID="30"/>
+<color name="91182 - Tortora Scuro" cs="RGB" tints="0.5647058823529412,0.5137254901960784,0.44313725490196076" fixedID="31"/>
+<color name="91190 - Malva" cs="RGB" tints="0.7137254901960784,0.42745098039215684,0.5215686274509804" fixedID="32"/>
+<color name="91195 - Viola Melanzana" cs="RGB" tints="0.2980392156862745,0.22745098039215686,0.5372549019607843" fixedID="33"/>
+<color name="91198 - Blu Avio Scuro" cs="RGB" tints="0.34901960784313724,0.44313725490196076,0.5607843137254902" fixedID="34"/>
+<color name="91200 - Blu Scuro" cs="RGB" tints="0.15294117647058825,0.30980392156862746,0.4745098039215686" fixedID="35"/>
+<color name="91220 - Grigio Ferro" cs="RGB" tints="0.5372549019607843,0.5215686274509804,0.5568627450980392" fixedID="36"/>
+<color name="91282 - Blu Scuro" cs="RGB" tints="0.18823529411764706,0.27450980392156865,0.45098039215686275" fixedID="37"/>
+<color name="91363 - Verde Oliva Scuro" cs="RGB" tints="0.42745098039215684,0.41568627450980394,0.2627450980392157" fixedID="38"/>
+<color name="91364 - Oro Antico" cs="RGB" tints="0.7176470588235294,0.5254901960784314,0.24313725490196078" fixedID="39"/>
+<color name="91367 - Giallo Oro Scuro" cs="RGB" tints="0.984313725490196,0.7647058823529411,0.3333333333333333" fixedID="40"/>
+<color name="91393 - Rosso" cs="RGB" tints="0.7098039215686275,0.23529411764705882,0.20392156862745098" fixedID="41"/>
+<color name="91397 - Marrone Testa Di Moro" cs="RGB" tints="0.2901960784313726,0.24705882352941178,0.2235294117647059" fixedID="42"/>
+<color name="91416 - Violetto Cobalto" cs="RGB" tints="0.30196078431372547,0.33725490196078434,0.6196078431372549" fixedID="43"/>
+<color name="91418 - Malva" cs="RGB" tints="0.7529411764705882,0.7333333333333333,0.8196078431372549" fixedID="44"/>
+<color name="91428 - Azzurro Carta Da Zucchero" cs="RGB" tints="0.3803921568627451,0.596078431372549,0.7333333333333333" fixedID="45"/>
+<color name="91429 - Turchese Scuro" cs="RGB" tints="0.0,0.5254901960784314,0.7803921568627451" fixedID="46"/>
+<color name="91439 - Grigio Scuro" cs="RGB" tints="0.38823529411764707,0.43137254901960786,0.4235294117647059" fixedID="47"/>
+<color name="91508 - Verde Salvia" cs="RGB" tints="0.6862745098039216,0.7490196078431373,0.6078431372549019" fixedID="48"/>
+<color name="91535 - Blu Royal Medio" cs="RGB" tints="0.011764705882352941,0.33725490196078434,0.6431372549019608" fixedID="49"/>
+<color name="91536 - Verde Bosco" cs="RGB" tints="0.17254901960784313,0.33725490196078434,0.2784313725490196" fixedID="50"/>
+<color name="91612 - Grigio Chiaro" cs="RGB" tints="0.6431372549019608,0.6784313725490196,0.6862745098039216" fixedID="51"/>
+<color name="91616 - Arancio Rosato Scuro" cs="RGB" tints="0.8784313725490196,0.43529411764705883,0.38823529411764707" fixedID="52"/>
+<color name="91619 - Grigio Medio" cs="RGB" tints="0.4823529411764706,0.5215686274509804,0.5529411764705883" fixedID="53"/>
+<color name="91620 - Arancio Rosato Chiaro" cs="RGB" tints="0.9607843137254902,0.611764705882353,0.6235294117647059" fixedID="54"/>
+<color name="91621 - Arancio Carota Scuro" cs="RGB" tints="0.8823529411764706,0.47058823529411764,0.2549019607843137" fixedID="55"/>
+<color name="91624 - Giallo Sole" cs="RGB" tints="0.9803921568627451,0.792156862745098,0.3568627450980392" fixedID="56"/>
+<color name="91628 - Azzurro Carta Da Zucchero" cs="RGB" tints="0.4392156862745098,0.6509803921568628,0.792156862745098" fixedID="57"/>
+<color name="91631 - Lilla Scuro" cs="RGB" tints="0.6862745098039216,0.5686274509803921,0.792156862745098" fixedID="58"/>
+<color name="91632 - Prugna Scuro" cs="RGB" tints="0.38823529411764707,0.2,0.44313725490196076" fixedID="59"/>
+<color name="91634 - Viola Scuro" cs="RGB" tints="0.33725490196078434,0.34901960784313724,0.6588235294117647" fixedID="60"/>
+<color name="91635 - Bordeaux-Ruggine Scuro" cs="RGB" tints="0.42745098039215684,0.1843137254901961,0.23529411764705882" fixedID="61"/>
+<color name="91637 - Rosso Papavero" cs="RGB" tints="0.7725490196078432,0.23529411764705882,0.18823529411764706" fixedID="62"/>
+<color name="91639 - Rosso Papavero" cs="RGB" tints="0.7294117647058823,0.19215686274509805,0.1411764705882353" fixedID="63"/>
+<color name="91640 - Grigio Ferro Scuro" cs="RGB" tints="0.5411764705882353,0.5450980392156862,0.5333333333333333" fixedID="64"/>
+<color name="91641 - Grigio Notte" cs="RGB" tints="0.23137254901960785,0.25098039215686274,0.3058823529411765" fixedID="65"/>
+<color name="91643 - Blu Marine" cs="RGB" tints="0.16470588235294117,0.2196078431372549,0.3764705882352941" fixedID="66"/>
+<color name="91647 - Verde Pallido" cs="RGB" tints="0.6470588235294118,0.8705882352941177,0.7490196078431373" fixedID="67"/>
+<color name="91649 - Verde Smeraldo" cs="RGB" tints="0.11764705882352941,0.5529411764705883,0.25882352941176473" fixedID="68"/>
+<color name="91650 - Verde Smeraldo" cs="RGB" tints="0.1607843137254902,0.6078431372549019,0.29411764705882354" fixedID="69"/>
+<color name="91651 - Verde Bandiera" cs="RGB" tints="0.16470588235294117,0.47058823529411764,0.21568627450980393" fixedID="70"/>
+<color name="91652 - Verde Bandiera" cs="RGB" tints="0.10196078431372549,0.44313725490196076,0.21176470588235294" fixedID="71"/>
+<color name="91659 - Marrone Terra Bruciata" cs="RGB" tints="0.40784313725490196,0.24705882352941178,0.18823529411764706" fixedID="72"/>
+<color name="91664 - Grigio Piombo Medio" cs="RGB" tints="0.32941176470588235,0.34509803921568627,0.33725490196078434" fixedID="73"/>
+<color name="91666 - Giallo Paglierino" cs="RGB" tints="0.9803921568627451,0.9921568627450981,0.7568627450980392" fixedID="74"/>
+<color name="91674 - Azzurro Plumbeo" cs="RGB" tints="0.6862745098039216,0.796078431372549,0.8705882352941177" fixedID="75"/>
+<color name="91678 - Arancio Aragosta" cs="RGB" tints="0.8627450980392157,0.40784313725490196,0.1450980392156863" fixedID="76"/>
+<color name="91682 - Rosa Pallido" cs="RGB" tints="0.9725490196078431,0.8588235294117647,0.788235294117647" fixedID="77"/>
+<color name="91683 - Arancio Aragosta Scuro" cs="RGB" tints="0.8196078431372549,0.34901960784313724,0.1607843137254902" fixedID="78"/>
+<color name="91684 - Grigio Chiaro" cs="RGB" tints="0.6627450980392157,0.6039215686274509,0.4392156862745098" fixedID="79"/>
+<color name="91689 - Grigio Piombo" cs="RGB" tints="0.5137254901960784,0.5450980392156862,0.5490196078431373" fixedID="80"/>
+<color name="91694 - Azzurro Cielo Scuro" cs="RGB" tints="0.4196078431372549,0.7764705882352941,0.8823529411764706" fixedID="81"/>
+<color name="91695 - Turchese Medio" cs="RGB" tints="0.0784313725490196,0.6588235294117647,0.7803921568627451" fixedID="82"/>
+<color name="91701 - Verde Foglia" cs="RGB" tints="0.23529411764705882,0.6313725490196078,0.24705882352941178" fixedID="83"/>
+<color name="91702 - Verde Prato" cs="RGB" tints="0.4823529411764706,0.6901960784313725,0.4392156862745098" fixedID="84"/>
+<color name="91703 - Verde" cs="RGB" tints="0.25098039215686274,0.5568627450980392,0.43137254901960786" fixedID="85"/>
+<color name="91704 - Verde Bosco" cs="RGB" tints="0.23137254901960785,0.3568627450980392,0.2823529411764706" fixedID="86"/>
+<color name="91706 - Verde Prato Chiaro" cs="RGB" tints="0.6941176470588235,0.6901960784313725,0.3803921568627451" fixedID="87"/>
+<color name="91707 - Fuxia Aranciato" cs="RGB" tints="0.8745098039215686,0.32941176470588235,0.4196078431372549" fixedID="88"/>
+<color name="91710 - Vinaccia Chiaro" cs="RGB" tints="0.5764705882352941,0.26666666666666666,0.5019607843137255" fixedID="89"/>
+<color name="91719 - Vinaccia Scuro" cs="RGB" tints="0.403921568627451,0.3058823529411765,0.44313725490196076" fixedID="90"/>
+<color name="91721 - Fuxia Chiaro Rosato" cs="RGB" tints="0.9372549019607843,0.4980392156862745,0.6784313725490196" fixedID="91"/>
+<color name="91724 - Giallo Senape Chiaro" cs="RGB" tints="0.9647058823529412,0.8156862745098039,0.08627450980392157" fixedID="92"/>
+<color name="91726 - Rame Scuro" cs="RGB" tints="0.7529411764705882,0.5333333333333333,0.3176470588235294" fixedID="93"/>
+<color name="91727 - Giallo Limone Scuro" cs="RGB" tints="0.9686274509803922,0.8980392156862745,0.4235294117647059" fixedID="94"/>
+<color name="91729 - Marrone Tortora" cs="RGB" tints="0.5176470588235295,0.47058823529411764,0.4196078431372549" fixedID="95"/>
+<color name="91733 - Azzurro Carta Da Zucchero" cs="RGB" tints="0.35294117647058826,0.5725490196078431,0.7764705882352941" fixedID="96"/>
+<color name="91734 - Rosso Chiaro" cs="RGB" tints="0.8901960784313725,0.3686274509803922,0.3607843137254902" fixedID="97"/>
+<color name="91735 - Giallo Limone Chiaro" cs="RGB" tints="0.984313725490196,1.0,0.3411764705882353" fixedID="98"/>
+<color name="91736 - Platino Scuro" cs="RGB" tints="0.6901960784313725,0.6784313725490196,0.6039215686274509" fixedID="99"/>
+<color name="91741 - Grigio Ghiaccio Medio" cs="RGB" tints="0.596078431372549,0.6196078431372549,0.6431372549019608" fixedID="100"/>
+<color name="91742 - Blu Baltico Scuro" cs="RGB" tints="0.21568627450980393,0.3176470588235294,0.4117647058823529" fixedID="101"/>
+<color name="91744 - Marrone Terra Bruciata" cs="RGB" tints="0.48627450980392156,0.3215686274509804,0.19215686274509805" fixedID="102"/>
+<color name="91745 - Marrone Tortora Scuro" cs="RGB" tints="0.5450980392156862,0.4549019607843137,0.396078431372549" fixedID="103"/>
+<color name="91747 - Rosso Porpora Medio" cs="RGB" tints="0.596078431372549,0.11764705882352941,0.13725490196078433" fixedID="104"/>
+<color name="91752 - Rame Chiaro" cs="RGB" tints="0.8666666666666667,0.6431372549019608,0.5254901960784314" fixedID="105"/>
+<color name="91753 - Rame" cs="RGB" tints="0.7529411764705882,0.5058823529411764,0.33725490196078434" fixedID="106"/>
+<color name="91755 - Arancio Medio" cs="RGB" tints="0.9294117647058824,0.49411764705882355,0.21568627450980393" fixedID="107"/>
+<color name="91763 - Arancio Scuro" cs="RGB" tints="0.9098039215686274,0.49411764705882355,0.18823529411764706" fixedID="108"/>
+<color name="91765 - Arancio Carota" cs="RGB" tints="0.9058823529411765,0.49019607843137253,0.10588235294117647" fixedID="109"/>
+<color name="91768 - Verde Sedano" cs="RGB" tints="0.6980392156862745,0.803921568627451,0.3764705882352941" fixedID="110"/>
+<color name="91770 - Verde Scuro" cs="RGB" tints="0.24705882352941178,0.4392156862745098,0.2784313725490196" fixedID="111"/>
+<color name="91771 - Giallo Ocra" cs="RGB" tints="0.9686274509803922,0.6431372549019608,0.15294117647058825" fixedID="112"/>
+<color name="91772 - Giallo Ocra" cs="RGB" tints="0.8666666666666667,0.6901960784313725,0.2549019607843137" fixedID="113"/>
+<color name="91776 - Blu Baltico Chiaro" cs="RGB" tints="0.20392156862745098,0.3568627450980392,0.4666666666666667" fixedID="114"/>
+<color name="91778 - Arancio Fluo" cs="RGB" tints="1.0,0.49411764705882355,0.27058823529411763" fixedID="115"/>
+<color name="91780 - Verde Bottiglia" cs="RGB" tints="0.12549019607843137,0.5215686274509804,0.45098039215686275" fixedID="116"/>
+<color name="91781 - Rosso Amaranto" cs="RGB" tints="0.7137254901960784,0.1803921568627451,0.13333333333333333" fixedID="117"/>
+<color name="91782 - Bordeaux-Ruggine Chiaro" cs="RGB" tints="0.4470588235294118,0.19607843137254902,0.26666666666666666" fixedID="118"/>
+<color name="91784 - Bordeaux Scuro" cs="RGB" tints="0.37254901960784315,0.17254901960784313,0.1803921568627451" fixedID="119"/>
+<color name="91785 - Bordeaux-Ruggine Medio" cs="RGB" tints="0.4470588235294118,0.16470588235294117,0.2235294117647059" fixedID="120"/>
+<color name="91787 - Fuxia Rosato" cs="RGB" tints="0.8823529411764706,0.34901960784313724,0.5098039215686274" fixedID="121"/>
+<color name="91789 - Prugna Antico" cs="RGB" tints="0.37254901960784315,0.28627450980392155,0.3686274509803922" fixedID="122"/>
+<color name="91791 - Oro Antico Scuro" cs="RGB" tints="0.7529411764705882,0.6627450980392157,0.4745098039215686" fixedID="123"/>
+<color name="91794 - Verde Oliva Medio" cs="RGB" tints="0.4666666666666667,0.4196078431372549,0.23137254901960785" fixedID="124"/>
+<color name="91797 - Turchese Scuro" cs="RGB" tints="0.06274509803921569,0.6078431372549019,0.8156862745098039" fixedID="125"/>
+<color name="91799 - Verde Acqua" cs="RGB" tints="0.34509803921568627,0.7529411764705882,0.7529411764705882" fixedID="126"/>
+<color name="97803 - Bianco Panna" cs="RGB" tints="0.9725490196078431,0.9803921568627451,0.9254901960784314" fixedID="127"/>
+<color name="91809 - Verde Kaki" cs="RGB" tints="0.6313725490196078,0.596078431372549,0.37254901960784315" fixedID="128"/>
+<color name="91810 - Grigio Ghiaccio" cs="RGB" tints="0.796078431372549,0.8235294117647058,0.792156862745098" fixedID="129"/>
+<color name="91811 - Grigio Piombo Chiaro" cs="RGB" tints="0.6313725490196078,0.6784313725490196,0.6784313725490196" fixedID="130"/>
+<color name="91816 - Rosa Baby Chiaro" cs="RGB" tints="0.9764705882352941,0.7725490196078432,0.8274509803921568" fixedID="131"/>
+<color name="91823 - Giallo Fluo" cs="RGB" tints="0.7607843137254902,1.0,0.10196078431372549" fixedID="132"/>
+<color name="91827 - Azzurro Cielo" cs="RGB" tints="0.5725490196078431,0.8274509803921568,0.9254901960784314" fixedID="133"/>
+<color name="91829 - Blu Chiaro" cs="RGB" tints="0.1411764705882353,0.5019607843137255,0.7607843137254902" fixedID="134"/>
+<color name="91832 - Malva Scuro" cs="RGB" tints="0.37254901960784315,0.25098039215686274,0.5647058823529412" fixedID="135"/>
+<color name="91834 - Lilla Antico Medio" cs="RGB" tints="0.7372549019607844,0.6862745098039216,0.8196078431372549" fixedID="136"/>
+<color name="91838 - Rosso Fragola" cs="RGB" tints="0.6980392156862745,0.1607843137254902,0.13725490196078433" fixedID="137"/>
+<color name="91839 - Rosso Rubino" cs="RGB" tints="0.6862745098039216,0.15294117647058825,0.23137254901960785" fixedID="138"/>
+<color name="91840 - Grigio Medio" cs="RGB" tints="0.45098039215686275,0.5019607843137255,0.5254901960784314" fixedID="139"/>
+<color name="91841 - Grigio Piombo Scuro" cs="RGB" tints="0.403921568627451,0.49019607843137253,0.5098039215686274" fixedID="140"/>
+<color name="91842 - Blu Cina" cs="RGB" tints="0.10980392156862745,0.2627450980392157,0.5294117647058824" fixedID="141"/>
+<color name="91843 - Blu Royal" cs="RGB" tints="0.06666666666666667,0.29411764705882354,0.5686274509803921" fixedID="142"/>
+<color name="91844 - Blu Notte" cs="RGB" tints="0.15294117647058825,0.23921568627450981,0.34509803921568627" fixedID="143"/>
+<color name="91846 - Verde Smeraldo Chiaro" cs="RGB" tints="0.1568627450980392,0.6784313725490196,0.6705882352941176" fixedID="144"/>
+<color name="91847 - Verde Caraibi" cs="RGB" tints="0.2784313725490196,0.6549019607843137,0.596078431372549" fixedID="145"/>
+<color name="91848 - Grigio Medio" cs="RGB" tints="0.42745098039215684,0.4745098039215686,0.49411764705882355" fixedID="146"/>
+<color name="91852 - Azzurro Ceruleo Chiaro" cs="RGB" tints="0.26666666666666666,0.4823529411764706,0.6196078431372549" fixedID="147"/>
+<color name="91854 - Marrone Rosato" cs="RGB" tints="0.6588235294117647,0.5803921568627451,0.5647058823529412" fixedID="148"/>
+<color name="91857 - Nocciola" cs="RGB" tints="0.796078431372549,0.5372549019607843,0.3411764705882353" fixedID="149"/>
+<color name="91858 - Marrone Rosato Scuro" cs="RGB" tints="0.5882352941176471,0.4392156862745098,0.4392156862745098" fixedID="150"/>
+<color name="91867 - Fluo Giallo Acido" cs="RGB" tints="0.8509803921568627,1.0,0.5686274509803921" fixedID="151"/>
+<color name="91870 - Arancio Chiaro" cs="RGB" tints="0.9686274509803922,0.7372549019607844,0.4627450980392157" fixedID="152"/>
+<color name="91878 - Arancio Aragosta" cs="RGB" tints="0.8470588235294118,0.35294117647058826,0.21176470588235294" fixedID="153"/>
+<color name="91880 - Malva Chiaro" cs="RGB" tints="0.5647058823529412,0.41568627450980394,0.7333333333333333" fixedID="154"/>
+<color name="91884 - Oro Chiaro" cs="RGB" tints="0.9137254901960784,0.8156862745098039,0.6784313725490196" fixedID="155"/>
+<color name="91892 - Azzurro Pallido" cs="RGB" tints="0.7490196078431373,0.9254901960784314,0.9333333333333333" fixedID="156"/>
+<color name="91895 - Turchese Chiaro" cs="RGB" tints="0.34509803921568627,0.7568627450980392,0.8313725490196079" fixedID="157"/>
+<color name="91896 - Turchese" cs="RGB" tints="0.0,0.5725490196078431,0.6705882352941176" fixedID="158"/>
+<color name="91898 - Marrone Ramato" cs="RGB" tints="0.4470588235294118,0.2549019607843137,0.20392156862745098" fixedID="159"/>
+<color name="91900 - Verde Menta" cs="RGB" tints="0.4823529411764706,0.7411764705882353,0.26666666666666666" fixedID="160"/>
+<color name="91904 - Rosa Baby Scuro" cs="RGB" tints="0.9333333333333333,0.7450980392156863,0.8274509803921568" fixedID="161"/>
+<color name="91906 - Verde Oliva Chiaro" cs="RGB" tints="0.5882352941176471,0.5058823529411764,0.25882352941176473" fixedID="162"/>
+<color name="91908 - Fluo Rosa" cs="RGB" tints="1.0,0.24313725490196078,0.3176470588235294" fixedID="163"/>
+<color name="91909 - Fluo Fuxia Chiaro" cs="RGB" tints="1.0,0.4588235294117647,0.615686274509804" fixedID="164"/>
+<color name="91910 - Fuxia Fluo" cs="RGB" tints="0.8,0.3137254901960784,0.5411764705882353" fixedID="165"/>
+<color name="91911 - Lilla Antico Chiaro" cs="RGB" tints="0.9294117647058824,0.8627450980392157,0.9568627450980393" fixedID="166"/>
+<color name="91915 - Verde Bandiera Scuro" cs="RGB" tints="0.1411764705882353,0.4627450980392157,0.2980392156862745" fixedID="167"/>
+<color name="91918 - Grigio Medio" cs="RGB" tints="0.5686274509803921,0.592156862745098,0.6" fixedID="168"/>
+<color name="91921 - Rosa Chiaro" cs="RGB" tints="0.9411764705882353,0.7019607843137254,0.8117647058823529" fixedID="169"/>
+<color name="91924 - Giallo Acido" cs="RGB" tints="0.9647058823529412,0.9176470588235294,0.0" fixedID="170"/>
+<color name="91926 - Giallo Arancio Tenue" cs="RGB" tints="0.9647058823529412,0.8117647058823529,0.615686274509804" fixedID="171"/>
+<color name="91927 - Oro Rosato Chiaro" cs="RGB" tints="0.9568627450980393,0.8196078431372549,0.6588235294117647" fixedID="172"/>
+<color name="91932 - Azzurro Baby Chiaro" cs="RGB" tints="0.6235294117647059,0.8588235294117647,0.9294117647058824" fixedID="173"/>
+<color name="91934 - Celeste Scuro" cs="RGB" tints="0.09803921568627451,0.5058823529411764,0.7450980392156863" fixedID="174"/>
+<color name="91938 - Platino Chiaro" cs="RGB" tints="0.9686274509803922,0.9411764705882353,0.8549019607843137" fixedID="175"/>
+<color name="91939 - Verde Oliva Grigio Chiaro" cs="RGB" tints="0.596078431372549,0.5882352941176471,0.39215686274509803" fixedID="176"/>
+<color name="91941 - Rosa Antico Scuro" cs="RGB" tints="0.7686274509803922,0.5803921568627451,0.5725490196078431" fixedID="177"/>
+<color name="91943 - Azzurro Lavanda Chiaro" cs="RGB" tints="0.4235294117647059,0.6470588235294118,0.8352941176470589" fixedID="178"/>
+<color name="91945 - Marrone Caffe'" cs="RGB" tints="0.36470588235294116,0.26666666666666666,0.23529411764705882" fixedID="179"/>
+<color name="91946 - Fluo Arancio" cs="RGB" tints="1.0,0.3215686274509804,0.0784313725490196" fixedID="180"/>
+<color name="91948 - Rosa Shocking" cs="RGB" tints="0.996078431372549,0.5450980392156862,0.6352941176470588" fixedID="181"/>
+<color name="91949 - Mezzo Bianco" cs="RGB" tints="0.9725490196078431,0.984313725490196,0.9333333333333333" fixedID="182"/>
+<color name="91950 - Fluo Verde" cs="RGB" tints="0.5294117647058824,0.9568627450980393,0.48627450980392156" fixedID="183"/>
+<color name="91956 - Verde Oliva Grigio Scuro" cs="RGB" tints="0.6549019607843137,0.6352941176470588,0.39215686274509803" fixedID="184"/>
+<color name="91966 - Blu Scuro" cs="RGB" tints="0.1607843137254902,0.24705882352941178,0.38823529411764707" fixedID="185"/>
+<color name="91970 - Verde Bosco" cs="RGB" tints="0.20784313725490197,0.3568627450980392,0.3058823529411765" fixedID="186"/>
+<color name="91976 - Blu Notte" cs="RGB" tints="0.17647058823529413,0.21176470588235294,0.26666666666666666" fixedID="187"/>
+<color name="91977 - Turchese" cs="RGB" tints="0.0,0.5490196078431373,0.7529411764705882" fixedID="188"/>
+<color name="91980 - Giallo Limone Medio" cs="RGB" tints="0.996078431372549,0.9294117647058824,0.29411764705882354" fixedID="189"/>
+<color name="91981 - Bordeaux Chiaro" cs="RGB" tints="0.611764705882353,0.20392156862745098,0.2784313725490196" fixedID="190"/>
+<color name="91982 - Mattone" cs="RGB" tints="0.6666666666666666,0.2901960784313726,0.27450980392156865" fixedID="191"/>
+<color name="91984 - Fuxia" cs="RGB" tints="0.7490196078431373,0.30196078431372547,0.5254901960784314" fixedID="192"/>
+<color name="91987 - Arancio Aragosta Medio" cs="RGB" tints="0.8509803921568627,0.396078431372549,0.18823529411764706" fixedID="193"/>
+<color name="91989 - Verde Prato" cs="RGB" tints="0.37254901960784315,0.7411764705882353,0.5254901960784314" fixedID="194"/>
+<color name="91990 - Fuxia" cs="RGB" tints="0.8784313725490196,0.403921568627451,0.6235294117647059" fixedID="195"/>
+<color name="91991 - Verde Smeraldo Medio" cs="RGB" tints="0.06274509803921569,0.6274509803921569,0.6352941176470588" fixedID="196"/>
+<color name="91995 - Rosso Porpora Scuro" cs="RGB" tints="0.6470588235294118,0.1843137254901961,0.19215686274509805" fixedID="197"/>
+<color name="91998 - Marrone Prugna Chiaro" cs="RGB" tints="0.5450980392156862,0.3803921568627451,0.38823529411764707" fixedID="198"/>
+</page>
+</colors>
 </palette>

@@ -1,110 +1,46 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="7319e2e6-7ad0-4ec9-98d8-267c474f94f7" name="Card 304-4 #7 Floss" prefix="" locked="true">
-<colorspaces>
-<cs name="7101 - Flag Blue" fixedID="1">
-<color cs="RGB" tints="0.0,0.0,0.29411764705882354"/>
-</cs>
-<cs name="7102 - Navy" fixedID="2">
-<color cs="RGB" tints="0.0,0.0,0.4"/>
-</cs>
-<cs name="7103 - Royal" fixedID="3">
-<color cs="RGB" tints="0.0,0.2,0.6"/>
-</cs>
-<cs name="7104 - Pacific Blue" fixedID="4">
-<color cs="RGB" tints="0.2549019607843137,0.6,0.6862745098039216"/>
-</cs>
-<cs name="7105 - Resort Blue" fixedID="5">
-<color cs="RGB" tints="0.6666666666666666,0.7843137254901961,1.0"/>
-</cs>
-<cs name="7106 - Lt. Blue" fixedID="6">
-<color cs="RGB" tints="0.9019607843137255,1.0,1.0"/>
-</cs>
-<cs name="7107 - Maroon" fixedID="7">
-<color cs="RGB" tints="0.6,0.2,0.45098039215686275"/>
-</cs>
-<cs name="7108 - Red" fixedID="8">
-<color cs="RGB" tints="1.0,0.0,0.29411764705882354"/>
-</cs>
-<cs name="7109 - Spanish Red" fixedID="9">
-<color cs="RGB" tints="1.0,0.0,0.0"/>
-</cs>
-<cs name="7110 - Rose Pink" fixedID="10">
-<color cs="RGB" tints="1.0,0.7254901960784313,0.7450980392156863"/>
-</cs>
-<cs name="7111 - Spruce" fixedID="11">
-<color cs="RGB" tints="0.0,0.6,0.5098039215686274"/>
-</cs>
-<cs name="7112 - Deep Green" fixedID="12">
-<color cs="RGB" tints="0.0,0.4,0.0"/>
-</cs>
-<cs name="7113 - Kelly" fixedID="13">
-<color cs="RGB" tints="0.0,0.8,0.0"/>
-</cs>
-<cs name="7114 - Olive Drab" fixedID="14">
-<color cs="RGB" tints="0.6,0.6,0.2"/>
-</cs>
-<cs name="7115 - Pastroral Green" fixedID="15">
-<color cs="RGB" tints="0.6,0.8,0.4"/>
-</cs>
-<cs name="7116 - African Brown" fixedID="16">
-<color cs="RGB" tints="0.4,0.2,0.2"/>
-</cs>
-<cs name="7117 - Luggage" fixedID="17">
-<color cs="RGB" tints="0.6,0.4,0.2"/>
-</cs>
-<cs name="7118 - Fawn" fixedID="18">
-<color cs="RGB" tints="0.8,0.7058823529411765,0.6666666666666666"/>
-</cs>
-<cs name="7119 - Sunkist" fixedID="19">
-<color cs="RGB" tints="1.0,0.4,0.0"/>
-</cs>
-<cs name="7120 - Rust" fixedID="20">
-<color cs="RGB" tints="0.8,0.2,0.2"/>
-</cs>
-<cs name="7133 - Old Gold" fixedID="21">
-<color cs="RGB" tints="0.8,0.8,0.2"/>
-</cs>
-<cs name="7121 - Yellow" fixedID="22">
-<color cs="RGB" tints="1.0,1.0,0.43137254901960786"/>
-</cs>
-<cs name="7122 - Gold" fixedID="23">
-<color cs="RGB" tints="1.0,0.8823529411764706,0.0"/>
-</cs>
-<cs name="7123 - Special Dk Gold" fixedID="24">
-<color cs="RGB" tints="0.9803921568627451,0.8627450980392157,0.2"/>
-</cs>
-<cs name="7124 - Goldenlite" fixedID="25">
-<color cs="RGB" tints="1.0,0.8,0.0"/>
-</cs>
-<cs name="7125 - Lt Gold" fixedID="26">
-<color cs="RGB" tints="1.0,0.9411764705882353,0.2"/>
-</cs>
-<cs name="7126 - Maize" fixedID="27">
-<color cs="RGB" tints="1.0,1.0,0.8"/>
-</cs>
-<cs name="7127 - Purple" fixedID="28">
-<color cs="RGB" tints="0.49019607843137253,0.0,0.6"/>
-</cs>
-<cs name="7128 - Silver Grey" fixedID="29">
-<color cs="RGB" tints="0.6,0.6,0.6039215686274509"/>
-</cs>
-<cs name="7129 - Silver Cloud" fixedID="30">
-<color cs="RGB" tints="0.6980392156862745,0.6980392156862745,0.7254901960784313"/>
-</cs>
-<cs name="7130 - Black" fixedID="31">
-<color cs="RGB" tints="0.0,0.0,0.0"/>
-</cs>
-<cs name="7131 - Polar White" fixedID="32">
-<color cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0"/>
-</cs>
-<cs name="7132 - Special White" fixedID="33">
-<color cs="RGB" tints="1.0,1.0,0.9215686274509803"/>
-</cs>
-<cs name="7282S - Silver Metallic" fixedID="34">
-<color cs="RGB" tints="0.7450980392156863,0.7450980392156863,0.7647058823529411"/>
-</cs>
-<cs name="7282G - Gold Metallic" fixedID="35">
-<color cs="RGB" tints="0.9019607843137255,0.7058823529411765,0.35294117647058826"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="b103dda9-5f46-4d32-b5df-6fd7e0b4e429" name="Robison-Anton - Card 304-4 #7 Floss" locked="true">
+<colors>
+<page>
+<color name="7101 - Flag Blue" cs="RGB" tints="0.0,0.0,0.29411764705882354" fixedID="1"/>
+<color name="7102 - Navy" cs="RGB" tints="0.0,0.0,0.4" fixedID="2"/>
+<color name="7103 - Royal" cs="RGB" tints="0.0,0.2,0.6" fixedID="3"/>
+<color name="7104 - Pacific Blue" cs="RGB" tints="0.2549019607843137,0.6,0.6862745098039216" fixedID="4"/>
+<color name="7105 - Resort Blue" cs="RGB" tints="0.6666666666666666,0.7843137254901961,1.0" fixedID="5"/>
+<color name="7106 - Lt. Blue" cs="RGB" tints="0.9019607843137255,1.0,1.0" fixedID="6"/>
+<color name="7107 - Maroon" cs="RGB" tints="0.6,0.2,0.45098039215686275" fixedID="7"/>
+<color name="7108 - Red" cs="RGB" tints="1.0,0.0,0.29411764705882354" fixedID="8"/>
+<color name="7109 - Spanish Red" cs="RGB" tints="1.0,0.0,0.0" fixedID="9"/>
+<color name="7110 - Rose Pink" cs="RGB" tints="1.0,0.7254901960784313,0.7450980392156863" fixedID="10"/>
+<color name="7111 - Spruce" cs="RGB" tints="0.0,0.6,0.5098039215686274" fixedID="11"/>
+<color name="7112 - Deep Green" cs="RGB" tints="0.0,0.4,0.0" fixedID="12"/>
+<color name="7113 - Kelly" cs="RGB" tints="0.0,0.8,0.0" fixedID="13"/>
+<color name="7114 - Olive Drab" cs="RGB" tints="0.6,0.6,0.2" fixedID="14"/>
+<color name="7115 - Pastroral Green" cs="RGB" tints="0.6,0.8,0.4" fixedID="15"/>
+<color name="7116 - African Brown" cs="RGB" tints="0.4,0.2,0.2" fixedID="16"/>
+<color name="7117 - Luggage" cs="RGB" tints="0.6,0.4,0.2" fixedID="17"/>
+<color name="7118 - Fawn" cs="RGB" tints="0.8,0.7058823529411765,0.6666666666666666" fixedID="18"/>
+<color name="7119 - Sunkist" cs="RGB" tints="1.0,0.4,0.0" fixedID="19"/>
+<color name="7120 - Rust" cs="RGB" tints="0.8,0.2,0.2" fixedID="20"/>
+<color name="7133 - Old Gold" cs="RGB" tints="0.8,0.8,0.2" fixedID="21"/>
+<color name="7121 - Yellow" cs="RGB" tints="1.0,1.0,0.43137254901960786" fixedID="22"/>
+<color name="7122 - Gold" cs="RGB" tints="1.0,0.8823529411764706,0.0" fixedID="23"/>
+<color name="7123 - Special Dk Gold" cs="RGB" tints="0.9803921568627451,0.8627450980392157,0.2" fixedID="24"/>
+<color name="7124 - Goldenlite" cs="RGB" tints="1.0,0.8,0.0" fixedID="25"/>
+<color name="7125 - Lt Gold" cs="RGB" tints="1.0,0.9411764705882353,0.2" fixedID="26"/>
+<color name="7126 - Maize" cs="RGB" tints="1.0,1.0,0.8" fixedID="27"/>
+<color name="7127 - Purple" cs="RGB" tints="0.49019607843137253,0.0,0.6" fixedID="28"/>
+<color name="7128 - Silver Grey" cs="RGB" tints="0.6,0.6,0.6039215686274509" fixedID="29"/>
+<color name="7129 - Silver Cloud" cs="RGB" tints="0.6980392156862745,0.6980392156862745,0.7254901960784313" fixedID="30"/>
+<color name="7130 - Black" cs="RGB" tints="0.0,0.0,0.0" fixedID="31"/>
+<color name="7131 - Polar White" cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0" fixedID="32"/>
+<color name="7132 - Special White" cs="RGB" tints="1.0,1.0,0.9215686274509803" fixedID="33"/>
+<color name="7282S - Silver Metallic" cs="RGB" tints="0.7450980392156863,0.7450980392156863,0.7647058823529411" fixedID="34"/>
+<color name="7282G - Gold Metallic" cs="RGB" tints="0.9019607843137255,0.7058823529411765,0.35294117647058826" fixedID="35"/>
+</page>
+</colors>
 </palette>

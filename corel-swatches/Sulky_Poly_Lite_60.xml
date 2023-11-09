@@ -1,113 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="46161359-1393-45e9-8d3f-b1e82ac041ad" name="Poly Lite 60" prefix="" locked="true">
-<colorspaces>
-<cs name="﻿1001" fixedID="1">
-<color cs="RGB" tints="0.9568627450980393,0.9568627450980393,0.9725490196078431"/>
-</cs>
-<cs name="1055" fixedID="2">
-<color cs="RGB" tints="0.9137254901960784,0.6862745098039216,0.43137254901960786"/>
-</cs>
-<cs name="1057" fixedID="3">
-<color cs="RGB" tints="0.4588235294117647,0.13333333333333333,0.07058823529411765"/>
-</cs>
-<cs name="1078" fixedID="4">
-<color cs="RGB" tints="1.0,0.4470588235294118,0.0"/>
-</cs>
-<cs name="1082" fixedID="5">
-<color cs="RGB" tints="0.9725490196078431,0.8941176470588236,0.788235294117647"/>
-</cs>
-<cs name="1126" fixedID="6">
-<color cs="RGB" tints="0.9019607843137255,0.5215686274509804,0.21176470588235294"/>
-</cs>
-<cs name="1128" fixedID="7">
-<color cs="RGB" tints="0.615686274509804,0.396078431372549,0.3058823529411765"/>
-</cs>
-<cs name="1129" fixedID="8">
-<color cs="RGB" tints="0.4627450980392157,0.10980392156862745,0.11372549019607843"/>
-</cs>
-<cs name="1135" fixedID="9">
-<color cs="RGB" tints="1.0,0.8549019607843137,0.4235294117647059"/>
-</cs>
-<cs name="1147" fixedID="10">
-<color cs="RGB" tints="0.7686274509803922,0.0,0.023529411764705882"/>
-</cs>
-<cs name="1187" fixedID="11">
-<color cs="RGB" tints="1.0,0.8392156862745098,0.0"/>
-</cs>
-<cs name="1011" fixedID="12">
-<color cs="RGB" tints="0.5882352941176471,0.5882352941176471,0.5843137254901961"/>
-</cs>
-<cs name="1019" fixedID="13">
-<color cs="RGB" tints="1.0,0.5882352941176471,0.5254901960784314"/>
-</cs>
-<cs name="1020" fixedID="14">
-<color cs="RGB" tints="1.0,0.4588235294117647,0.4392156862745098"/>
-</cs>
-<cs name="1035" fixedID="15">
-<color cs="RGB" tints="0.403921568627451,0.06666666666666667,0.09803921568627451"/>
-</cs>
-<cs name="1193" fixedID="16">
-<color cs="RGB" tints="0.6745098039215687,0.5019607843137255,0.7294117647058823"/>
-</cs>
-<cs name="1194" fixedID="17">
-<color cs="RGB" tints="0.5686274509803921,0.2901960784313726,0.7058823529411765"/>
-</cs>
-<cs name="1195" fixedID="18">
-<color cs="RGB" tints="0.2627450980392157,0.0784313725490196,0.403921568627451"/>
-</cs>
-<cs name="1120" fixedID="19">
-<color cs="RGB" tints="0.9882352941176471,0.9294117647058824,0.9333333333333333"/>
-</cs>
-<cs name="1224" fixedID="20">
-<color cs="RGB" tints="1.0,0.5411764705882353,0.7529411764705882"/>
-</cs>
-<cs name="1225" fixedID="21">
-<color cs="RGB" tints="1.0,0.8235294117647058,0.9450980392156862"/>
-</cs>
-<cs name="1511" fixedID="22">
-<color cs="RGB" tints="1.0,0.18823529411764706,0.5098039215686274"/>
-</cs>
-<cs name="1029" fixedID="23">
-<color cs="RGB" tints="0.41568627450980394,0.5019607843137255,0.8627450980392157"/>
-</cs>
-<cs name="1045" fixedID="24">
-<color cs="RGB" tints="0.5450980392156862,0.796078431372549,0.796078431372549"/>
-</cs>
-<cs name="1051" fixedID="25">
-<color cs="RGB" tints="0.16470588235294117,0.4235294117647059,0.19215686274509805"/>
-</cs>
-<cs name="1176" fixedID="26">
-<color cs="RGB" tints="0.4,0.39215686274509803,0.12941176470588237"/>
-</cs>
-<cs name="1177" fixedID="27">
-<color cs="RGB" tints="0.6823529411764706,0.6980392156862745,0.33725490196078434"/>
-</cs>
-<cs name="1220" fixedID="28">
-<color cs="RGB" tints="0.30196078431372547,0.25098039215686274,0.26666666666666666"/>
-</cs>
-<cs name="1222" fixedID="29">
-<color cs="RGB" tints="0.5529411764705883,0.6980392156862745,0.9411764705882353"/>
-</cs>
-<cs name="1510" fixedID="30">
-<color cs="RGB" tints="0.5725490196078431,0.8313725490196079,0.3607843137254902"/>
-</cs>
-<cs name="1104" fixedID="31">
-<color cs="RGB" tints="0.8,0.8274509803921568,0.5803921568627451"/>
-</cs>
-<cs name="1175" fixedID="32">
-<color cs="RGB" tints="0.3803921568627451,0.3764705882352941,0.24705882352941178"/>
-</cs>
-<cs name="1442" fixedID="33">
-<color cs="RGB" tints="0.0,0.44313725490196076,0.5607843137254902"/>
-</cs>
-<cs name="1005" fixedID="34">
-<color cs="RGB" tints="0.12549019607843137,0.01568627450980392,0.08627450980392157"/>
-</cs>
-<cs name="1042" fixedID="35">
-<color cs="RGB" tints="0.13333333333333333,0.07058823529411765,0.4196078431372549"/>
-</cs>
-<cs name="1253" fixedID="36">
-<color cs="RGB" tints="0.0,0.3411764705882353,0.6352941176470588"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="03fa2c39-dce2-4111-abf7-0b883f342ff4" name="Sulky - Poly Lite 60" locked="true">
+<colors>
+<page>
+<color name="﻿1001" cs="RGB" tints="0.9568627450980393,0.9568627450980393,0.9725490196078431" fixedID="1"/>
+<color name="1055" cs="RGB" tints="0.9137254901960784,0.6862745098039216,0.43137254901960786" fixedID="2"/>
+<color name="1057" cs="RGB" tints="0.4588235294117647,0.13333333333333333,0.07058823529411765" fixedID="3"/>
+<color name="1078" cs="RGB" tints="1.0,0.4470588235294118,0.0" fixedID="4"/>
+<color name="1082" cs="RGB" tints="0.9725490196078431,0.8941176470588236,0.788235294117647" fixedID="5"/>
+<color name="1126" cs="RGB" tints="0.9019607843137255,0.5215686274509804,0.21176470588235294" fixedID="6"/>
+<color name="1128" cs="RGB" tints="0.615686274509804,0.396078431372549,0.3058823529411765" fixedID="7"/>
+<color name="1129" cs="RGB" tints="0.4627450980392157,0.10980392156862745,0.11372549019607843" fixedID="8"/>
+<color name="1135" cs="RGB" tints="1.0,0.8549019607843137,0.4235294117647059" fixedID="9"/>
+<color name="1147" cs="RGB" tints="0.7686274509803922,0.0,0.023529411764705882" fixedID="10"/>
+<color name="1187" cs="RGB" tints="1.0,0.8392156862745098,0.0" fixedID="11"/>
+<color name="1011" cs="RGB" tints="0.5882352941176471,0.5882352941176471,0.5843137254901961" fixedID="12"/>
+<color name="1019" cs="RGB" tints="1.0,0.5882352941176471,0.5254901960784314" fixedID="13"/>
+<color name="1020" cs="RGB" tints="1.0,0.4588235294117647,0.4392156862745098" fixedID="14"/>
+<color name="1035" cs="RGB" tints="0.403921568627451,0.06666666666666667,0.09803921568627451" fixedID="15"/>
+<color name="1193" cs="RGB" tints="0.6745098039215687,0.5019607843137255,0.7294117647058823" fixedID="16"/>
+<color name="1194" cs="RGB" tints="0.5686274509803921,0.2901960784313726,0.7058823529411765" fixedID="17"/>
+<color name="1195" cs="RGB" tints="0.2627450980392157,0.0784313725490196,0.403921568627451" fixedID="18"/>
+<color name="1120" cs="RGB" tints="0.9882352941176471,0.9294117647058824,0.9333333333333333" fixedID="19"/>
+<color name="1224" cs="RGB" tints="1.0,0.5411764705882353,0.7529411764705882" fixedID="20"/>
+<color name="1225" cs="RGB" tints="1.0,0.8235294117647058,0.9450980392156862" fixedID="21"/>
+<color name="1511" cs="RGB" tints="1.0,0.18823529411764706,0.5098039215686274" fixedID="22"/>
+<color name="1029" cs="RGB" tints="0.41568627450980394,0.5019607843137255,0.8627450980392157" fixedID="23"/>
+<color name="1045" cs="RGB" tints="0.5450980392156862,0.796078431372549,0.796078431372549" fixedID="24"/>
+<color name="1051" cs="RGB" tints="0.16470588235294117,0.4235294117647059,0.19215686274509805" fixedID="25"/>
+<color name="1176" cs="RGB" tints="0.4,0.39215686274509803,0.12941176470588237" fixedID="26"/>
+<color name="1177" cs="RGB" tints="0.6823529411764706,0.6980392156862745,0.33725490196078434" fixedID="27"/>
+<color name="1220" cs="RGB" tints="0.30196078431372547,0.25098039215686274,0.26666666666666666" fixedID="28"/>
+<color name="1222" cs="RGB" tints="0.5529411764705883,0.6980392156862745,0.9411764705882353" fixedID="29"/>
+<color name="1510" cs="RGB" tints="0.5725490196078431,0.8313725490196079,0.3607843137254902" fixedID="30"/>
+<color name="1104" cs="RGB" tints="0.8,0.8274509803921568,0.5803921568627451" fixedID="31"/>
+<color name="1175" cs="RGB" tints="0.3803921568627451,0.3764705882352941,0.24705882352941178" fixedID="32"/>
+<color name="1442" cs="RGB" tints="0.0,0.44313725490196076,0.5607843137254902" fixedID="33"/>
+<color name="1005" cs="RGB" tints="0.12549019607843137,0.01568627450980392,0.08627450980392157" fixedID="34"/>
+<color name="1042" cs="RGB" tints="0.13333333333333333,0.07058823529411765,0.4196078431372549" fixedID="35"/>
+<color name="1253" cs="RGB" tints="0.0,0.3411764705882353,0.6352941176470588" fixedID="36"/>
+</page>
+</colors>
 </palette>

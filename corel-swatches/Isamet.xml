@@ -1,53 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<palette guid="033015d0-a5a2-41ab-8ccb-82f048d7a4db" name="Isamet" prefix="" locked="true">
-<colorspaces>
-<cs name="496 - Topaz" fixedID="1">
-<color cs="RGB" tints="0.8627450980392157,0.7843137254901961,0.6274509803921569"/>
-</cs>
-<cs name="491 - Shimmering gold" fixedID="2">
-<color cs="RGB" tints="0.8,0.8,0.2"/>
-</cs>
-<cs name="490 - Sun gold" fixedID="3">
-<color cs="RGB" tints="0.9411764705882353,0.8,0.2"/>
-</cs>
-<cs name="493 - Shimmering gold" fixedID="4">
-<color cs="RGB" tints="0.8,0.8,0.2"/>
-</cs>
-<cs name="492 - Shimmering gold" fixedID="5">
-<color cs="RGB" tints="0.8,0.8,0.2"/>
-</cs>
-<cs name="500 - Shimmering gold" fixedID="6">
-<color cs="RGB" tints="0.8,0.8,0.2"/>
-</cs>
-<cs name="1271 - New gold" fixedID="7">
-<color cs="RGB" tints="0.8627450980392157,0.7843137254901961,0.6274509803921569"/>
-</cs>
-<cs name="1131 - Hazel" fixedID="8">
-<color cs="RGB" tints="0.6,0.2,0.2"/>
-</cs>
-<cs name="502 - Seashell" fixedID="9">
-<color cs="RGB" tints="0.9607843137254902,0.9411764705882353,0.9019607843137255"/>
-</cs>
-<cs name="511 - Cloud" fixedID="10">
-<color cs="RGB" tints="0.8,0.8235294117647058,0.8"/>
-</cs>
-<cs name="501 - Pearl grey" fixedID="11">
-<color cs="RGB" tints="0.8,0.8,0.8"/>
-</cs>
-<cs name="9924 - Mixed Colors" fixedID="12">
-<color cs="RGB" tints="0.0,0.0,0.0"/>
-</cs>
-<cs name="9925 - Mixed Colors" fixedID="13">
-<color cs="RGB" tints="0.0,0.0,0.0"/>
-</cs>
-<cs name="9922 - Mixed Colors" fixedID="14">
-<color cs="RGB" tints="0.0,0.0,0.0"/>
-</cs>
-<cs name="1723 - Very red" fixedID="15">
-<color cs="RGB" tints="1.0,0.0,0.29411764705882354"/>
-</cs>
-<cs name="3543 - Blue" fixedID="16">
-<color cs="RGB" tints="0.6470588235294118,0.6470588235294118,1.0"/>
-</cs>
-</colorspaces>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
+<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="8b71445f-2bb0-45d8-bac0-9df362acbdd7" name="Isamet" locked="true">
+<colors>
+<page>
+<color name="496 - Topaz" cs="RGB" tints="0.8627450980392157,0.7843137254901961,0.6274509803921569" fixedID="1"/>
+<color name="491 - Shimmering gold" cs="RGB" tints="0.8,0.8,0.2" fixedID="2"/>
+<color name="490 - Sun gold" cs="RGB" tints="0.9411764705882353,0.8,0.2" fixedID="3"/>
+<color name="493 - Shimmering gold" cs="RGB" tints="0.8,0.8,0.2" fixedID="4"/>
+<color name="492 - Shimmering gold" cs="RGB" tints="0.8,0.8,0.2" fixedID="5"/>
+<color name="500 - Shimmering gold" cs="RGB" tints="0.8,0.8,0.2" fixedID="6"/>
+<color name="1271 - New gold" cs="RGB" tints="0.8627450980392157,0.7843137254901961,0.6274509803921569" fixedID="7"/>
+<color name="1131 - Hazel" cs="RGB" tints="0.6,0.2,0.2" fixedID="8"/>
+<color name="502 - Seashell" cs="RGB" tints="0.9607843137254902,0.9411764705882353,0.9019607843137255" fixedID="9"/>
+<color name="511 - Cloud" cs="RGB" tints="0.8,0.8235294117647058,0.8" fixedID="10"/>
+<color name="501 - Pearl grey" cs="RGB" tints="0.8,0.8,0.8" fixedID="11"/>
+<color name="9924 - Mixed Colors" cs="RGB" tints="0.0,0.0,0.0" fixedID="12"/>
+<color name="9925 - Mixed Colors" cs="RGB" tints="0.0,0.0,0.0" fixedID="13"/>
+<color name="9922 - Mixed Colors" cs="RGB" tints="0.0,0.0,0.0" fixedID="14"/>
+<color name="1723 - Very red" cs="RGB" tints="1.0,0.0,0.29411764705882354" fixedID="15"/>
+<color name="3543 - Blue" cs="RGB" tints="0.6470588235294118,0.6470588235294118,1.0" fixedID="16"/>
+</page>
+</colors>
 </palette>

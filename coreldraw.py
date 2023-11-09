@@ -30,9 +30,7 @@ def create_thread_chunk(thread, id):
         tints = rgb_to_corel_tints(red, green, blue)
 
         chunk = (
-            f'<cs name="{name}" fixedID="{id}">\n' +
-            f'<color cs="RGB" tints="{tints}"/>\n' +
-            '</cs>\n'
+            f'<color name="{name}" cs="RGB" tints="{tints}" fixedID="{id}"/>\n'
         )
 
         return chunk
@@ -50,15 +48,24 @@ def generate_cdr(threads, palette_name):
         i = i + 1
 
     XML_HEADER = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    PALETTE_HEADER = f'<palette guid="{uuid.uuid4()}" name="{palette_name}" prefix="" locked="true">\n'
+    AUTHOR_BLOCK = '<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->\n'
+    CREDIT_BLOCK = '<!-- Provided for free by The Embroidery Nerds, LLC. -->\n'
+    DISCLAIMER_BLOCK = '<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->\n'
+    DISCLAIMER_BLOCK += '<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->\n'
+    PALETTE_HEADER = f'<palette guid="{uuid.uuid4()}" name="{palette_name}" locked="true">\n'
     PALETTE_FOOTER = '</palette>\n'
 
     output = (
         XML_HEADER +
+        AUTHOR_BLOCK +
+        CREDIT_BLOCK +
+        DISCLAIMER_BLOCK +
         PALETTE_HEADER +
-        '<colorspaces>\n' +
+        '<colors>\n' +
+        '<page>\n' +
         thread_output +
-        '</colorspaces>\n' +
+        '</page>\n' +
+        '</colors>\n' +
         PALETTE_FOOTER
     )
 
@@ -101,7 +108,6 @@ WHERE
 	thread_charts.disabled = 0 ''')  # AND thread_charts.id = 47
 rows = cursor.fetchall()
 for row in rows:
-    # print(row)
     charts.append(row)
 
 
@@ -142,8 +148,12 @@ WHERE
         parsed_threads.append([name, row[2], row[3], row[4], row[5], row[6]])
 
     with open(file_path, 'w', encoding='utf-8-sig') as file:
-        file.write(generate_cdr(parsed_threads, chart[1]))
-    # print(generate_cdr(parsed_threads, chart[1]))
+        if chart[1] == chart[3]:
+            palette_name = chart[1]
+        else:
+            palette_name = f'{chart[3]} - {chart[1]}'
+
+        file.write(generate_cdr(parsed_threads, palette_name))
 
     print(f"Bytes written to '{file_path}' successfully.")
 

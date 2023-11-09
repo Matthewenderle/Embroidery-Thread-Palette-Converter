@@ -1,18 +1,14 @@
-# ThreadChart to Adobe Swatch
+# Embroidery Thread Palette Converter
 
 > A Python script to pull threads from https://threadcharts.com and generate Adobe Illustrator/Photoshop Color Swatches
 
 This script was built to automate the task of creating Adobe Swatch Exchange (.ase) files for several hundered embroidery thread brands and manufactures. It pulls from the online database hosted, by The Embroidery Nerds, to ensure that it is the most extensive library of ASE files.
 
-![img](https://i.imgur.com/63P07nW.png)
+*Disclaimer: The swatch files may contain names that are registered trademarks or copyrighted material owned by their respective owners. The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners.*
 
-## 📦 Python Libraries
-
-### mysql.connector
-
-| Name | Description |
+| Adobe Illustrator | CorelDraw GS 2023 |
 | --- | --- |
-| [`mysql.connector`](https://github.com/mysql/mysql-connector-python) | required to connect to the database and pull data.  |
+|![img](https://i.imgur.com/63P07nW.png) | ![img](https://i.imgur.com/kwMnr95.png)|
 
 
 ## 🎨 Features
@@ -21,24 +17,40 @@ This script was built to automate the task of creating Adobe Swatch Exchange (.a
 * Generate Adobe Swatch Exchange files containing colors with the thread spool label right on the swatch
 * CorelDraw support has been added
 
-## 🐾 Examples
+## 🐾 How to Install/Use the Swatches
 
-### Loading a Swatch Library into Adobe Illustrator
+Download the [repo's files](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/archive/refs/heads/main.zip) from this repository and extract the zip archive. You'll see two folders called `adobe-swatches` and `corel-swatches`. Those folders have the relevant files needed for importing. Then follow the applicable section.
 
-![loading-file](https://i.imgur.com/3fMWKZY.gif)
+#### Adobe Illustrator
+To import all the thread charts, create a folder called *Thread Charts* in `C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Presets\en_US\Swatches\` and copy all the swatches there. You can remove charts you don't need or want to make the list shorter.
 
+Alternatively, with Adobe Illustrator open, you may click on the lower left icon in the *Swatches Panel* to select from installed swatches, and open the *thread_chart.ase* file that you'd like to import.
+
+#### CorelDraw  
+To import all the thread charts, create a folder called *Thread Charts* in `C:\Program Files\Corel\CorelDRAW Graphics Suite 2022\Color\Palettes` and copy all the swatches there. You can remove charts you don't need or want to make the list shorter.
 
 ## Download premade Swatch Files
 
-You can find all the latest swatch files in the [*swatches*](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/tree/main/swatches) folder above. Check out the date next to the files there to see the last time it was updated.
+You can find all the latest Adobe Swatch files in the [*adobe-swatches*](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/tree/main/adobe-swatches) folder above. Check out the date next to the files there to see the last time it was updated.
 
 Please be aware that Adobe *.ase* files are not openable in a text editing program. They are binary files that can only be ran in Adobe products. 
 
 *CorelDraw files are available under [*corel-swatches*](https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch/tree/main/corel-swatches) folder*.
 
+
+### Loading a Swatch Library into Adobe Illustrator
+
+![loading-file](https://i.imgur.com/3fMWKZY.gif)
+
+### Loading a Swatch Library into CorelDraw
+
+![loading-file-coreldraw](https://imgur.com/98RQZn6.gif)
+
 ## Want to run it yourself?
 
 Clone it to local computer. Install python libraries.
+
+*Please Note:* You will need to request access to the ThreadConverter database. Create an issue to request access.
 
 ```sh
 $ git clone https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch.git
@@ -48,3 +60,10 @@ $ python main.py
 $ python coreldraw.py
 ```
 
+## 📦 Python Libraries
+
+### mysql.connector
+
+| Name | Description |
+| --- | --- |
+| [`mysql.connector`](https://github.com/mysql/mysql-connector-python) | required to connect to the database and pull data.  |
