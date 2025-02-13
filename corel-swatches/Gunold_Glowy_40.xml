@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="54797a3a-a275-4462-941e-d1678b051ca3" name="Gunold - Glowy 40" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="d41882b3-12ae-41a4-a6ec-2ff8e7672ca7" name="Gunold - Glowy 40" locked="true">
 <colors>
 <page>
 <color name="﻿08 - white" cs="RGB" tints="1.0,1.0,1.0" fixedID="1"/>

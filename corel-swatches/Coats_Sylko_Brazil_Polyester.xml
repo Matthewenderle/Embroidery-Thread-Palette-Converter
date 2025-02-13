@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="1e156bef-910c-4443-ab9c-1aea9c89709b" name="Coats - Sylko Brazil Polyester" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="a1236904-fc88-4f10-981c-cc72356727b8" name="Coats - Sylko Brazil Polyester" locked="true">
 <colors>
 <page>
 <color name="Y7132 - Angelica" cs="RGB" tints="0.9333333333333333,0.9019607843137255,0.792156862745098" fixedID="1"/>

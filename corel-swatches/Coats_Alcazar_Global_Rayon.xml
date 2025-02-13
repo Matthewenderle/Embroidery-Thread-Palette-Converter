@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="57d33165-9c07-42ca-b204-d911b334a16d" name="Coats - Alcazar Global Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="21148a91-ac26-41af-9c97-20f123bfb376" name="Coats - Alcazar Global Rayon" locked="true">
 <colors>
 <page>
 <color name="0001 - White" cs="RGB" tints="0.9019607843137255,0.9098039215686274,1.0" fixedID="1"/>

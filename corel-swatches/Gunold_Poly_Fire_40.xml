@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="aac3b953-40dd-48b6-bca9-2dda1bb89992" name="Gunold - Poly Fire 40" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="1fb1d72e-c46f-4ee6-a547-9b2998e405d7" name="Gunold - Poly Fire 40" locked="true">
 <colors>
 <page>
 <color name="﻿61002" cs="RGB" tints="0.9607843137254902,0.9333333333333333,0.9490196078431372" fixedID="1"/>

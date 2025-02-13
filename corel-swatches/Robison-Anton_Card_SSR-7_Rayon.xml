@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="dd33fcd2-861c-43b7-b994-c52bc55bfa2c" name="Robison-Anton - Card SSR-7 Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="85b6886f-bf33-4379-be4b-45ae7581634e" name="Robison-Anton - Card SSR-7 Rayon" locked="true">
 <colors>
 <page>
 <color name="2243 - Light Pink" cs="RGB" tints="0.9372549019607843,0.8,0.807843137254902" fixedID="1"/>

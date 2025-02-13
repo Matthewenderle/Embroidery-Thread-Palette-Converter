@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="1cce56c2-5594-43f6-8f23-d5e5efbbfc98" name="Gunold - Glitter 30" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="2b55cabf-6ab6-41fc-ad24-1e4b191587a1" name="Gunold - Glitter 30" locked="true">
 <colors>
 <page>
 <color name="﻿6055" cs="RGB" tints="0.8823529411764706,0.0,0.0" fixedID="1"/>

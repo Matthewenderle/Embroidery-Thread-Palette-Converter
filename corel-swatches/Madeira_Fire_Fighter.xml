@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="2d0d62f6-91f6-4bc7-a138-9de3908cc665" name="Madeira - Fire Fighter" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="67a798e6-29ef-4b27-aef3-5c210701f8a0" name="Madeira - Fire Fighter" locked="true">
 <colors>
 <page>
 <color name="N1845" cs="RGB" tints="0.5607843137254902,0.8392156862745098,0.7411764705882353" fixedID="1"/>

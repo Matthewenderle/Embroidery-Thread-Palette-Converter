@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="74b6cf3d-11fd-4df4-8608-cfa3bd8d0c45" name="Candle - Viscose Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="ac77f234-bad2-475f-b9de-c891e5da3da5" name="Candle - Viscose Rayon" locked="true">
 <colors>
 <page>
 <color name="2071" cs="RGB" tints="0.9294117647058824,0.8901960784313725,0.8235294117647058" fixedID="1"/>

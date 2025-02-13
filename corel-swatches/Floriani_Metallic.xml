@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="ac41bb5c-0eec-4fa8-95d4-abccf80e58b0" name="Floriani - Metallic" locked="true">
+<colors>
+<page>
+<color name="G1 - Angora White" cs="RGB" tints="0.8941176470588236,0.803921568627451,0.7254901960784313" fixedID="1"/>
+<color name="G2 - Blonde Straw" cs="RGB" tints="0.5215686274509804,0.4588235294117647,0.3058823529411765" fixedID="2"/>
+<color name="G3 - Ivory" cs="RGB" tints="0.5490196078431373,0.45098039215686275,0.29411764705882354" fixedID="3"/>
+<color name="G26 - Sunflower" cs="RGB" tints="0.6784313725490196,0.5333333333333333,0.0" fixedID="4"/>
+<color name="G27 - Light Silver" cs="RGB" tints="0.5529411764705883,0.5490196078431373,0.5450980392156862" fixedID="5"/>
+<color name="G28 - Fire Engine Red" cs="RGB" tints="0.8,0.03529411764705882,0.1843137254901961" fixedID="6"/>
+<color name="G29 - True Green" cs="RGB" tints="0.0,0.5176470588235295,0.26666666666666666" fixedID="7"/>
+<color name="G30 - California Blue" cs="RGB" tints="0.0,0.5215686274509804,0.8117647058823529" fixedID="8"/>
+<color name="G31 - Copper" cs="RGB" tints="0.592156862745098,0.41568627450980394,0.30196078431372547" fixedID="9"/>
+<color name="G32 - Royal Blue" cs="RGB" tints="0.10980392156862745,0.1607843137254902,0.6549019607843137" fixedID="10"/>
+<color name="G33 - Deep Sea Turquoise" cs="RGB" tints="0.0,0.7176470588235294,0.7764705882352941" fixedID="11"/>
+<color name="G34 - Starlight Blue" cs="RGB" tints="0.22745098039215686,0.49019607843137253,0.8549019607843137" fixedID="12"/>
+<color name="G35 - Key Lime" cs="RGB" tints="0.7450980392156863,0.8392156862745098,0.0" fixedID="13"/>
+<color name="G36 - Light Pink" cs="RGB" tints="0.996078431372549,0.5803921568627451,0.6705882352941176" fixedID="14"/>
+<color name="G37 - Dark Pink" cs="RGB" tints="0.9372549019607843,0.24705882352941178,0.6745098039215687" fixedID="15"/>
+<color name="G38 - Sea Foam" cs="RGB" tints="0.0,0.6941176470588235,0.6745098039215687" fixedID="16"/>
+<color name="G41 - Orchid" cs="RGB" tints="0.40784313725490196,0.1803921568627451,0.5254901960784314" fixedID="17"/>
+</page>
+</colors>
+</palette>

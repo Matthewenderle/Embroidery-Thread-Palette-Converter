@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="69c5f8fb-2f33-4bc8-97f5-1337b12e9915" name="Floriani - Glow in the Dark" locked="true">
+<colors>
+<page>
+<color name="GL01 - White" cs="RGB" tints="1.0,1.0,1.0" fixedID="1"/>
+<color name="GL02 - Pink" cs="RGB" tints="0.9607843137254902,0.8392156862745098,0.9607843137254902" fixedID="2"/>
+<color name="GL05 - Yellow" cs="RGB" tints="0.9176470588235294,0.996078431372549,0.788235294117647" fixedID="3"/>
+<color name="GL07 - Blue" cs="RGB" tints="0.6745098039215687,0.9333333333333333,0.9764705882352941" fixedID="4"/>
+<color name="GL08 - Purple" cs="RGB" tints="0.6941176470588235,0.7764705882352941,0.9607843137254902" fixedID="5"/>
+</page>
+</colors>
+</palette>

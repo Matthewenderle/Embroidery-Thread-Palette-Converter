@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="6ce25494-3a97-4f7a-98e2-6fa7204937f5" name="Misairu Tsuru" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="30def0f6-dd3b-4487-b4a1-9f1a8f4f364c" name="Misairu Tsuru" locked="true">
 <colors>
 <page>
 <color name="1 - Ivory" cs="RGB" tints="1.0,0.9411764705882353,0.8627450980392157" fixedID="1"/>
@@ -597,9 +597,9 @@
 <color name="495 - Poultry Mauve" cs="RGB" tints="0.47058823529411764,0.39215686274509803,0.49019607843137253" fixedID="589"/>
 <color name="496 - Heather Coal" cs="RGB" tints="0.45098039215686275,0.35294117647058826,0.45098039215686275" fixedID="590"/>
 <color name="431 - Smokey" cs="RGB" tints="0.27450980392156865,0.27450980392156865,0.3137254901960784" fixedID="591"/>
-<color name="0 - Snow White" cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0" fixedID="592"/>
-<color name="0 - Natural White" cs="RGB" tints="1.0,1.0,0.9215686274509803" fixedID="593"/>
-<color name="0 - Black" cs="RGB" tints="0.0,0.0,0.0" fixedID="594"/>
+<color name="0 - Natural White" cs="RGB" tints="1.0,1.0,0.9215686274509803" fixedID="592"/>
+<color name="0 - Black" cs="RGB" tints="0.0,0.0,0.0" fixedID="593"/>
+<color name="0 - Snow White" cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0" fixedID="594"/>
 </page>
 </colors>
 </palette>

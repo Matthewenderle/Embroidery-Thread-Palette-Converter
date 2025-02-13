@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="8dab56a3-c4a8-403d-aa47-10ceb2a9c30b" name="Wonang - 100% Viscose Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="60685587-7dc4-41cf-bd42-9b8e23b82739" name="Wonang - 100% Viscose Rayon" locked="true">
 <colors>
 <page>
 <color name="3001 - White Silver" cs="RGB" tints="0.9607843137254902,0.9607843137254902,0.9607843137254902" fixedID="1"/>

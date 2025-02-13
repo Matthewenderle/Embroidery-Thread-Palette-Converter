@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="5d9c7ac6-d46a-4eb1-b565-c005ffed8e90" name="Floriani - Polyester Embroidery 12wt" locked="true">
+<colors>
+<page>
+<color name="FL12-0900 - Black 900" cs="RGB" tints="0.1803921568627451,0.19215686274509805,0.20392156862745098" fixedID="1"/>
+<color name="FL12-0778 - Amber Beige 778" cs="RGB" tints="0.43137254901960786,0.28627450980392155,0.23529411764705882" fixedID="2"/>
+<color name="FL12-0713 - Antique Bronze 713" cs="RGB" tints="0.5411764705882353,0.2980392156862745,0.20784313725490197" fixedID="3"/>
+<color name="FL12-0542 - 12-Weight Cockatoo 542" cs="RGB" tints="0.9254901960784314,0.8901960784313725,0.26666666666666666" fixedID="4"/>
+<color name="FL12-0540 - Cream 540" cs="RGB" tints="0.9058823529411765,0.9137254901960784,0.6980392156862745" fixedID="5"/>
+<color name="FL12-0537 - Carrot 537" cs="RGB" tints="0.9411764705882353,0.47058823529411764,0.1607843137254902" fixedID="6"/>
+<color name="FL12-0369 - Blue Frost 369" cs="RGB" tints="0.6,0.8235294117647058,0.8588235294117647" fixedID="7"/>
+<color name="FL12-0228 - Cape Green 228" cs="RGB" tints="0.5686274509803921,0.796078431372549,0.4117647058823529" fixedID="8"/>
+<color name="FL12-0100 - 12-Weight Oyster 100" cs="RGB" tints="0.9098039215686274,0.8862745098039215,0.8862745098039215" fixedID="9"/>
+<color name="FL12-0007 - Oriental Blue 007" cs="RGB" tints="0.23137254901960785,0.5333333333333333,0.7411764705882353" fixedID="10"/>
+<color name="FL12-0074 - Medieval Teal 74" cs="RGB" tints="0.00784313725490196,0.4,0.42745098039215684" fixedID="11"/>
+<color name="FL12-0083 - Raspberry Rhapsdy" cs="RGB" tints="0.6901960784313725,0.1568627450980392,0.3686274509803922" fixedID="12"/>
+<color name="FL12-0104 - Rosetta 104" cs="RGB" tints="0.9333333333333333,0.5450980392156862,0.6509803921568628" fixedID="13"/>
+<color name="FL12-0133 - Powder Puff 133" cs="RGB" tints="0.7098039215686275,0.47843137254901963,0.6666666666666666" fixedID="14"/>
+<color name="FL12-0195 - Russet 195" cs="RGB" tints="0.5411764705882353,0.12156862745098039,0.24313725490196078" fixedID="15"/>
+<color name="FL12-0200 - True Green 200" cs="RGB" tints="0.0,0.47843137254901963,0.26666666666666666" fixedID="16"/>
+<color name="FL12-0259 - Grey Wool 259" cs="RGB" tints="0.16470588235294117,0.26666666666666666,0.21176470588235294" fixedID="17"/>
+<color name="FL12-0357 - Navy Blue 357" cs="RGB" tints="0.11764705882352941,0.23137254901960785,0.403921568627451" fixedID="18"/>
+<color name="FL12-0362 - Pastel Blue 362" cs="RGB" tints="0.4470588235294118,0.6705882352941176,0.807843137254902" fixedID="19"/>
+<color name="FL12-0371 - Tahoe Blue 371" cs="RGB" tints="0.16470588235294117,0.6549019607843137,0.7607843137254902" fixedID="20"/>
+<color name="FL12-0433 - Pale Sterl Grey 43" cs="RGB" tints="0.7019607843137254,0.6862745098039216,0.6980392156862745" fixedID="21"/>
+<color name="FL12-0451 - Lt. Taupe 451" cs="RGB" tints="0.6549019607843137,0.596078431372549,0.5490196078431373" fixedID="22"/>
+<color name="FL12-0486 - Slate Gray 486" cs="RGB" tints="0.4,0.4,0.40784313725490196" fixedID="23"/>
+<color name="FL12-0524 - Old Athletic Gold" cs="RGB" tints="0.9450980392156862,0.6666666666666666,0.07450980392156863" fixedID="24"/>
+<color name="FL12-0531 - Vanilla 531" cs="RGB" tints="0.9215686274509803,0.8313725490196079,0.5803921568627451" fixedID="25"/>
+<color name="FL12-0563 - Old Gold 563" cs="RGB" tints="0.6941176470588235,0.5411764705882353,0.24705882352941178" fixedID="26"/>
+<color name="FL12-0603 - Plum Pewter 603" cs="RGB" tints="0.41568627450980394,0.2549019607843137,0.4745098039215686" fixedID="27"/>
+<color name="FL12-0702 - Fire Engine Red 7" cs="RGB" tints="0.792156862745098,0.14901960784313725,0.21176470588235294" fixedID="28"/>
+<color name="FL12-0741 - Pottery Buff 741" cs="RGB" tints="0.8274509803921568,0.6980392156862745,0.5882352941176471" fixedID="29"/>
+<color name="FL12-0800 - Pure White 800" cs="RGB" tints="0.9019607843137255,0.9019607843137255,0.984313725490196" fixedID="30"/>
+</page>
+</colors>
+</palette>

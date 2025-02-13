@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="ac6beea9-3c9a-48a6-b033-1ad57f39c82d" name="Brothread/Brother - Poly" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="01055c22-c916-4b15-99dd-a3f5492bd770" name="Brothread/Brother - Poly" locked="true">
 <colors>
 <page>
 <color name="900 - Black" cs="RGB" tints="0.0,0.0,0.0" fixedID="1"/>

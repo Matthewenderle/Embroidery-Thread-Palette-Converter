@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="03fa2c39-dce2-4111-abf7-0b883f342ff4" name="Sulky - Poly Lite 60" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="b3b99246-e82f-4416-9526-e4bb54e58c98" name="Sulky - Poly Lite 60" locked="true">
 <colors>
 <page>
 <color name="﻿1001" cs="RGB" tints="0.9568627450980393,0.9568627450980393,0.9725490196078431" fixedID="1"/>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="3e06140f-2b25-47e3-8879-409f4dbb380a" name="Quilters Select - Perfect Cotton Plus 2,500yd" locked="true">
+<colors>
+<page>
+<color name="QST60L-0420 - Antique White" cs="RGB" tints="0.9098039215686274,0.9137254901960784,0.9098039215686274" fixedID="1"/>
+<color name="QST60L-0161 - Porcelain" cs="RGB" tints="0.9568627450980393,0.9215686274509803,0.9019607843137255" fixedID="2"/>
+<color name="QST60L-3761 - Fairy Dust" cs="RGB" tints="0.8470588235294118,0.9372549019607843,0.9490196078431372" fixedID="3"/>
+<color name="QST60L-0482 - Nimbus" cs="RGB" tints="0.8470588235294118,0.8666666666666667,0.8823529411764706" fixedID="4"/>
+<color name="QST60L-0900 - Black" cs="RGB" tints="0.14901960784313725,0.14901960784313725,0.1568627450980392" fixedID="5"/>
+<color name="QST60L-0731 - Shale/Sandstone" cs="RGB" tints="0.9098039215686274,0.9058823529411765,0.803921568627451" fixedID="6"/>
+<color name="QST60L-0733 - Sugar Cookie" cs="RGB" tints="0.9529411764705882,0.9058823529411765,0.00784313725490196" fixedID="7"/>
+<color name="QST60L-0800 - White/Pure White" cs="RGB" tints="0.9568627450980393,0.9607843137254902,0.984313725490196" fixedID="8"/>
+</page>
+</colors>
+</palette>

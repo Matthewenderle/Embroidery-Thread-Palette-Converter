@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="09e28c6a-fa62-4c35-868f-3efd2e1e29e1" name="Sulky - Holoshimmmer 30" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="0014b0b6-6d85-46db-a5ba-6d202c39a1d8" name="Sulky - Holoshimmmer 30" locked="true">
 <colors>
 <page>
 <color name="﻿6055" cs="RGB" tints="0.8823529411764706,0.0,0.0" fixedID="1"/>

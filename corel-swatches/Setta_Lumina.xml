@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="16874be1-0e91-42c4-9852-3c5c1e83f255" name="Setta Lumina" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="ba5004ba-c869-49c4-bc9e-244e5bd0366a" name="Setta Lumina" locked="true">
 <colors>
 <page>
 <color name="﻿5000" cs="RGB" tints="0.9803921568627451,1.0,0.9764705882352941" fixedID="1"/>

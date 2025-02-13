@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="a57bb23e-e0f3-429c-837f-4695d1885af7" name="Gem" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="7b217b4c-fe83-456c-ad02-7d3cca43d015" name="Gem" locked="true">
 <colors>
 <page>
 <color name="﻿P018 - Illusion Blue" cs="RGB" tints="0.7647058823529411,0.8431372549019608,0.9294117647058824" fixedID="1"/>

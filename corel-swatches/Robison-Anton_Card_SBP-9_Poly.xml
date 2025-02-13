@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="ef61ef94-885b-49c7-b1af-81770a703e44" name="Robison-Anton - Card SBP-9 Poly" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="75f2e19c-8784-4a22-aa05-c8903a53cda5" name="Robison-Anton - Card SBP-9 Poly" locked="true">
 <colors>
 <page>
 <color name="﻿5597 - Snow White" cs="RGB" tints="0.9372549019607843,0.9568627450980393,1.0" fixedID="1"/>

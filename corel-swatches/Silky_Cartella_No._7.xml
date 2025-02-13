@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="c387a43f-2cd8-4d44-a47e-c00c872dd199" name="Silky Cartella - No. 7" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="9ab88175-a62b-4cc8-9fcb-83ba9f0020fa" name="Silky Cartella - No. 7" locked="true">
 <colors>
 <page>
 <color name="2001 - White" cs="RGB" tints="1.0,1.0,1.0" fixedID="1"/>

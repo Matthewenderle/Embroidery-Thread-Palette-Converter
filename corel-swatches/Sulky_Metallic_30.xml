@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="118870d0-e58e-4246-a747-bc2f416637fa" name="Sulky - Metallic 30" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="a0dc5eeb-eda1-4485-8042-a360ad4fd95b" name="Sulky - Metallic 30" locked="true">
 <colors>
 <page>
 <color name="﻿7001" cs="RGB" tints="0.9686274509803922,0.9686274509803922,0.9686274509803922" fixedID="1"/>

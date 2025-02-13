@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="d4ad7787-e3b6-4167-bdee-3cda8f97c1c4" name="Gunold - Cotty 12" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="4d72205d-38e0-45d5-a3d3-93d82f208aae" name="Gunold - Cotty 12" locked="true">
 <colors>
 <page>
 <color name="﻿010" cs="RGB" tints="0.8784313725490196,0.6941176470588235,0.3607843137254902" fixedID="1"/>

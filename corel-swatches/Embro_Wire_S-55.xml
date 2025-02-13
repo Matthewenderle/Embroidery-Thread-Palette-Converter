@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="f1b3b99b-838f-4934-8e98-a1706dc674e3" name="Embro - Wire S-55" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="29191eff-8fa0-4090-86a6-40be62d7045b" name="Embro - Wire S-55" locked="true">
 <colors>
 <page>
 <color name="70 - Cream" cs="RGB" tints="0.9411764705882353,0.9019607843137255,0.8627450980392157" fixedID="1"/>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="810962ca-b120-4a05-b0c3-42d431399e84" name="Filtex - Card 10195 Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="97aeab47-4394-4917-946c-020f0f811862" name="Filtex - Card 10195 Rayon" locked="true">
 <colors>
 <page>
 <color name="1016 - Daffodil" cs="RGB" tints="0.8,0.8,0.2" fixedID="1"/>

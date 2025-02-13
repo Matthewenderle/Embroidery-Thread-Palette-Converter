@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="385069cf-2cc1-448a-b131-914e02a89601" name="Floriani - Variegated and Mixed" locked="true">
+<colors>
+<page>
+<color name="V11 - V11" cs="RGB" tints="0.0,0.0,0.0" fixedID="1"/>
+<color name="V13 - V13" cs="RGB" tints="0.0,0.0,0.0" fixedID="2"/>
+<color name="V19 - V19" cs="RGB" tints="0.0,0.0,0.0" fixedID="3"/>
+<color name="V22 - V22" cs="RGB" tints="0.0,0.0,0.0" fixedID="4"/>
+<color name="V22B - V22B" cs="RGB" tints="0.0,0.0,0.0" fixedID="5"/>
+<color name="V24 - V24" cs="RGB" tints="0.0,0.0,0.0" fixedID="6"/>
+<color name="V28 - V28" cs="RGB" tints="0.0,0.0,0.0" fixedID="7"/>
+<color name="V30 - V30" cs="RGB" tints="0.0,0.0,0.0" fixedID="8"/>
+<color name="V35 - V35" cs="RGB" tints="0.0,0.0,0.0" fixedID="9"/>
+<color name="V38 - V38" cs="RGB" tints="0.0,0.0,0.0" fixedID="10"/>
+<color name="V48 - V48" cs="RGB" tints="0.0,0.0,0.0" fixedID="11"/>
+<color name="V50 - V50" cs="RGB" tints="0.0,0.0,0.0" fixedID="12"/>
+<color name="V53 - V53" cs="RGB" tints="0.0,0.0,0.0" fixedID="13"/>
+<color name="V55 - V55" cs="RGB" tints="0.0,0.0,0.0" fixedID="14"/>
+<color name="V61 - V61" cs="RGB" tints="0.0,0.0,0.0" fixedID="15"/>
+<color name="V67 - V67" cs="RGB" tints="0.0,0.0,0.0" fixedID="16"/>
+<color name="V69 - V69" cs="RGB" tints="0.0,0.0,0.0" fixedID="17"/>
+<color name="V72 - V72" cs="RGB" tints="0.0,0.0,0.0" fixedID="18"/>
+<color name="V78 - V78" cs="RGB" tints="0.0,0.0,0.0" fixedID="19"/>
+<color name="V83 - V83" cs="RGB" tints="0.0,0.0,0.0" fixedID="20"/>
+<color name="V98B - V98B" cs="RGB" tints="0.0,0.0,0.0" fixedID="21"/>
+<color name="V9304 - V9304" cs="RGB" tints="0.0,0.0,0.0" fixedID="22"/>
+<color name="VXMS - VXMS" cs="RGB" tints="0.0,0.0,0.0" fixedID="23"/>
+<color name="VCAM01 - VCAM01" cs="RGB" tints="0.0,0.0,0.0" fixedID="24"/>
+<color name="VCAM02 - VCAM02" cs="RGB" tints="0.0,0.0,0.0" fixedID="25"/>
+<color name="VCAM03 - VCAM03" cs="RGB" tints="0.0,0.0,0.0" fixedID="26"/>
+<color name="VCAM04 - VCAM04" cs="RGB" tints="0.0,0.0,0.0" fixedID="27"/>
+<color name="VCAM05 - VCAM05" cs="RGB" tints="0.0,0.0,0.0" fixedID="28"/>
+<color name="VCAM06 - VCAM06" cs="RGB" tints="0.0,0.0,0.0" fixedID="29"/>
+<color name="VCAM07 - VCAM07" cs="RGB" tints="0.0,0.0,0.0" fixedID="30"/>
+<color name="V61 - V61" cs="RGB" tints="0.0,0.0,0.0" fixedID="31"/>
+<color name="V67 - V67" cs="RGB" tints="0.0,0.0,0.0" fixedID="32"/>
+<color name="V69 - V69" cs="RGB" tints="0.0,0.0,0.0" fixedID="33"/>
+<color name="V72 - V72" cs="RGB" tints="0.0,0.0,0.0" fixedID="34"/>
+<color name="V78 - V78" cs="RGB" tints="0.0,0.0,0.0" fixedID="35"/>
+<color name="V83 - V83" cs="RGB" tints="0.0,0.0,0.0" fixedID="36"/>
+<color name="V98B - V98B" cs="RGB" tints="0.0,0.0,0.0" fixedID="37"/>
+<color name="V9304 - V9304" cs="RGB" tints="0.0,0.0,0.0" fixedID="38"/>
+<color name="VXMS - VXMS" cs="RGB" tints="0.0,0.0,0.0" fixedID="39"/>
+<color name="FU01 - FU01" cs="RGB" tints="0.0,0.0,0.0" fixedID="40"/>
+<color name="FU02 - FU02" cs="RGB" tints="0.0,0.0,0.0" fixedID="41"/>
+<color name="FU03 - FU03" cs="RGB" tints="0.0,0.0,0.0" fixedID="42"/>
+<color name="FU04 - FU04" cs="RGB" tints="0.0,0.0,0.0" fixedID="43"/>
+<color name="FU05 - FU05" cs="RGB" tints="0.0,0.0,0.0" fixedID="44"/>
+<color name="FU06 - FU06" cs="RGB" tints="0.0,0.0,0.0" fixedID="45"/>
+<color name="FU07 - FU07" cs="RGB" tints="0.0,0.0,0.0" fixedID="46"/>
+<color name="FU08 - FU08" cs="RGB" tints="0.0,0.0,0.0" fixedID="47"/>
+<color name="FU09 - FU09" cs="RGB" tints="0.0,0.0,0.0" fixedID="48"/>
+<color name="FU10 - FU10" cs="RGB" tints="0.0,0.0,0.0" fixedID="49"/>
+<color name="FU11 - FU11" cs="RGB" tints="0.0,0.0,0.0" fixedID="50"/>
+<color name="FU12 - FU12" cs="RGB" tints="0.0,0.0,0.0" fixedID="51"/>
+<color name="FU13 - FU13" cs="RGB" tints="0.0,0.0,0.0" fixedID="52"/>
+<color name="FU14 - FU14" cs="RGB" tints="0.0,0.0,0.0" fixedID="53"/>
+</page>
+</colors>
+</palette>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="3b4c1228-3bfa-4142-b0dd-eda79af11494" name="Madeira - Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="4ec13c12-281d-433d-a06f-080df28df969" name="Madeira - Rayon" locked="true">
 <colors>
 <page>
 <color name="1123 - Parchment" cs="RGB" tints="0.9921568627450981,0.9529411764705882,0.7490196078431373" fixedID="1"/>

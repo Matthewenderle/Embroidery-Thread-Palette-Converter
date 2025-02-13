@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="ddd62417-dacf-48a1-aac2-78cc2382044c" name="Pearl Yacht - 101-3 Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="b678404f-1a04-454c-a0e9-259d2a88f093" name="Pearl Yacht - 101-3 Rayon" locked="true">
 <colors>
 <page>
 <color name="1001 - Snow white" cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0" fixedID="1"/>

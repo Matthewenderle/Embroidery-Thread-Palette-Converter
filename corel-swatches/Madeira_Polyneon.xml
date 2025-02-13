@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="24e56957-4257-4e6c-b897-0591d121fd62" name="Madeira - Polyneon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="2be9d34d-54c1-4231-be22-c8aee6670fab" name="Madeira - Polyneon" locked="true">
 <colors>
 <page>
 <color name="1621 - Rust" cs="RGB" tints="0.7215686274509804,0.3215686274509804,0.10980392156862745" fixedID="1"/>

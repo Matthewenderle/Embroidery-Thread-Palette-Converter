@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
+<!-- Provided for free by The Embroidery Nerds, LLC. -->
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="053785b7-a219-4ce5-bb35-cb072fd36235" name="Quilters Select - Para-Cotton Poly" locked="true">
+<colors>
+<page>
+<color name="55 - Pristine Blue" cs="RGB" tints="0.16470588235294117,0.2235294117647059,0.4235294117647059" fixedID="1"/>
+<color name="102 - Light Pink" cs="RGB" tints="0.9607843137254902,0.8392156862745098,0.8941176470588236" fixedID="2"/>
+<color name="104 - Rosetta" cs="RGB" tints="0.9686274509803922,0.49411764705882355,0.6039215686274509" fixedID="3"/>
+<color name="110 - Pale Peach" cs="RGB" tints="0.9568627450980393,0.8196078431372549,0.8" fixedID="4"/>
+<color name="127 - Hot Pink" cs="RGB" tints="0.9215686274509803,0.2196078431372549,0.4235294117647059" fixedID="5"/>
+<color name="143 - Dark Coral" cs="RGB" tints="0.9647058823529412,0.4117647058823529,0.35294117647058826" fixedID="6"/>
+<color name="172 - Orange" cs="RGB" tints="0.9254901960784314,0.2235294117647059,0.16470588235294117" fixedID="7"/>
+<color name="192 - Deep Rust" cs="RGB" tints="0.6,0.07058823529411765,0.07450980392156863" fixedID="8"/>
+<color name="206 - Wreath Green" cs="RGB" tints="0.15294117647058825,0.26666666666666666,0.12941176470588237" fixedID="9"/>
+<color name="233 - Irish Green" cs="RGB" tints="0.027450980392156862,0.4980392156862745,0.2901960784313726" fixedID="10"/>
+<color name="237 - Bean Green" cs="RGB" tints="0.4588235294117647,0.5215686274509804,0.23921568627450981" fixedID="11"/>
+<color name="275 - Mineral Green" cs="RGB" tints="0.6431372549019608,0.7254901960784313,0.2823529411764706" fixedID="12"/>
+<color name="358 - Navy Satin" cs="RGB" tints="0.12156862745098039,0.0784313725490196,0.23137254901960785" fixedID="13"/>
+<color name="361 - Light Blue" cs="RGB" tints="0.807843137254902,0.9333333333333333,0.9490196078431372" fixedID="14"/>
+<color name="363 - Twinkle Blue" cs="RGB" tints="0.2980392156862745,0.5725490196078431,0.807843137254902" fixedID="15"/>
+<color name="393 - Italian Blue" cs="RGB" tints="0.0,0.2627450980392157,0.29411764705882354" fixedID="16"/>
+<color name="483 - Light Gray" cs="RGB" tints="0.8,0.8549019607843137,0.8549019607843137" fixedID="17"/>
+<color name="485 - Gray" cs="RGB" tints="0.47058823529411764,0.5098039215686274,0.5215686274509804" fixedID="18"/>
+<color name="486 - Slate Gray" cs="RGB" tints="0.30196078431372547,0.2627450980392157,0.26666666666666666" fixedID="19"/>
+<color name="502 - Dandelion" cs="RGB" tints="0.9725490196078431,0.7450980392156863,0.3568627450980392" fixedID="20"/>
+<color name="523 - Goldenrod" cs="RGB" tints="1.0,0.7686274509803922,0.27450980392156865" fixedID="21"/>
+<color name="525 - Athletic Gold" cs="RGB" tints="1.0,0.6196078431372549,0.26666666666666666" fixedID="22"/>
+<color name="560 - Vegas Gold" cs="RGB" tints="1.0,0.8705882352941177,0.38823529411764707" fixedID="23"/>
+<color name="562 - Walnut Taffy" cs="RGB" tints="0.9215686274509803,0.5686274509803921,0.17254901960784313" fixedID="24"/>
+<color name="565 - Harvest" cs="RGB" tints="0.4745098039215686,0.3176470588235294,0.07450980392156863" fixedID="25"/>
+<color name="622 - Geisha" cs="RGB" tints="0.7725490196078432,0.7529411764705882,0.8901960784313725" fixedID="26"/>
+<color name="626 - Deep Iris" cs="RGB" tints="0.4588235294117647,0.21568627450980393,0.4549019607843137" fixedID="27"/>
+<color name="665 - Deep Violet" cs="RGB" tints="0.3137254901960784,0.10196078431372549,0.4588235294117647" fixedID="28"/>
+<color name="700 - Mars Red" cs="RGB" tints="0.8941176470588236,0.10980392156862745,0.09019607843137255" fixedID="29"/>
+<color name="703 - Ruby Red" cs="RGB" tints="0.9019607843137255,0.1411764705882353,0.13725490196078433" fixedID="30"/>
+<color name="730 - Off White" cs="RGB" tints="0.9921568627450981,0.9882352941176471,0.9882352941176471" fixedID="31"/>
+<color name="731 - Sandstone" cs="RGB" tints="0.9607843137254902,0.9647058823529412,0.8941176470588236" fixedID="32"/>
+<color name="739 - Cleveland" cs="RGB" tints="0.2901960784313726,0.19607843137254902,0.11764705882352941" fixedID="33"/>
+<color name="745 - Harvest Brown" cs="RGB" tints="0.5843137254901961,0.3333333333333333,0.16470588235294117" fixedID="34"/>
+<color name="800 - Pure White" cs="RGB" tints="0.984313725490196,0.9921568627450981,0.9882352941176471" fixedID="35"/>
+<color name="801 - Ice Cap" cs="RGB" tints="0.9803921568627451,0.984313725490196,0.984313725490196" fixedID="36"/>
+<color name="811 - Angora White" cs="RGB" tints="0.9529411764705882,0.9215686274509803,0.8117647058823529" fixedID="37"/>
+<color name="900 - Black" cs="RGB" tints="0.0,0.0,0.0" fixedID="38"/>
+<color name="1586 - Cabernet" cs="RGB" tints="0.6039215686274509,0.0784313725490196,0.13333333333333333" fixedID="39"/>
+<color name="P52 - Mediterranean" cs="RGB" tints="0.21568627450980393,0.6039215686274509,0.6509803921568628" fixedID="40"/>
+</page>
+</colors>
+</palette>

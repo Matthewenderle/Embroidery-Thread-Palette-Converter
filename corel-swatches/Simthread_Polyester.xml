@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="a648725c-267b-4c61-9eb7-8e2001bf413d" name="Simthread - Polyester" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="743abe0d-0a40-4573-8e5f-9733ac87389e" name="Simthread - Polyester" locked="true">
 <colors>
 <page>
 <color name="S001 - Black" cs="RGB" tints="0.12549019607843137,0.1411764705882353,0.1411764705882353" fixedID="1"/>

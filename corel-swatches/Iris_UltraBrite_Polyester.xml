@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="2dc72fb8-0ccb-461a-b9d5-51f38a2c542d" name="Iris - UltraBrite Polyester" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="b067eea4-3cf4-494b-97b3-bd94fa5a0a71" name="Iris - UltraBrite Polyester" locked="true">
 <colors>
 <page>
 <color name="1000 - Special Pink" cs="RGB" tints="0.9490196078431372,0.7294117647058823,0.7490196078431373" fixedID="1"/>

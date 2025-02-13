@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="8b233740-2632-42af-9234-59eaa941e96d" name="Tridalia - 100% Trilobal Poly" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="ed1ab6e4-c102-4c8f-b764-26975e2b2508" name="Tridalia - 100% Trilobal Poly" locked="true">
 <colors>
 <page>
 <color name="936 - Snow white" cs="RGB" tints="0.9803921568627451,0.9803921568627451,1.0" fixedID="1"/>

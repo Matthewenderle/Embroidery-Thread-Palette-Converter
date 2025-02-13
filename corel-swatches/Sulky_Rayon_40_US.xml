@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="f107403a-d989-4ea5-8439-f46f9c8b275e" name="Sulky - Rayon 40 (US)" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="e58407b7-1191-4975-b90d-ed7975898e19" name="Sulky - Rayon 40 (US)" locked="true">
 <colors>
 <page>
 <color name="﻿0502 - Cornsilk" cs="RGB" tints="0.9372549019607843,0.7843137254901961,0.06274509803921569" fixedID="1"/>

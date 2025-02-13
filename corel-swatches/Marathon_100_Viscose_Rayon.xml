@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="4c4a010f-15b1-49a8-afa4-998be0e57723" name="Marathon - 100% Viscose Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="e9ad4d16-7b4b-4902-b38d-42a6cd4810e7" name="Marathon - 100% Viscose Rayon" locked="true">
 <colors>
 <page>
 <color name="1001 - Golden Dawn" cs="RGB" tints="0.9803921568627451,1.0,0.8823529411764706" fixedID="1"/>

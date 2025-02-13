@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="841b5f53-0fa6-4184-a230-977d49a267c8" name="ARC - Rayon" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="ac36d0c2-a9b2-4c32-aa1a-040c83983f6f" name="ARC - Rayon" locked="true">
 <colors>
 <page>
 <color name="920" cs="RGB" tints="0.25882352941176473,0.27058823529411763,0.28627450980392155" fixedID="1"/>

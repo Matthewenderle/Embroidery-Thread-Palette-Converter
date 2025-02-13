@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by Matthew Enderle using https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch -->
 <!-- Provided for free by The Embroidery Nerds, LLC. -->
-<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners.-->
-<!--             The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
-<palette guid="915392e3-cdae-4a53-a215-7d2ddd886150" name="Mettler - Silky Sheen" locked="true">
+<!-- Disclaimer: The following XML file may contain names that are registered trademarks or copyrighted material owned by their respective owners. -->
+<!-- The use of such names is for descriptive purposes only. All rights to these names are owned by their respective owners. -->
+<palette guid="70b78d16-a665-4d50-9b92-29b01af248a6" name="Mettler - Silky Sheen" locked="true">
 <colors>
 <page>
 <color name="15 - White" cs="RGB" tints="0.9686274509803922,0.9803921568627451,0.9686274509803922" fixedID="1"/>
