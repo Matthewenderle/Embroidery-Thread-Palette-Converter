@@ -1,6 +1,6 @@
 # Embroidery Thread Palette Converter
 
-> A Python script to pull threads from https://threadcharts.com and generate Adobe Illustrator/Photoshop Color Swatches
+> A Python script to pull threads from https://embroiderynerd.io and generate Adobe Illustrator/Photoshop Color Swatches
 
 This script was built to automate the task of creating Adobe Swatch Exchange (.ase) files for several hundered embroidery thread brands and manufactures. It pulls from the online database hosted, by The Embroidery Nerds, to ensure that it is the most extensive library of ASE files.
 
