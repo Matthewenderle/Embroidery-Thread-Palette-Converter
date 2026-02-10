@@ -2,6 +2,8 @@ import struct
 import configparser
 import psycopg2
 import re
+import os
+from pathlib import Path
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -92,6 +94,131 @@ def sanitize_file_name(file_name):
     sanitized_name = re.sub(r'[^\w\s.-]', '', sanitized_name)
     return sanitized_name
 
+def parse_existing_ase_file(file_path):
+    """Parse existing ASE file to extract thread information and preserve structure"""
+    if not os.path.exists(file_path):
+        return None, {}
+    
+    try:
+        with open(file_path, 'rb') as file:
+            content = file.read()
+            
+        # Skip header and get to the thread data
+        # ASEF header (4) + version (4) + chunk count (4) + palette start chunk (4 + variable length)
+        if content[:4] != b'ASEF':
+            return None, {}
+        
+        threads_data = {}
+        palette_name = ""
+        
+        # Find palette name
+        palette_start_pos = content.find(b'\xC0\x01\x00\x00')
+        if palette_start_pos != -1:
+            palette_length_pos = palette_start_pos + 4
+            palette_length = struct.unpack('>H', content[palette_length_pos:palette_length_pos + 2])[0]
+            name_length_pos = palette_length_pos + 2
+            name_length = struct.unpack('>H', content[name_length_pos:name_length_pos + 2])[0]
+            name_start = name_length_pos + 2
+            name_end = name_start + (name_length - 1) * 2  # UTF-16BE
+            
+            try:
+                palette_name = content[name_start:name_end].decode('utf-16be')
+            except:
+                palette_name = ""
+        
+        # Parse thread swatches
+        pos = 12  # Start after ASEF header
+        while pos < len(content):
+            if pos + 4 > len(content):
+                break
+                
+            chunk_type = content[pos:pos + 4]
+            
+            if chunk_type == b'\x00\x01\x00\x00':  # Thread swatch
+                if pos + 6 > len(content):
+                    break
+                    
+                chunk_length = struct.unpack('>H', content[pos + 4:pos + 6])[0]
+                name_length = struct.unpack('>H', content[pos + 6:pos + 8])[0]
+                
+                if pos + 8 + (name_length - 1) * 2 > len(content):
+                    break
+                
+                name_bytes = content[pos + 8:pos + 8 + (name_length - 1) * 2]
+                try:
+                    thread_name = name_bytes.decode('utf-16be')
+                except:
+                    thread_name = "Unknown"
+                
+                # Extract RGB values (they're after the name + some padding)
+                rgb_start = pos + 8 + (name_length - 1) * 2 + 2 + 4  # name + padding + "RGB "
+                if rgb_start + 12 <= len(content):
+                    r_bytes = content[rgb_start:rgb_start + 4]
+                    g_bytes = content[rgb_start + 4:rgb_start + 8]
+                    b_bytes = content[rgb_start + 8:rgb_start + 12]
+                    
+                    # Convert from IEEE 754 float back to RGB values
+                    r_float = struct.unpack('>f', r_bytes)[0]
+                    g_float = struct.unpack('>f', g_bytes)[0]
+                    b_float = struct.unpack('>f', b_bytes)[0]
+                    
+                    r = int(r_float * 255)
+                    g = int(g_float * 255)
+                    b = int(b_float * 255)
+                    
+                    threads_data[thread_name] = {'red': r, 'green': g, 'blue': b}
+                
+                pos += chunk_length + 6
+            else:
+                # Skip non-thread chunks
+                if pos + 6 > len(content):
+                    break
+                chunk_length = struct.unpack('>H', content[pos + 4:pos + 6])[0]
+                pos += chunk_length + 6
+        
+        return palette_name, threads_data
+    except Exception as e:
+        print(f"Warning: Could not parse existing file {file_path}: {e}")
+        return None, {}
+
+def threads_are_different(db_threads, file_threads, palette_name_db, palette_name_file):
+    """Compare database threads with file threads to detect changes"""
+    if palette_name_db != palette_name_file:
+        return True
+    
+    # Create a set of thread names from database
+    db_thread_names = set()
+    db_thread_data = {}
+    
+    for thread in db_threads:
+        code = thread[0] if len(thread) > 0 else "Unknown"
+        name = thread[1] if len(thread) > 1 and thread[1] is not None else ""
+        red = thread[2] if len(thread) > 2 and thread[2] is not None else 0
+        green = thread[3] if len(thread) > 3 and thread[3] is not None else 0
+        blue = thread[4] if len(thread) > 4 and thread[4] is not None else 0
+        
+        full_name = f"{code} - {name}" if name else code
+        db_thread_names.add(full_name)
+        db_thread_data[full_name] = {'red': red, 'green': green, 'blue': blue}
+    
+    file_thread_names = set(file_threads.keys())
+    
+    # Check if thread sets are different
+    if db_thread_names != file_thread_names:
+        return True
+    
+    # Check if any thread colors are different
+    for name in db_thread_names:
+        if name in file_threads:
+            db_color = db_thread_data[name]
+            file_color = file_threads[name]
+            if (db_color['red'] != file_color['red'] or 
+                db_color['green'] != file_color['green'] or 
+                db_color['blue'] != file_color['blue']):
+                return True
+    
+    return False
+
 db_params = {
     'host': config.get('Database', 'host'),
     'dbname': config.get('Database', 'database'),
@@ -122,11 +249,21 @@ for chart in charts:
     
     parsed_threads = [[row[i] if i < len(row) else None for i in range(5)] for row in threads]
     
-    with open(file_path, 'w+b') as file:
-        palette_name = chart[1] if chart[1] == chart[3] else f'{chart[3]} - {chart[1]}'
-        file.write(generate_hex(parsed_threads, palette_name))
+    # Parse existing file to check for changes
+    palette_name = chart[1] if chart[1] == chart[3] else f'{chart[3]} - {chart[1]}'
+    existing_palette_name, existing_threads = parse_existing_ase_file(file_path)
     
-    print(f"Bytes written to '{file_path}' successfully.")
+    # Only write file if there are changes
+    if threads_are_different(parsed_threads, existing_threads, palette_name, existing_palette_name):
+        # Ensure directory exists
+        Path(file_path).parent.mkdir(parents=True, exist_ok=True)
+        
+        with open(file_path, 'w+b') as file:
+            file.write(generate_hex(parsed_threads, palette_name))
+        
+        print(f"Updated '{file_path}' - changes detected.")
+    else:
+        print(f"Skipped '{file_path}' - no changes detected.")
 
 cursor.close()
 conn.close()
