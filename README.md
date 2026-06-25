@@ -54,17 +54,25 @@ _Please Note:_ You will need to request access to the ThreadConverter database. 
 
 ```sh
 $ git clone https://github.com/Matthewenderle/ThreadChart-to-Adobe-Swatch.git
-$ pip install psycopg2
+$ cd ThreadChart-to-Adobe-Swatch
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+$ python -m pip install --upgrade pip
+$ python -m pip install psycopg2-binary
 # rename sample.config.ini to config.ini and enter the database connection details
 $ python main.py
 # or to generate CorelDraw files
 $ python coreldraw.py
 ```
 
+If your shell says `pip: command not found`, use `python -m pip ...` inside the virtual environment as shown above.
+
+If you specifically need source builds (`psycopg2`), install PostgreSQL client tools first so `pg_config` is available on your `PATH`.
+
 ## 📦 Python Libraries
 
-### psycopg2
+### psycopg2-binary
 
-| Name                                              | Description                                        |
-| ------------------------------------------------- | -------------------------------------------------- |
-| [`psycopg2`](https://github.com/psycopg/psycopg2) | required to connect to the database and pull data. |
+| Name                                                            | Description                                                                    |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [`psycopg2-binary`](https://pypi.org/project/psycopg2-binary/) | prebuilt PostgreSQL adapter for Python; avoids local compile toolchain issues. |
